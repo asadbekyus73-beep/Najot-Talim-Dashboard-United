@@ -1,0 +1,1366 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Sotuv bolimi dashboardi: menejerlar reja bajarilishi boyicha daraxt darajalariga ajratilgan.">
+<style>img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Sotuv Daraxti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root {
+  color-scheme: light;
+
+  --plane:        #eceee6;
+  --surface:      #fbfcf8;
+  --surface-2:    #f4f6ee;
+  --surface-3:    #e6e9dd;
+
+  --ink:          #161a12;
+  --ink-2:        #525a49;
+  --ink-3:        #7d8571;
+
+  --hairline:     #dcdfd2;
+  --rule:         #c4c9b6;
+
+  --accent:       #7a4a1f;
+  --accent-soft:  #efe4d8;
+
+  /* Daraja shkalasi — validatsiyadan o'tgan (CVD ΔE 11.2 / normal ΔE 26.0) */
+  --tier-1:       #0ca30c;
+  --tier-2:       #f0b400;
+  --tier-3:       #a81f2e;
+
+  --s1:           #2a78d6;
+  --s1-soft:      rgba(42,120,214,0.13);
+  --s2:           #eb6834;
+
+  --f1: #86b6ef; --f2: #5598e7; --f3: #2a78d6;
+  --f4: #1c5cab; --f5: #104281; --f6: #0a2a54;
+
+  --up:           #006300;
+  --down:         #a81f2e;
+
+  --bark:         #6b4520;
+  --bark-2:       #8a5c2e;
+
+  --shadow:       0 1px 2px rgba(22,26,18,0.05), 0 6px 18px -10px rgba(22,26,18,0.16);
+
+  --font-display: "Archivo", "Segoe UI", system-ui, sans-serif;
+  --font-body:    "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono:    "IBM Plex Mono", ui-monospace, "Cascadia Mono", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --plane:       #11130e;
+    --surface:     #1b1e17;
+    --surface-2:   #232720;
+    --surface-3:   #2c3128;
+    --ink:         #f4f6ee;
+    --ink-2:       #b9c0ab;
+    --ink-3:       #8b937f;
+    --hairline:    #2b2f24;
+    --rule:        #3f4536;
+    --accent:      #d29456;
+    --accent-soft: #2c2218;
+    --tier-1:      #24ad24;
+    --tier-2:      #f0b400;
+    --tier-3:      #e0526b;
+    --s1:          #3987e5;
+    --s1-soft:     rgba(57,135,229,0.18);
+    --s2:          #d95926;
+    --f1: #cde2fb; --f2: #9ec5f4; --f3: #6da7ec;
+    --f4: #3987e5; --f5: #256abf; --f6: #184f95;
+    --up:          #0ca30c;
+    --down:        #e0526b;
+    --bark:        #8a5c2e;
+    --bark-2:      #a8763f;
+    --shadow:      0 1px 2px rgba(0,0,0,0.4), 0 6px 18px -10px rgba(0,0,0,0.6);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --plane:       #11130e;
+  --surface:     #1b1e17;
+  --surface-2:   #232720;
+  --surface-3:   #2c3128;
+  --ink:         #f4f6ee;
+  --ink-2:       #b9c0ab;
+  --ink-3:       #8b937f;
+  --hairline:    #2b2f24;
+  --rule:        #3f4536;
+  --accent:      #d29456;
+  --accent-soft: #2c2218;
+  --tier-1:      #24ad24;
+  --tier-2:      #f0b400;
+  --tier-3:      #e0526b;
+  --s1:          #3987e5;
+  --s1-soft:     rgba(57,135,229,0.18);
+  --s2:          #d95926;
+  --f1: #cde2fb; --f2: #9ec5f4; --f3: #6da7ec;
+  --f4: #3987e5; --f5: #256abf; --f6: #184f95;
+  --up:          #0ca30c;
+  --down:        #e0526b;
+  --bark:        #8a5c2e;
+  --bark-2:      #a8763f;
+  --shadow:      0 1px 2px rgba(0,0,0,0.4), 0 6px 18px -10px rgba(0,0,0,0.6);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--plane);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 28px 24px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+/* ---------- header ---------- */
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  padding-bottom: 18px;
+  border-bottom: 2px solid var(--rule);
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 6px;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 118, "wght" 700;
+  font-size: clamp(30px, 4.4vw, 46px);
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.mast-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 26px;
+  align-items: flex-end;
+}
+
+.meta-item .meta-k {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  display: block;
+}
+
+.meta-item .meta-v {
+  font-size: 14px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+}
+
+.demo-flag {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 5px 11px 5px 9px;
+  border: 1px dashed var(--accent);
+  border-radius: 3px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.demo-flag::before {
+  content: "";
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  flex: none;
+}
+
+/* ---------- panels ---------- */
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  box-shadow: var(--shadow);
+}
+
+.panel-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 18px 12px;
+}
+
+.panel-head h2 {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 112, "wght" 600;
+  font-size: 17px;
+  letter-spacing: -0.005em;
+  margin: 0;
+}
+
+.panel-sub {
+  font-size: 12px;
+  color: var(--ink-3);
+  margin: 3px 0 0;
+  max-width: 62ch;
+}
+
+.panel-body { padding: 4px 18px 18px; }
+
+/* ---------- KPI ---------- */
+
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--hairline);
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.kpi {
+  background: var(--surface);
+  padding: 15px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+}
+
+.kpi.is-lead { background: var(--surface-2); }
+
+.kpi-k {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.kpi-v {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+
+.kpi-v .unit {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink-2);
+  margin-left: 3px;
+  letter-spacing: 0;
+}
+
+.kpi-d {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-2);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.kpi-d .arw { font-size: 10px; }
+.kpi-d.up   { color: var(--up); }
+.kpi-d.down { color: var(--down); }
+
+/* ---------- tier chips ---------- */
+
+.tier-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 0 18px 12px;
+}
+
+.tier-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px 6px 9px;
+  border: 1px solid var(--hairline);
+  border-radius: 3px;
+  background: var(--surface-2);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  cursor: pointer;
+  transition: border-color .12s, background .12s;
+}
+
+.tier-chip:hover { border-color: var(--rule); }
+.tier-chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.tier-chip[aria-pressed="true"] { background: var(--surface-3); border-color: var(--ink-3); }
+
+.tier-chip .glyph {
+  font-size: 11px;
+  line-height: 1;
+  width: 14px;
+  text-align: center;
+}
+
+.tier-chip .cnt {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.chip-reset {
+  margin-left: auto;
+  border: none;
+  background: none;
+  color: var(--accent);
+  font-family: var(--font-body);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 6px 4px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.chip-reset:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.chip-reset[hidden] { display: none; }
+
+/* ---------- tree ---------- */
+
+.tree-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 268px;
+  gap: 18px;
+  padding: 0 18px 18px;
+  align-items: start;
+}
+
+.svg-scroll { overflow-x: auto; }
+.svg-scroll svg { display: block; width: 100%; min-width: 880px; height: auto; }
+
+.tree-wrap { position: relative; }
+
+/* SVG text roles */
+.ax-tick   { font-family: var(--font-mono); font-size: 11px; fill: var(--ink-3); }
+.ax-title  { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.11em; fill: var(--ink-3); }
+.tier-name { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.1em; fill: var(--ink-2); }
+.tier-cnt  { font-family: var(--font-mono); font-size: 10px; fill: var(--ink-3); }
+.node-name { font-family: var(--font-body); font-size: 13px; font-weight: 500; fill: var(--ink); }
+.node-sub  { font-family: var(--font-mono); font-size: 10.5px; fill: var(--ink-2); }
+.root-lbl  { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.06em; fill: var(--ink-2); }
+.plan-lbl  { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.1em; fill: var(--ink-2); }
+
+.mgr-node { cursor: pointer; transition: opacity .15s; }
+.mgr-node:focus-visible { outline: none; }
+.mgr-node:focus-visible .halo { opacity: 1; }
+.mgr-node .halo { opacity: 0; transition: opacity .12s; }
+.mgr-node:hover .halo { opacity: .55; }
+.mgr-node.is-sel .halo { opacity: 1; }
+.mgr-node.is-dim { opacity: .16; }
+
+.tt {
+  position: absolute;
+  pointer-events: none;
+  z-index: 5;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  box-shadow: var(--shadow);
+  padding: 9px 11px;
+  min-width: 168px;
+  opacity: 0;
+  transition: opacity .1s;
+  transform: translate(-50%, -100%);
+}
+.tt.on { opacity: 1; }
+.tt-t { font-size: 12.5px; font-weight: 600; margin-bottom: 5px; }
+.tt-r {
+  display: flex; justify-content: space-between; gap: 14px;
+  font-family: var(--font-mono); font-size: 11px;
+  font-variant-numeric: tabular-nums; color: var(--ink-2);
+}
+.tt-r b { color: var(--ink); font-weight: 500; }
+
+/* detail card */
+
+.detail {
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  background: var(--surface-2);
+  padding: 15px 16px 16px;
+  position: sticky;
+  top: 16px;
+}
+
+.detail-k {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.detail-name {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 110, "wght" 600;
+  font-size: 20px;
+  line-height: 1.15;
+  margin: 5px 0 3px;
+}
+
+.detail-tier {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; color: var(--ink-2); margin-bottom: 13px;
+}
+
+.detail-tier .glyph { font-size: 11px; }
+
+.dl { display: grid; grid-template-columns: 1fr auto; gap: 7px 12px; }
+.dl dt { font-size: 12px; color: var(--ink-2); margin: 0; }
+.dl dd {
+  margin: 0; font-family: var(--font-mono); font-size: 12px;
+  font-variant-numeric: tabular-nums; font-weight: 500; text-align: right;
+}
+
+.detail-bar {
+  margin-top: 14px;
+  height: 7px;
+  background: var(--surface-3);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.detail-bar i { display: block; height: 100%; border-radius: 4px; }
+
+.detail-foot {
+  margin-top: 7px;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--ink-3);
+  display: flex; justify-content: space-between;
+}
+
+/* ---------- generic chart grid ---------- */
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: minmax(0, 1.62fr) minmax(0, 1fr);
+  gap: 18px;
+}
+
+.legend { display: flex; flex-wrap: wrap; gap: 16px; padding: 0 18px 6px; }
+.legend-i { display: inline-flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--ink-2); }
+.legend-i .sw { width: 16px; height: 3px; border-radius: 2px; flex: none; }
+.legend-i .sw.dash {
+  background-image: linear-gradient(90deg, currentColor 0 5px, transparent 5px 9px);
+  background-color: transparent !important;
+}
+
+/* ---------- bar lists (funnel / sources / lost) ---------- */
+
+.barlist { display: flex; flex-direction: column; gap: 11px; }
+
+.bl-row { display: grid; grid-template-columns: 1fr; gap: 5px; }
+
+.bl-top {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+}
+.bl-name { font-size: 13px; font-weight: 500; }
+.bl-val {
+  font-family: var(--font-mono); font-size: 12px;
+  font-variant-numeric: tabular-nums; color: var(--ink-2);
+}
+.bl-val b { color: var(--ink); font-weight: 500; }
+
+.bl-track { height: 16px; background: var(--surface-2); border-radius: 2px; overflow: hidden; }
+.bl-fill { height: 100%; border-radius: 2px; }
+
+.bl-note {
+  font-family: var(--font-mono); font-size: 10.5px; color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- table ---------- */
+
+.tbl-scroll { overflow-x: auto; }
+
+table { border-collapse: collapse; width: 100%; min-width: 780px; font-size: 13px; }
+
+thead th {
+  text-align: right;
+  padding: 8px 10px;
+  border-bottom: 1.5px solid var(--rule);
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+}
+thead th:first-child, thead th:nth-child(2) { text-align: left; }
+thead th:hover { color: var(--ink); }
+thead th:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+thead th .sort { opacity: .35; margin-left: 3px; }
+thead th.sorted { color: var(--ink); }
+thead th.sorted .sort { opacity: 1; }
+
+tbody td {
+  padding: 9px 10px;
+  border-bottom: 1px solid var(--hairline);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+tbody td:first-child, tbody td:nth-child(2) {
+  text-align: left; font-family: var(--font-body); font-size: 13px; color: var(--ink);
+}
+tbody td:nth-child(2) { font-weight: 500; }
+
+tbody tr { cursor: pointer; }
+tbody tr:hover td { background: var(--surface-2); }
+tbody tr.is-sel td { background: var(--accent-soft); }
+tbody tr.is-sel td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
+
+.rk { color: var(--ink-3); font-family: var(--font-mono); font-size: 11px; }
+
+.tchip {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 11.5px; color: var(--ink-2); font-family: var(--font-body);
+}
+.tchip .glyph { font-size: 10px; }
+
+.pct-cell { display: flex; align-items: center; justify-content: flex-end; gap: 9px; }
+.pct-mini { width: 54px; height: 5px; background: var(--surface-3); border-radius: 3px; overflow: hidden; flex: none; }
+.pct-mini i { display: block; height: 100%; }
+
+/* ---------- footer ---------- */
+
+.foot {
+  border-top: 1px solid var(--hairline);
+  padding-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 28px;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+.foot b { color: var(--ink-2); font-weight: 500; }
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 1080px) {
+  .kpi-row { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .tree-layout { grid-template-columns: minmax(0, 1fr); }
+  .detail { position: static; }
+  .grid-2 { grid-template-columns: minmax(0, 1fr); }
+}
+
+@media (max-width: 620px) {
+  .wrap { padding: 20px 14px 40px; }
+  .kpi-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .kpi-v { font-size: 24px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div>
+      <p class="eyebrow">Sotuv bo'limi &middot; operativ panel</p>
+      <h1>Sotuv daraxti</h1>
+    </div>
+    <div class="mast-meta">
+      <span class="demo-flag">Demo ma'lumot</span>
+      <div class="meta-item">
+        <span class="meta-k">Davr</span>
+        <span class="meta-v">1&ndash;30 sentabr 2026</span>
+      </div>
+      <div class="meta-item">
+        <span class="meta-k">Yangilandi</span>
+        <span class="meta-v">07.09.2026, 14:32</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="kpi-row" id="kpis" aria-label="Asosiy ko'rsatkichlar"></section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Menejerlar daraxti</h2>
+        <p class="panel-sub">
+          Balandlik &mdash; reja bajarilishi (%). Doira o'lchami &mdash; olib kelingan daromad.
+          Ildiz &mdash; hali yopilmagan bitimlar (pipeline). Menejer ustiga bosing.
+        </p>
+      </div>
+    </div>
+
+    <div class="tier-bar" id="tierbar" role="group" aria-label="Daraja bo'yicha filtr"></div>
+
+    <div class="tree-layout">
+      <div class="tree-wrap">
+        <div class="svg-scroll"><svg id="tree" viewBox="0 0 1200 690" role="img"
+          aria-label="Menejerlar daraxti: har bir menejer reja bajarilishi foiziga qarab shoxda joylashgan"></svg></div>
+        <div class="tt" id="tt-tree" aria-hidden="true"></div>
+      </div>
+      <aside class="detail" id="detail" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <div class="grid-2">
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Reja va fakt &mdash; to'planib boruvchi</h2>
+          <p class="panel-sub">Oy boshidan buyon jamlangan daromad, reja chizig'iga nisbatan.</p>
+        </div>
+      </div>
+      <div class="legend">
+        <span class="legend-i"><span class="sw" style="background:var(--s1)"></span>Fakt</span>
+        <span class="legend-i" style="color:var(--s2)"><span class="sw dash"></span><span style="color:var(--ink-2)">Reja</span></span>
+      </div>
+      <div class="panel-body">
+        <div class="tree-wrap">
+          <svg id="trend" viewBox="0 0 760 306" role="img"
+            aria-label="Sentabr oyi bo'yicha to'planib boruvchi daromad: fakt 1.32 mlrd, reja 1.45 mlrd"></svg>
+          <div class="tt" id="tt-trend" aria-hidden="true"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Sotuv voronkasi</h2>
+          <p class="panel-sub">O'ngdagi foiz &mdash; oldingi bosqichdan o'tish darajasi.</p>
+        </div>
+      </div>
+      <div class="panel-body"><div class="barlist" id="funnel"></div></div>
+    </section>
+
+  </div>
+
+  <div class="grid-2">
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Lid manbalari</h2>
+          <p class="panel-sub">Daromad bo'yicha tartiblangan; konversiya &mdash; lidning bitimga aylanishi.</p>
+        </div>
+      </div>
+      <div class="panel-body"><div class="barlist" id="sources"></div></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Yo'qotilgan lidlar sabablari</h2>
+          <p class="panel-sub">Jami 440 ta lid yopilmadi &mdash; sabablar bo'yicha taqsimot.</p>
+        </div>
+      </div>
+      <div class="panel-body"><div class="barlist" id="lost"></div></div>
+    </section>
+
+  </div>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Menejerlar jadvali</h2>
+        <p class="panel-sub">Ustun nomini bosib tartiblang. Qatorni bosish daraxtdagi menejerni tanlaydi.</p>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="tbl-scroll"><table id="tbl">
+        <thead><tr id="thead-row"></tr></thead>
+        <tbody id="tbody"></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <footer class="foot" id="foot">
+    <span><b>Ma'lumot:</b> namuna (demo) &mdash; real CRM raqamlari emas.</span>
+    <span><b>Valyuta:</b> so'm, mln / mlrd.</span>
+    <span><b>Daraja chegarasi:</b> reja bajarilishi 100% va 80%.</span>
+    <span id="foot-cash"></span>
+  </footer>
+
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ============================================================
+     MA'LUMOT — o'z raqamlaringizni shu yerdan almashtiring
+     summalar mln so'mda
+     ============================================================ */
+
+  var MANAGERS = [
+    { name: "Dilnoza Rahimova",  team: "A", plan: 180, fact: 214, deals: 19, leads: 92, cycle: 15.2 },
+    { name: "Sardor Aliyev",     team: "B", plan: 165, fact: 181, deals: 17, leads: 84, cycle: 16.1 },
+    { name: "Malika Yusupova",   team: "C", plan: 150, fact: 154, deals: 16, leads: 79, cycle: 16.8 },
+    { name: "Jasur Karimov",     team: "A", plan: 160, fact: 155, deals: 15, leads: 81, cycle: 17.4 },
+    { name: "Nodira Ismoilova",  team: "B", plan: 145, fact: 133, deals: 14, leads: 76, cycle: 18.0 },
+    { name: "Bekzod To'rayev",   team: "C", plan: 140, fact: 121, deals: 14, leads: 78, cycle: 18.9 },
+    { name: "Aziza Qodirova",    team: "A", plan: 135, fact: 108, deals: 13, leads: 74, cycle: 19.6 },
+    { name: "Otabek Nazarov",    team: "B", plan: 130, fact:  96, deals: 12, leads: 72, cycle: 21.3 },
+    { name: "Kamola Sattorova",  team: "C", plan: 125, fact:  88, deals: 12, leads: 71, cycle: 22.0 },
+    { name: "Shohrux Ergashev",  team: "A", plan: 120, fact:  72, deals: 10, leads: 61, cycle: 24.5 }
+  ];
+
+  var TIERS = [
+    { id: "t1", name: "CHO'QQI",     glyph: "▲", color: "--tier-1", min: 100, rule: "reja ≥ 100%" },
+    { id: "t2", name: "O'SISH SHOXI", glyph: "●", color: "--tier-2", min:  80, rule: "80–99%" },
+    { id: "t3", name: "PAST SHOX",   glyph: "▼", color: "--tier-3", min:   0, rule: "< 80%" }
+  ];
+
+  var FUNNEL = [
+    { stage: "Yangi lid",        n: 768 },
+    { stage: "Aloqa o'rnatildi", n: 604 },
+    { stage: "Kvalifikatsiya",   n: 411 },
+    { stage: "Taklif yuborildi", n: 268 },
+    { stage: "Muzokara",         n: 187 },
+    { stage: "Bitim yopildi",    n: 142 }
+  ];
+
+  var SOURCES = [
+    { src: "Instagram",        leads: 246, deals: 41, rev: 358 },
+    { src: "Telegram",         leads: 189, deals: 38, rev: 331 },
+    { src: "Veb-sayt",         leads: 142, deals: 29, rev: 287 },
+    { src: "Tavsiya",          leads:  97, deals: 26, rev: 259 },
+    { src: "Sovuq qo'ng'iroq", leads:  94, deals:  8, rev:  87 }
+  ];
+
+  var LOST = [
+    { why: "Javob bermadi",        n: 152 },
+    { why: "Narx yuqori",          n: 108 },
+    { why: "Raqobatchini tanladi", n:  79 },
+    { why: "Byudjet yo'q",         n:  61 },
+    { why: "Vaqti kelmagan",       n:  40 }
+  ];
+
+  /* kunlik daromad, 1–30 sentabr (mln so'm) */
+  var DAILY = [38,44,41,52,18,12,46,49,43,55,61,21,14,48,52,47,44,58,19,13,51,46,49,53,67,24,16,58,71,112];
+
+  var PIPELINE = { amount: 2140, deals: 186 };
+  var CASH_IN  = 1148;
+
+  var PREV = { rev: 1176, deals: 131, avg: 8.98, conv: 20.6 };  /* o'tgan oy */
+
+  /* ============================================================
+     HISOB-KITOB
+     ============================================================ */
+
+  var PLAN  = sum(MANAGERS, "plan");
+  var FACT  = sum(MANAGERS, "fact");
+  var DEALS = sum(MANAGERS, "deals");
+  var LEADS = sum(MANAGERS, "leads");
+  var AVG   = FACT / DEALS;
+  var CONV  = DEALS / LEADS * 100;
+
+  MANAGERS.forEach(function (m) {
+    m.pct = m.fact / m.plan * 100;
+    m.avg = m.fact / m.deals;
+    m.conv = m.deals / m.leads * 100;
+    m.tier = TIERS.find(function (t) { return m.pct >= t.min; });
+  });
+
+  var RANKED = MANAGERS.slice().sort(function (a, b) { return b.pct - a.pct; });
+  RANKED.forEach(function (m, i) { m.rank = i + 1; });
+
+  var state = { sel: RANKED[0], tier: null, sortKey: "pct", sortDir: -1 };
+
+  /* ============================================================
+     YORDAMCHI
+     ============================================================ */
+
+  function sum(arr, k) { return arr.reduce(function (a, x) { return a + x[k]; }, 0); }
+  function cvar(n) { return getComputedStyle(document.documentElement).getPropertyValue(n).trim(); }
+  function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+
+  function som(mln) {
+    if (mln >= 1000) return (mln / 1000).toFixed(2) + " mlrd";
+    return Math.round(mln) + " mln";
+  }
+  function som1(mln) {
+    if (mln >= 1000) return (mln / 1000).toFixed(2) + " mlrd";
+    return mln.toFixed(1) + " mln";
+  }
+  function pc(v, d) { return v.toFixed(d === undefined ? 1 : d) + "%"; }
+  function delta(now, prev) { return (now - prev) / prev * 100; }
+
+  function el(tag, attrs, kids) {
+    var NS = "http://www.w3.org/2000/svg";
+    var n = document.createElementNS(NS, tag);
+    for (var k in attrs) if (attrs[k] !== null && attrs[k] !== undefined) n.setAttribute(k, attrs[k]);
+    (kids || []).forEach(function (c) { n.appendChild(c); });
+    return n;
+  }
+  function txt(s, attrs) {
+    var n = el("text", attrs);
+    n.textContent = s;
+    return n;
+  }
+
+  /* ============================================================
+     KPI
+     ============================================================ */
+
+  function renderKPI() {
+    var dRev  = delta(FACT, PREV.rev);
+    var dDeal = delta(DEALS, PREV.deals);
+    var dAvg  = delta(AVG, PREV.avg);
+    var dConv = CONV - PREV.conv;
+    var planPct = FACT / PLAN * 100;
+    var gap = PLAN - FACT;
+
+    var tiles = [
+      { lead: true, k: "Daromad", v: (FACT / 1000).toFixed(2), u: "mlrd so'm",
+        d: (dRev >= 0 ? "▲ +" : "▼ ") + dRev.toFixed(1) + "% o'tgan oyga", cls: dRev >= 0 ? "up" : "down" },
+      { lead: true, k: "Reja bajarilishi", v: planPct.toFixed(1), u: "%",
+        d: "−" + som(gap) + " rejadan orqada", cls: "down" },
+      { k: "Yopilgan bitimlar", v: DEALS, u: "ta",
+        d: (dDeal >= 0 ? "▲ +" : "▼ ") + dDeal.toFixed(1) + "%", cls: dDeal >= 0 ? "up" : "down" },
+      { k: "O'rtacha chek", v: AVG.toFixed(2), u: "mln so'm",
+        d: (dAvg >= 0 ? "▲ +" : "▼ ") + dAvg.toFixed(1) + "%", cls: dAvg >= 0 ? "up" : "down" },
+      { k: "Lid → bitim", v: CONV.toFixed(1), u: "%",
+        d: (dConv >= 0 ? "▲ +" : "▼ ") + dConv.toFixed(1) + " p.p.", cls: dConv >= 0 ? "up" : "down" }
+    ];
+
+    document.getElementById("kpis").innerHTML = tiles.map(function (t) {
+      return '<div class="kpi' + (t.lead ? " is-lead" : "") + '">' +
+        '<span class="kpi-k">' + esc(t.k) + '</span>' +
+        '<span class="kpi-v">' + esc(t.v) + '<span class="unit">' + esc(t.u) + '</span></span>' +
+        '<span class="kpi-d ' + t.cls + '">' + esc(t.d) + '</span></div>';
+    }).join("");
+  }
+
+  /* ============================================================
+     DARAJA CHIPLARI
+     ============================================================ */
+
+  function renderTierBar() {
+    var bar = document.getElementById("tierbar");
+    var html = TIERS.map(function (t) {
+      var n = MANAGERS.filter(function (m) { return m.tier === t; }).length;
+      return '<button class="tier-chip" type="button" data-tier="' + t.id + '" aria-pressed="false">' +
+        '<span class="glyph" style="color:var(' + t.color + ')">' + t.glyph + '</span>' +
+        '<span>' + esc(t.name) + '</span>' +
+        '<span class="cnt">' + esc(t.rule) + ' · ' + n + ' ta</span></button>';
+    }).join("");
+    html += '<button class="chip-reset" type="button" id="chipReset" hidden>Filtrni tozalash</button>';
+    bar.innerHTML = html;
+
+    bar.addEventListener("click", function (e) {
+      var b = e.target.closest("[data-tier]");
+      if (b) {
+        var id = b.getAttribute("data-tier");
+        state.tier = state.tier === id ? null : id;
+      } else if (e.target.id === "chipReset") {
+        state.tier = null;
+      } else return;
+      syncTierUI();
+      renderTree();
+      renderTable();
+    });
+    syncTierUI();
+  }
+
+  function syncTierUI() {
+    document.querySelectorAll("[data-tier]").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.getAttribute("data-tier") === state.tier));
+    });
+    document.getElementById("chipReset").hidden = !state.tier;
+  }
+
+  /* ============================================================
+     DARAXT
+     ============================================================ */
+
+  var TX = 555, GY = 545, X0 = 70, X1 = 1040;
+  var PMIN = 55, PMAX = 125, YB = 510, YT = 90;
+
+  function yFor(p) { return YB - (p - PMIN) * (YB - YT) / (PMAX - PMIN); }
+
+  /* qo'lda tanlangan joylashuv — yorliqlar to'qnashmasligi uchun */
+  var SIDES = [
+    { x: 700, s: 1 }, { x: 410, s: -1 }, { x: 760, s: 1 }, { x: 350, s: -1 }, { x: 780, s: 1 },
+    { x: 330, s: -1 }, { x: 790, s: 1 }, { x: 320, s: -1 }, { x: 760, s: 1 }, { x: 380, s: -1 }
+  ];
+
+  function renderTree() {
+    var svg = document.getElementById("tree");
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+
+    var maxRev = Math.max.apply(null, MANAGERS.map(function (m) { return m.fact; }));
+
+    /* --- daraja zonalari --- */
+    TIERS.forEach(function (t, i) {
+      var top = i === 0 ? YT : yFor(TIERS[i - 1].min);
+      var bot = i === TIERS.length - 1 ? YB : yFor(t.min);
+      svg.appendChild(el("rect", {
+        x: X0, y: top, width: X1 - X0, height: bot - top,
+        fill: "var(" + t.color + ")", opacity: 0.07
+      }));
+      var mid = (top + bot) / 2;
+      var n = MANAGERS.filter(function (m) { return m.tier === t; }).length;
+      svg.appendChild(txt(t.glyph, {
+        x: X1 + 14, y: mid - 4, "font-size": 11, fill: "var(" + t.color + ")"
+      }));
+      svg.appendChild(txt(t.name, { x: X1 + 30, y: mid - 4, "class": "tier-name" }));
+      svg.appendChild(txt(n + " menejer · " + t.rule, { x: X1 + 14, y: mid + 12, "class": "tier-cnt" }));
+    });
+
+    /* --- o'q va setka --- */
+    [60, 70, 80, 90, 100, 110, 120].forEach(function (p) {
+      var y = yFor(p);
+      var key = p === 100;
+      svg.appendChild(el("line", {
+        x1: X0, y1: y, x2: X1, y2: y,
+        stroke: key ? "var(--ink-3)" : "var(--hairline)",
+        "stroke-width": key ? 1.5 : 1,
+        "stroke-dasharray": key ? "7 4" : null
+      }));
+      svg.appendChild(txt(p + "%", { x: X0 - 12, y: y + 4, "class": "ax-tick", "text-anchor": "end" }));
+    });
+    svg.appendChild(txt("REJA 100%", { x: X0 + 8, y: yFor(100) - 8, "class": "plan-lbl" }));
+    svg.appendChild(txt("REJA BAJARILISHI", {
+      x: 0, y: 0, "class": "ax-title", "text-anchor": "middle",
+      transform: "translate(20," + (YT + YB) / 2 + ") rotate(-90)"
+    }));
+
+    /* --- yer chizig'i --- */
+    svg.appendChild(el("line", {
+      x1: 200, y1: GY, x2: 910, y2: GY, stroke: "var(--rule)", "stroke-width": 2
+    }));
+
+    /* --- ildizlar --- */
+    [[300, 632], [430, 655], [555, 662], [690, 655], [815, 632]].forEach(function (p) {
+      svg.appendChild(el("path", {
+        d: "M " + TX + " " + GY + " C " + (TX + (p[0] - TX) * 0.35) + " " + (GY + 40) +
+           ", " + (TX + (p[0] - TX) * 0.7) + " " + (p[1] - 18) + ", " + p[0] + " " + p[1],
+        fill: "none", stroke: "var(--bark)", "stroke-width": 4,
+        "stroke-linecap": "round", opacity: 0.6
+      }));
+    });
+    svg.appendChild(txt(
+      "ILDIZ · PIPELINE  " + som(PIPELINE.amount) + "  ·  " + PIPELINE.deals + " ta ochiq bitim",
+      { x: TX, y: 684, "class": "root-lbl", "text-anchor": "middle" }
+    ));
+
+    /* --- tana --- */
+    svg.appendChild(el("path", {
+      d: "M " + (TX - 20) + " " + GY +
+         " C " + (TX - 12) + " 400, " + (TX - 14) + " 250, " + (TX - 7) + " 108" +
+         " L " + (TX + 7) + " 108" +
+         " C " + (TX + 14) + " 250, " + (TX + 12) + " 400, " + (TX + 20) + " " + GY + " Z",
+      fill: "var(--bark)"
+    }));
+
+    /* --- shox + tugunlar --- */
+    RANKED.forEach(function (m, i) {
+      var pos = SIDES[i];
+      var y = yFor(m.pct);
+      var r = 20 * Math.sqrt(m.fact / maxRev);
+      var ay = Math.min(y + 48, GY - 12);
+      var dim = state.tier && m.tier.id !== state.tier;
+
+      var g = el("g", {
+        "class": "mgr-node" + (dim ? " is-dim" : "") + (state.sel === m ? " is-sel" : ""),
+        tabindex: 0, role: "button",
+        "aria-label": m.name + ", reja bajarilishi " + pc(m.pct) + ", daromad " + som(m.fact)
+      });
+
+      g.appendChild(el("path", {
+        d: "M " + TX + " " + ay +
+           " C " + (TX + (pos.x - TX) * 0.42) + " " + ay +
+           ", " + (TX + (pos.x - TX) * 0.62) + " " + y +
+           ", " + pos.x + " " + y,
+        fill: "none", stroke: "var(--bark-2)",
+        "stroke-width": 3 + (i > 5 ? 2 : 0), "stroke-linecap": "round", opacity: 0.85
+      }));
+
+      g.appendChild(el("circle", {
+        "class": "halo", cx: pos.x, cy: y, r: r + 7,
+        fill: "none", stroke: "var(--accent)", "stroke-width": 2
+      }));
+      g.appendChild(el("circle", {
+        cx: pos.x, cy: y, r: r,
+        fill: "var(" + m.tier.color + ")",
+        stroke: "var(--surface)", "stroke-width": 2
+      }));
+
+      var lx = pos.x + pos.s * (r + 11);
+      var anchor = pos.s > 0 ? "start" : "end";
+      g.appendChild(txt(m.name, { x: lx, y: y - 2, "class": "node-name", "text-anchor": anchor }));
+      g.appendChild(txt(pc(m.pct) + "  ·  " + som(m.fact),
+        { x: lx, y: y + 13, "class": "node-sub", "text-anchor": anchor }));
+
+      g.addEventListener("click", function () { select(m); });
+      g.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(m); }
+      });
+      g.addEventListener("mouseenter", function (e) { showTreeTip(m, e); });
+      g.addEventListener("mousemove", function (e) { showTreeTip(m, e); });
+      g.addEventListener("mouseleave", hideTreeTip);
+
+      svg.appendChild(g);
+    });
+  }
+
+  var ttTree = document.getElementById("tt-tree");
+
+  function showTreeTip(m, e) {
+    var host = ttTree.parentElement.getBoundingClientRect();
+    ttTree.innerHTML =
+      '<div class="tt-t">' + esc(m.name) + '</div>' +
+      row("Reja bajarilishi", pc(m.pct)) +
+      row("Fakt / reja", som(m.fact) + " / " + som(m.plan)) +
+      row("Bitimlar", m.deals + " ta") +
+      row("O'rtacha chek", som1(m.avg)) +
+      row("Konversiya", pc(m.conv)) +
+      row("Sotuv sikli", m.cycle.toFixed(1) + " kun");
+    ttTree.style.left = (e.clientX - host.left) + "px";
+    ttTree.style.top = (e.clientY - host.top - 14) + "px";
+    ttTree.classList.add("on");
+  }
+  function hideTreeTip() { ttTree.classList.remove("on"); }
+  function row(k, v) { return '<div class="tt-r"><span>' + esc(k) + '</span><b>' + esc(v) + '</b></div>'; }
+
+  /* ============================================================
+     TANLANGAN MENEJER KARTOCHKASI
+     ============================================================ */
+
+  function select(m) {
+    state.sel = m;
+    renderTree();
+    renderDetail();
+    renderTable();
+  }
+
+  function renderDetail() {
+    var m = state.sel;
+    var w = Math.min(m.pct, 130) / 130 * 100;
+    document.getElementById("detail").innerHTML =
+      '<span class="detail-k">Tanlangan menejer · #' + m.rank + '</span>' +
+      '<div class="detail-name">' + esc(m.name) + '</div>' +
+      '<div class="detail-tier"><span class="glyph" style="color:var(' + m.tier.color + ')">' +
+        m.tier.glyph + '</span>' + esc(m.tier.name) + ' · ' + esc(m.team) + ' jamoa</div>' +
+      '<dl class="dl">' +
+        dt("Reja", som(m.plan)) +
+        dt("Fakt", som(m.fact)) +
+        dt("Bajarildi", pc(m.pct)) +
+        dt("Bitimlar", m.deals + " ta") +
+        dt("Lidlar", m.leads + " ta") +
+        dt("Konversiya", pc(m.conv)) +
+        dt("O'rtacha chek", som1(m.avg)) +
+        dt("Sotuv sikli", m.cycle.toFixed(1) + " kun") +
+      '</dl>' +
+      '<div class="detail-bar"><i style="width:' + w.toFixed(1) +
+        '%;background:var(' + m.tier.color + ')"></i></div>' +
+      '<div class="detail-foot"><span>0%</span><span>reja 100%</span><span>130%</span></div>';
+  }
+  function dt(k, v) { return '<dt>' + esc(k) + '</dt><dd>' + esc(v) + '</dd>'; }
+
+  /* ============================================================
+     TREND
+     ============================================================ */
+
+  function renderTrend() {
+    var svg = document.getElementById("trend");
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+
+    var L = 58, R = 738, T = 18, B = 262;
+    var n = DAILY.length;
+    var yMax = 1500;
+    var perDay = PLAN / n;
+
+    var cum = [], acc = 0;
+    DAILY.forEach(function (d) { acc += d; cum.push(acc); });
+
+    function X(i) { return L + i * (R - L) / (n - 1); }
+    function Y(v) { return B - v / yMax * (B - T); }
+
+    [0, 300, 600, 900, 1200, 1500].forEach(function (v) {
+      svg.appendChild(el("line", {
+        x1: L, y1: Y(v), x2: R, y2: Y(v),
+        stroke: v === 0 ? "var(--rule)" : "var(--hairline)", "stroke-width": 1
+      }));
+      svg.appendChild(txt(v === 0 ? "0" : (v / 1000).toFixed(1),
+        { x: L - 10, y: Y(v) + 4, "class": "ax-tick", "text-anchor": "end" }));
+    });
+    svg.appendChild(txt("mlrd so'm", { x: L - 10, y: T - 4, "class": "ax-title", "text-anchor": "end" }));
+
+    [1, 5, 10, 15, 20, 25, 30].forEach(function (d) {
+      svg.appendChild(txt(String(d),
+        { x: X(d - 1), y: B + 18, "class": "ax-tick", "text-anchor": "middle" }));
+    });
+    svg.appendChild(txt("SENTABR, KUN", { x: (L + R) / 2, y: B + 38, "class": "ax-title", "text-anchor": "middle" }));
+
+    /* reja */
+    svg.appendChild(el("path", {
+      d: "M " + X(0) + " " + Y(perDay) + " L " + X(n - 1) + " " + Y(PLAN),
+      fill: "none", stroke: "var(--s2)", "stroke-width": 2, "stroke-dasharray": "6 4"
+    }));
+
+    /* fakt */
+    var dLine = cum.map(function (v, i) { return (i ? "L" : "M") + " " + X(i) + " " + Y(v); }).join(" ");
+    svg.appendChild(el("path", {
+      d: dLine + " L " + X(n - 1) + " " + Y(0) + " L " + X(0) + " " + Y(0) + " Z",
+      fill: "var(--s1-soft)", stroke: "none"
+    }));
+    svg.appendChild(el("path", {
+      d: dLine, fill: "none", stroke: "var(--s1)", "stroke-width": 2,
+      "stroke-linejoin": "round", "stroke-linecap": "round"
+    }));
+
+    /* oxirgi nuqtalar + to'g'ridan-to'g'ri yorliq */
+    svg.appendChild(el("circle", {
+      cx: X(n - 1), cy: Y(cum[n - 1]), r: 5,
+      fill: "var(--s1)", stroke: "var(--surface)", "stroke-width": 2
+    }));
+    svg.appendChild(txt(som(cum[n - 1]), {
+      x: X(n - 1) - 8, y: Y(cum[n - 1]) - 12, "class": "node-sub", "text-anchor": "end"
+    }));
+    svg.appendChild(txt(som(PLAN), {
+      x: X(n - 1) - 8, y: Y(PLAN) - 10, "class": "node-sub", "text-anchor": "end", fill: "var(--s2)"
+    }));
+
+    /* krosshair */
+    var cross = el("line", {
+      y1: T, y2: B, stroke: "var(--ink-3)", "stroke-width": 1, "stroke-dasharray": "3 3", opacity: 0
+    });
+    var dotF = el("circle", { r: 4.5, fill: "var(--s1)", stroke: "var(--surface)", "stroke-width": 2, opacity: 0 });
+    var dotP = el("circle", { r: 4.5, fill: "var(--s2)", stroke: "var(--surface)", "stroke-width": 2, opacity: 0 });
+    svg.appendChild(cross); svg.appendChild(dotF); svg.appendChild(dotP);
+
+    var hit = el("rect", { x: L, y: T, width: R - L, height: B - T, fill: "transparent" });
+    svg.appendChild(hit);
+
+    var ttT = document.getElementById("tt-trend");
+
+    hit.addEventListener("mousemove", function (e) {
+      var box = svg.getBoundingClientRect();
+      var sx = (e.clientX - box.left) / box.width * 760;
+      var i = Math.max(0, Math.min(n - 1, Math.round((sx - L) / ((R - L) / (n - 1)))));
+      var px = X(i), planV = perDay * (i + 1);
+
+      cross.setAttribute("x1", px); cross.setAttribute("x2", px); cross.setAttribute("opacity", 1);
+      dotF.setAttribute("cx", px); dotF.setAttribute("cy", Y(cum[i])); dotF.setAttribute("opacity", 1);
+      dotP.setAttribute("cx", px); dotP.setAttribute("cy", Y(planV)); dotP.setAttribute("opacity", 1);
+
+      var host = ttT.parentElement.getBoundingClientRect();
+      var gap = cum[i] - planV;
+      ttT.innerHTML =
+        '<div class="tt-t">' + (i + 1) + '-sentabr</div>' +
+        row("Fakt (jamlangan)", som(cum[i])) +
+        row("Reja (jamlangan)", som(planV)) +
+        row("Farq", (gap >= 0 ? "+" : "−") + som(Math.abs(gap))) +
+        row("Shu kuni", DAILY[i] + " mln");
+      ttT.style.left = (e.clientX - host.left) + "px";
+      ttT.style.top = (e.clientY - host.top - 14) + "px";
+      ttT.classList.add("on");
+    });
+    hit.addEventListener("mouseleave", function () {
+      cross.setAttribute("opacity", 0);
+      dotF.setAttribute("opacity", 0);
+      dotP.setAttribute("opacity", 0);
+      ttT.classList.remove("on");
+    });
+  }
+
+  /* ============================================================
+     VORONKA / MANBALAR / YO'QOTISH
+     ============================================================ */
+
+  function renderFunnel() {
+    var top = FUNNEL[0].n;
+    document.getElementById("funnel").innerHTML = FUNNEL.map(function (s, i) {
+      var step = i === 0 ? null : s.n / FUNNEL[i - 1].n * 100;
+      return '<div class="bl-row">' +
+        '<div class="bl-top"><span class="bl-name">' + esc(s.stage) + '</span>' +
+        '<span class="bl-val"><b>' + s.n + '</b> ta' +
+          (step === null ? '' : ' <span class="bl-note">· ' + pc(step) + '</span>') +
+        '</span></div>' +
+        '<div class="bl-track"><div class="bl-fill" style="width:' +
+          (s.n / top * 100).toFixed(1) + '%;background:var(--f' + (i + 1) + ')"></div></div>' +
+        '</div>';
+    }).join("") +
+      '<div class="bl-note" style="margin-top:2px">Umumiy konversiya: lidning ' +
+      pc(FUNNEL[5].n / FUNNEL[0].n * 100) + ' i bitimga aylandi.</div>';
+  }
+
+  function renderSources() {
+    var max = Math.max.apply(null, SOURCES.map(function (s) { return s.rev; }));
+    document.getElementById("sources").innerHTML = SOURCES.map(function (s) {
+      return '<div class="bl-row">' +
+        '<div class="bl-top"><span class="bl-name">' + esc(s.src) + '</span>' +
+        '<span class="bl-val"><b>' + som(s.rev) + '</b></span></div>' +
+        '<div class="bl-track"><div class="bl-fill" style="width:' +
+          (s.rev / max * 100).toFixed(1) + '%;background:var(--s1)"></div></div>' +
+        '<div class="bl-note">' + s.leads + ' lid → ' + s.deals + ' bitim · konversiya ' +
+          pc(s.deals / s.leads * 100) + '</div></div>';
+    }).join("");
+  }
+
+  function renderLost() {
+    var tot = sum(LOST, "n");
+    var max = Math.max.apply(null, LOST.map(function (l) { return l.n; }));
+    document.getElementById("lost").innerHTML = LOST.map(function (l) {
+      return '<div class="bl-row">' +
+        '<div class="bl-top"><span class="bl-name">' + esc(l.why) + '</span>' +
+        '<span class="bl-val"><b>' + l.n + '</b> ta <span class="bl-note">· ' +
+          pc(l.n / tot * 100) + '</span></span></div>' +
+        '<div class="bl-track"><div class="bl-fill" style="width:' +
+          (l.n / max * 100).toFixed(1) + '%;background:var(--s2)"></div></div></div>';
+    }).join("");
+  }
+
+  /* ============================================================
+     JADVAL
+     ============================================================ */
+
+  var COLS = [
+    { k: "rank",  t: "#" },
+    { k: "name",  t: "Menejer" },
+    { k: "team",  t: "Jamoa" },
+    { k: "plan",  t: "Reja" },
+    { k: "fact",  t: "Fakt" },
+    { k: "pct",   t: "Bajarildi" },
+    { k: "deals", t: "Bitim" },
+    { k: "avg",   t: "O'rt. chek" },
+    { k: "conv",  t: "Konv." },
+    { k: "cycle", t: "Sikl" }
+  ];
+
+  function renderTable() {
+    var hr = document.getElementById("thead-row");
+    hr.innerHTML = COLS.map(function (c) {
+      var on = state.sortKey === c.k;
+      return '<th data-k="' + c.k + '" tabindex="0" class="' + (on ? "sorted" : "") +
+        '" scope="col">' + esc(c.t) +
+        '<span class="sort">' + (on ? (state.sortDir < 0 ? "▼" : "▲") : "▾") + '</span></th>';
+    }).join("");
+
+    var rows = MANAGERS.filter(function (m) { return !state.tier || m.tier.id === state.tier; });
+    rows.sort(function (a, b) {
+      var x = a[state.sortKey], y = b[state.sortKey];
+      if (typeof x === "string") return x.localeCompare(y) * state.sortDir;
+      return (x - y) * state.sortDir;
+    });
+
+    document.getElementById("tbody").innerHTML = rows.map(function (m) {
+      return '<tr data-n="' + esc(m.name) + '" class="' + (state.sel === m ? "is-sel" : "") + '">' +
+        '<td><span class="rk">' + m.rank + '</span></td>' +
+        '<td>' + esc(m.name) + '<br><span class="tchip"><span class="glyph" style="color:var(' +
+          m.tier.color + ')">' + m.tier.glyph + '</span>' + esc(m.tier.name) + '</span></td>' +
+        '<td>' + esc(m.team) + '</td>' +
+        '<td>' + som(m.plan) + '</td>' +
+        '<td>' + som(m.fact) + '</td>' +
+        '<td><span class="pct-cell"><span class="pct-mini"><i style="width:' +
+          Math.min(m.pct, 130) / 130 * 100 + '%;background:var(' + m.tier.color + ')"></i></span>' +
+          pc(m.pct) + '</span></td>' +
+        '<td>' + m.deals + '</td>' +
+        '<td>' + som1(m.avg) + '</td>' +
+        '<td>' + pc(m.conv) + '</td>' +
+        '<td>' + m.cycle.toFixed(1) + ' kun</td></tr>';
+    }).join("");
+  }
+
+  document.getElementById("thead-row").addEventListener("click", onSort);
+  document.getElementById("thead-row").addEventListener("keydown", function (e) {
+    if (e.key === "Enter" || e.key === " ") { e.preventDefault(); onSort(e); }
+  });
+  function onSort(e) {
+    var th = e.target.closest("[data-k]");
+    if (!th) return;
+    var k = th.getAttribute("data-k");
+    if (state.sortKey === k) state.sortDir *= -1;
+    else { state.sortKey = k; state.sortDir = (k === "name" || k === "team") ? 1 : -1; }
+    renderTable();
+  }
+
+  document.getElementById("tbody").addEventListener("click", function (e) {
+    var tr = e.target.closest("[data-n]");
+    if (!tr) return;
+    var m = MANAGERS.find(function (x) { return x.name === tr.getAttribute("data-n"); });
+    if (m) select(m);
+  });
+
+  /* ============================================================
+     ISHGA TUSHIRISH
+     ============================================================ */
+
+  document.getElementById("foot-cash").innerHTML =
+    "<b>Haqiqiy tushum:</b> " + som(CASH_IN) + " · debitorlik " + som(FACT - CASH_IN) + ".";
+
+  renderKPI();
+  renderTierBar();
+  renderTree();
+  renderDetail();
+  renderTrend();
+  renderFunnel();
+  renderSources();
+  renderLost();
+  renderTable();
+
+  window.addEventListener("resize", function () { hideTreeTip(); });
+})();
+</script>
+</body>
+</html>
