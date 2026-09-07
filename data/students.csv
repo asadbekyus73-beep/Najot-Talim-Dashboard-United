@@ -1,0 +1,301 @@
+student_id,full_name,phone,group_id,course,branch,source,enrolled_date,status
+S0001,Umida Yoqubova,+998939576093,G011,AI Asoslari,Chilonzor,telegram,2026-05-27,dropped
+S0002,Madina Norqulova,+998882626317,G015,Frontend,Yunusobod,instagram,2026-08-31,active
+S0003,Zafar Rashidov,+998338610783,G013,SMM,Chilonzor,facebook,2026-06-07,frozen
+S0004,Yulduz Yoqubova,+998907948111,G015,Frontend,Yunusobod,hh,2026-08-31,active
+S0005,Shoxrux Sattorov,+998909431317,G011,AI Asoslari,Chilonzor,instagram,2026-08-16,active
+S0006,Barno Rustamova,+998956394444,G004,AI Asoslari,Yunusobod,facebook,2026-01-11,graduated
+S0007,Davron Norqulov,+998975506670,G006,SMM,Yunusobod,instagram,2026-07-06,dropped
+S0008,Abdulloh Umarov,+998882096492,G001,Frontend,Yunusobod,referral,2026-03-24,graduated
+S0009,Aziza Sobirova,+998907438663,G021,Ingliz tili,Chilonzor,hh,2026-05-26,graduated
+S0010,Jasur Qodirov,+998883708537,G004,AI Asoslari,Yunusobod,referral,2026-03-07,dropped
+S0011,Umida Yusufova,+998971223735,G020,SMM,Chilonzor,referral,2026-07-17,active
+S0012,Sirojiddin Mirzaov,+998909696086,G019,Grafik Dizayn,Yunusobod,referral,2026-08-22,active
+S0013,Nozima Sobirova,+998771160531,G028,Ingliz tili,Chilonzor,instagram,2026-08-11,active
+S0014,Nigora Ibrohimova,+998556454141,G025,AI Asoslari,Sergeli,facebook,2026-06-21,active
+S0015,Ulug'bek Toshpulatov,+998959338249,G018,AI Asoslari,Sergeli,referral,2026-08-31,active
+S0016,Madina Sattorova,+998939951230,G026,Grafik Dizayn,Sergeli,walk_in,2026-06-25,active
+S0017,Akmal Islomov,+998912730711,G003,Data Science,Sergeli,telegram,2026-08-15,active
+S0018,Gulnora Nazarova,+998946196740,G004,AI Asoslari,Yunusobod,instagram,2026-05-05,dropped
+S0019,Otabek Tojiboyov,+998904863336,G001,Frontend,Yunusobod,hh,2026-03-20,graduated
+S0020,Gulchehra Nishonova,+998778133860,G012,Grafik Dizayn,Sergeli,instagram,2026-07-27,active
+S0021,Farrux Ahmadov,+998989539566,G005,Grafik Dizayn,Yunusobod,instagram,2026-08-18,active
+S0022,Dilnoza Rashidova,+998771960678,G011,AI Asoslari,Chilonzor,google,2026-06-11,active
+S0023,Ozoda Xolmatova,+998883886266,G003,Data Science,Sergeli,walk_in,2026-07-02,dropped
+S0024,Gulnora Tojiboyova,+998983907750,G019,Grafik Dizayn,Yunusobod,walk_in,2026-08-20,dropped
+S0025,Zebo Umarova,+998993248188,G014,Ingliz tili,Sergeli,instagram,2026-08-27,active
+S0026,Ulug'bek Jo'raov,+998934044131,G014,Ingliz tili,Sergeli,telegram,2026-08-25,active
+S0027,Sanjar Xolmatov,+998948134766,G010,Data Science,Yunusobod,facebook,2026-01-10,graduated
+S0028,Kamola Tursunova,+998989644436,G014,Ingliz tili,Sergeli,referral,2026-08-31,active
+S0029,Iroda Rashidova,+998942590470,G024,Data Science,Yunusobod,instagram,2026-07-05,graduated
+S0030,Dilnoza Sharipova,+998996725971,G021,Ingliz tili,Chilonzor,hh,2026-05-20,dropped
+S0031,Gulnora Sharipova,+998882524559,G003,Data Science,Sergeli,referral,2026-07-05,frozen
+S0032,Umida Rashidova,+998947496708,G023,Backend,Yunusobod,instagram,2026-04-07,graduated
+S0033,Feruza Rustamova,+998916084554,G018,AI Asoslari,Sergeli,referral,2026-08-31,active
+S0034,Sitora G'aniova,+998888193201,G014,Ingliz tili,Sergeli,referral,2026-08-29,active
+S0035,Alisher Hasanov,+998918073602,G018,AI Asoslari,Sergeli,instagram,2026-08-31,active
+S0036,Gulbahor Ergashova,+998337574810,G020,SMM,Chilonzor,facebook,2026-07-04,active
+S0037,Nigora Xudoyberdiova,+998943817153,G023,Backend,Yunusobod,instagram,2026-01-13,graduated
+S0038,Zebo Nazarova,+998332583995,G028,Ingliz tili,Chilonzor,google,2026-06-26,active
+S0039,Shoxrux Ahmadov,+998881044015,G023,Backend,Yunusobod,google,2026-02-22,graduated
+S0040,Nozima Toshpulatova,+998915303548,G004,AI Asoslari,Yunusobod,hh,2026-04-19,dropped
+S0041,Nargiza Mirzaova,+998949714792,G001,Frontend,Yunusobod,telegram,2026-06-07,graduated
+S0042,Gulbahor Xudoyberdiova,+998914518337,G009,Backend,Yunusobod,facebook,2026-07-27,frozen
+S0043,Botir Umarov,+998881215698,G008,Frontend,Chilonzor,referral,2026-04-19,dropped
+S0044,Malika Xolmatova,+998935079630,G003,Data Science,Sergeli,walk_in,2026-08-10,dropped
+S0045,Xurshid Yusufov,+998901049260,G006,SMM,Yunusobod,instagram,2026-06-25,frozen
+S0046,Shuhrat Sobirov,+998883146975,G018,AI Asoslari,Sergeli,walk_in,2026-08-31,active
+S0047,Dilnoza G'aniova,+998777283086,G002,Backend,Yunusobod,walk_in,2026-01-30,dropped
+S0048,Sanjar Ibrohimov,+998987706692,G002,Backend,Yunusobod,referral,2025-12-22,graduated
+S0049,Sardor Ergashov,+998903436828,G025,AI Asoslari,Sergeli,hh,2026-07-03,active
+S0050,Zarina Jo'raova,+998901381154,G030,Backend,Yunusobod,facebook,2026-07-20,graduated
+S0051,Otabek Islomov,+998917932277,G022,Frontend,Chilonzor,google,2026-08-31,active
+S0052,Gulbahor Sattorova,+998998854222,G014,Ingliz tili,Sergeli,instagram,2026-08-24,active
+S0053,Akmal Xudoyberdiov,+998333317433,G029,Frontend,Chilonzor,google,2026-08-04,active
+S0054,Munisa Yusufova,+998972164027,G004,AI Asoslari,Yunusobod,instagram,2026-04-09,graduated
+S0055,Munisa Sobirova,+998994607055,G008,Frontend,Chilonzor,telegram,2025-11-11,graduated
+S0056,Sabina Jo'raova,+998949284112,G013,SMM,Chilonzor,telegram,2026-07-25,active
+S0057,Islom Toshpulatov,+998984157818,G014,Ingliz tili,Sergeli,hh,2026-08-23,active
+S0058,Kamola Xolmatova,+998554084317,G019,Grafik Dizayn,Yunusobod,telegram,2026-08-07,active
+S0059,Gulchehra Sobirova,+998336024854,G019,Grafik Dizayn,Yunusobod,google,2026-08-06,active
+S0060,Barno Ibrohimova,+998948198832,G015,Frontend,Yunusobod,telegram,2026-08-31,active
+S0061,Sardor Rashidov,+998778577938,G025,AI Asoslari,Sergeli,instagram,2026-06-29,active
+S0062,Diyor Yoqubov,+998907684232,G008,Frontend,Chilonzor,instagram,2026-01-31,graduated
+S0063,Sitora Nazarova,+998936407563,G025,AI Asoslari,Sergeli,instagram,2026-07-19,active
+S0064,Lola G'aniova,+998973798653,G011,AI Asoslari,Chilonzor,hh,2026-06-23,frozen
+S0065,Zebo Yusufova,+998994002654,G022,Frontend,Chilonzor,instagram,2026-08-31,active
+S0066,Anvar Rustamov,+998332493161,G015,Frontend,Yunusobod,walk_in,2026-08-31,active
+S0067,Nargiza Norqulova,+998992274362,G030,Backend,Yunusobod,telegram,2026-08-24,dropped
+S0068,Sardor Mirzaov,+998975223941,G012,Grafik Dizayn,Sergeli,instagram,2026-07-05,dropped
+S0069,Iroda Xolmatova,+998933628533,G005,Grafik Dizayn,Yunusobod,referral,2026-06-24,active
+S0070,Yulduz Karimova,+998913419853,G018,AI Asoslari,Sergeli,walk_in,2026-08-31,active
+S0071,Sanjar Sobirov,+998556524472,G019,Grafik Dizayn,Yunusobod,telegram,2026-07-19,active
+S0072,Aziza Yoqubova,+998975782131,G016,Backend,Chilonzor,walk_in,2026-02-12,graduated
+S0073,Munisa Yusufova,+998946284114,G015,Frontend,Yunusobod,walk_in,2026-08-31,active
+S0074,Rustam Toshpulatov,+998904586972,G010,Data Science,Yunusobod,facebook,2026-02-05,graduated
+S0075,Davron Ergashov,+998941223408,G019,Grafik Dizayn,Yunusobod,google,2026-07-28,active
+S0076,Sherzod Jo'raov,+998981065830,G014,Ingliz tili,Sergeli,instagram,2026-08-26,active
+S0077,Nargiza Jo'raova,+998775297552,G021,Ingliz tili,Chilonzor,walk_in,2026-04-05,dropped
+S0078,Shahnoza Sharipova,+998998038045,G027,SMM,Chilonzor,facebook,2026-08-26,active
+S0079,Nozima Xudoyberdiova,+998886886921,G003,Data Science,Sergeli,google,2026-07-31,active
+S0080,Shuhrat Nishonov,+998994118435,G030,Backend,Yunusobod,instagram,2026-04-11,graduated
+S0081,Shirin Norqulova,+998775184760,G002,Backend,Yunusobod,google,2025-12-31,graduated
+S0082,Sevara Xudoyberdiova,+998988218537,G013,SMM,Chilonzor,google,2026-05-29,active
+S0083,Umid Yusupov,+998951983540,G025,AI Asoslari,Sergeli,hh,2026-06-20,active
+S0084,Gulbahor Karimova,+998777658783,G022,Frontend,Chilonzor,walk_in,2026-08-31,active
+S0085,Nodir Xolmatov,+998774993751,G002,Backend,Yunusobod,referral,2026-02-11,graduated
+S0086,Munisa Boltaova,+998776495514,G020,SMM,Chilonzor,instagram,2026-06-27,active
+S0087,Aziza Hoshimova,+998947386761,G025,AI Asoslari,Sergeli,telegram,2026-07-16,active
+S0088,Feruza Umarova,+998917075116,G008,Frontend,Chilonzor,hh,2026-02-04,dropped
+S0089,Shahnoza G'aniova,+998955807515,G024,Data Science,Yunusobod,referral,2026-03-05,dropped
+S0090,Sabina Yusupova,+998955462213,G030,Backend,Yunusobod,referral,2026-04-08,graduated
+S0091,Jasur Islomov,+998935993284,G004,AI Asoslari,Yunusobod,telegram,2026-05-19,graduated
+S0092,Ulug'bek Hoshimov,+998889661007,G019,Grafik Dizayn,Yunusobod,referral,2026-07-07,active
+S0093,Farrux Xudoyberdiov,+998949017859,G008,Frontend,Chilonzor,referral,2026-03-06,dropped
+S0094,Nozima Karimova,+998948691523,G023,Backend,Yunusobod,telegram,2026-04-27,graduated
+S0095,Bekzod Yusupov,+998983255415,G005,Grafik Dizayn,Yunusobod,walk_in,2026-06-24,dropped
+S0096,Rayhona Saidova,+998333300962,G013,SMM,Chilonzor,facebook,2026-08-10,active
+S0097,Jamshid Yoqubov,+998914844316,G024,Data Science,Yunusobod,google,2026-06-27,graduated
+S0098,Umida Mirzaova,+998911322584,G015,Frontend,Yunusobod,google,2026-08-31,active
+S0099,Akmal Rashidov,+998885096060,G003,Data Science,Sergeli,referral,2026-07-17,active
+S0100,Xurshid Qodirov,+998551544755,G009,Backend,Yunusobod,hh,2026-07-01,active
+S0101,Islom Mirzaov,+998911014946,G006,SMM,Yunusobod,instagram,2026-08-30,active
+S0102,Bekzod Abdurahmonov,+998903997847,G026,Grafik Dizayn,Sergeli,telegram,2026-05-26,active
+S0103,Sevara Yoqubova,+998993182345,G023,Backend,Yunusobod,telegram,2026-02-06,graduated
+S0104,Farrux Yusufov,+998971437123,G021,Ingliz tili,Chilonzor,telegram,2026-02-24,graduated
+S0105,Sherzod Jo'raov,+998903871143,G022,Frontend,Chilonzor,facebook,2026-08-31,active
+S0106,Malika Nazarova,+998917356364,G001,Frontend,Yunusobod,instagram,2026-03-18,graduated
+S0107,Aziza Abdurahmonova,+998903526001,G017,Data Science,Yunusobod,referral,2026-06-28,graduated
+S0108,Aziza Abdullaova,+998943236269,G005,Grafik Dizayn,Yunusobod,telegram,2026-08-18,dropped
+S0109,Ozoda Norqulova,+998904253824,G018,AI Asoslari,Sergeli,walk_in,2026-08-31,active
+S0110,Shahnoza Ergashova,+998984726234,G009,Backend,Yunusobod,telegram,2026-08-02,active
+S0111,Shoxrux Karimov,+998332489389,G002,Backend,Yunusobod,hh,2026-03-06,graduated
+S0112,Sirojiddin Tojiboyov,+998942117592,G022,Frontend,Chilonzor,referral,2026-08-31,active
+S0113,Mehriniso Yusupova,+998938149270,G004,AI Asoslari,Yunusobod,google,2026-05-15,graduated
+S0114,Rayhona Saidova,+998994493573,G001,Frontend,Yunusobod,facebook,2026-05-23,graduated
+S0115,Nodir Rustamov,+998947494509,G026,Grafik Dizayn,Sergeli,referral,2026-05-21,active
+S0116,Aziza Ergashova,+998901467208,G009,Backend,Yunusobod,instagram,2026-07-01,active
+S0117,Iroda Rustamova,+998985727308,G026,Grafik Dizayn,Sergeli,hh,2026-07-15,active
+S0118,Sirojiddin Saidov,+998947825799,G022,Frontend,Chilonzor,google,2026-08-31,active
+S0119,Nilufar Sobirova,+998955682070,G013,SMM,Chilonzor,telegram,2026-08-24,active
+S0120,Gulnora Umarova,+998972344367,G003,Data Science,Sergeli,google,2026-08-17,active
+S0121,Shuhrat Yusufov,+998932909326,G005,Grafik Dizayn,Yunusobod,telegram,2026-08-03,dropped
+S0122,Shirin Ahmadova,+998954717007,G022,Frontend,Chilonzor,walk_in,2026-08-31,active
+S0123,Diyora Sobirova,+998886129403,G022,Frontend,Chilonzor,instagram,2026-08-31,active
+S0124,Aziza Sobirova,+998981898762,G027,SMM,Chilonzor,instagram,2026-08-28,active
+S0125,Shuhrat Qodirov,+998557473812,G023,Backend,Yunusobod,facebook,2026-02-04,dropped
+S0126,Akmal Saidov,+998954682259,G012,Grafik Dizayn,Sergeli,referral,2026-07-30,active
+S0127,Aziz Qodirov,+998954546962,G028,Ingliz tili,Chilonzor,instagram,2026-07-23,active
+S0128,Malika Sharipova,+998333192370,G005,Grafik Dizayn,Yunusobod,instagram,2026-06-30,active
+S0129,Yulduz Ergashova,+998882671895,G023,Backend,Yunusobod,referral,2026-02-27,graduated
+S0130,Botir Yusupov,+998905333421,G014,Ingliz tili,Sergeli,google,2026-08-27,active
+S0131,Farrux Sattorov,+998913652965,G019,Grafik Dizayn,Yunusobod,walk_in,2026-08-13,active
+S0132,Iroda Norqulova,+998959576991,G026,Grafik Dizayn,Sergeli,instagram,2026-08-05,frozen
+S0133,Ulug'bek Toshpulatov,+998558612171,G004,AI Asoslari,Yunusobod,referral,2026-05-23,graduated
+S0134,Bobur Rustamov,+998918667397,G016,Backend,Chilonzor,referral,2026-05-07,graduated
+S0135,Shahnoza Hasanova,+998958516855,G022,Frontend,Chilonzor,walk_in,2026-08-31,active
+S0136,Umida Mirzaova,+998913096181,G023,Backend,Yunusobod,instagram,2026-01-26,graduated
+S0137,Feruza Ahmadova,+998951553290,G008,Frontend,Chilonzor,instagram,2026-04-01,dropped
+S0138,Sherzod Hasanov,+998988871175,G022,Frontend,Chilonzor,telegram,2026-08-31,active
+S0139,Bekzod Rustamov,+998909460170,G016,Backend,Chilonzor,facebook,2026-06-12,graduated
+S0140,Lola Ibrohimova,+998955829111,G023,Backend,Yunusobod,telegram,2026-01-12,graduated
+S0141,Jasur Abdurahmonov,+998779578848,G004,AI Asoslari,Yunusobod,instagram,2026-02-24,dropped
+S0142,Zafar Karimov,+998952070579,G017,Data Science,Yunusobod,facebook,2026-08-25,graduated
+S0143,Rayhona Qodirova,+998985786974,G009,Backend,Yunusobod,instagram,2026-08-26,active
+S0144,Zebo Abdurahmonova,+998772375893,G030,Backend,Yunusobod,google,2026-04-09,graduated
+S0145,Sardor Sobirov,+998996604378,G010,Data Science,Yunusobod,walk_in,2026-02-02,graduated
+S0146,Rustam Tursunov,+998946751122,G024,Data Science,Yunusobod,instagram,2026-06-30,dropped
+S0147,Shoxrux Tursunov,+998552161270,G030,Backend,Yunusobod,instagram,2026-05-02,graduated
+S0148,Xurshid Yoqubov,+998957535620,G019,Grafik Dizayn,Yunusobod,telegram,2026-08-03,frozen
+S0149,Iroda Sharipova,+998984084422,G020,SMM,Chilonzor,instagram,2026-08-09,active
+S0150,Rayhona Tursunova,+998949032388,G020,SMM,Chilonzor,walk_in,2026-08-31,active
+S0151,Feruza Abdullaova,+998959527819,G030,Backend,Yunusobod,telegram,2026-05-31,graduated
+S0152,Ulug'bek Hoshimov,+998982345640,G022,Frontend,Chilonzor,referral,2026-08-31,active
+S0153,Ulug'bek Ergashov,+998994624424,G027,SMM,Chilonzor,telegram,2026-08-28,active
+S0154,Zarina Yoqubova,+998332181654,G013,SMM,Chilonzor,hh,2026-06-25,active
+S0155,Feruza Rustamova,+998559457586,G001,Frontend,Yunusobod,instagram,2026-06-19,graduated
+S0156,Shahnoza G'aniova,+998913524850,G020,SMM,Chilonzor,hh,2026-08-22,active
+S0157,Sevara Sharipova,+998985913702,G027,SMM,Chilonzor,google,2026-08-24,active
+S0158,Barno Sattorova,+998946629302,G018,AI Asoslari,Sergeli,telegram,2026-08-31,active
+S0159,Jamshid Karimov,+998984600552,G030,Backend,Yunusobod,facebook,2026-06-11,graduated
+S0160,Bobur Rustamov,+998888625803,G018,AI Asoslari,Sergeli,telegram,2026-08-31,active
+S0161,Nodir Tojiboyov,+998958282305,G016,Backend,Chilonzor,facebook,2026-07-06,graduated
+S0162,Rayhona Karimova,+998339970710,G028,Ingliz tili,Chilonzor,walk_in,2026-07-03,dropped
+S0163,Lola Boltaova,+998936455984,G014,Ingliz tili,Sergeli,telegram,2026-08-29,active
+S0164,Ulug'bek Abdullaov,+998936916943,G008,Frontend,Chilonzor,facebook,2026-02-14,graduated
+S0165,Aziz Tursunov,+998552208721,G005,Grafik Dizayn,Yunusobod,instagram,2026-08-15,active
+S0166,Shoxrux Tursunov,+998883578275,G023,Backend,Yunusobod,instagram,2026-04-14,graduated
+S0167,Ozoda Abdullaova,+998886693949,G013,SMM,Chilonzor,instagram,2026-06-10,active
+S0168,Zafar Xolmatov,+998995073324,G024,Data Science,Yunusobod,walk_in,2025-12-29,graduated
+S0169,Diyora Xolmatova,+998983655710,G005,Grafik Dizayn,Yunusobod,referral,2026-06-13,active
+S0170,Rustam Toshpulatov,+998917150562,G030,Backend,Yunusobod,google,2026-07-09,dropped
+S0171,Ulug'bek Ergashov,+998904318630,G009,Backend,Yunusobod,telegram,2026-08-14,active
+S0172,Nargiza Yusufova,+998954552046,G024,Data Science,Yunusobod,walk_in,2026-05-24,dropped
+S0173,Zafar Sattorov,+998916128777,G024,Data Science,Yunusobod,instagram,2026-02-28,graduated
+S0174,Jasur Ibrohimov,+998903040263,G004,AI Asoslari,Yunusobod,telegram,2026-05-13,graduated
+S0175,Xurshid Nishonov,+998554079842,G023,Backend,Yunusobod,instagram,2025-11-14,graduated
+S0176,Diyora Tursunova,+998551391041,G026,Grafik Dizayn,Sergeli,telegram,2026-05-26,dropped
+S0177,Akmal Sattorov,+998947770959,G022,Frontend,Chilonzor,referral,2026-08-31,active
+S0178,Ulug'bek Xolmatov,+998992875413,G023,Backend,Yunusobod,walk_in,2026-03-23,graduated
+S0179,Sherzod Rustamov,+998908407967,G004,AI Asoslari,Yunusobod,telegram,2026-04-25,graduated
+S0180,Otabek Tursunov,+998884536263,G030,Backend,Yunusobod,facebook,2026-08-07,graduated
+S0181,Iroda Xolmatova,+998976904664,G030,Backend,Yunusobod,telegram,2026-08-24,graduated
+S0182,Jamshid Nishonov,+998984455594,G022,Frontend,Chilonzor,hh,2026-08-31,active
+S0183,Iroda Islomova,+998976572617,G001,Frontend,Yunusobod,telegram,2026-07-20,graduated
+S0184,Jamshid Rustamov,+998957791372,G023,Backend,Yunusobod,referral,2025-12-31,dropped
+S0185,Mehriniso Hasanova,+998904260913,G009,Backend,Yunusobod,instagram,2026-07-15,active
+S0186,Nozima G'aniova,+998938558516,G027,SMM,Chilonzor,telegram,2026-08-21,active
+S0187,Umida Abdurahmonova,+998904060473,G014,Ingliz tili,Sergeli,referral,2026-08-31,active
+S0188,Islom Hoshimov,+998914732712,G006,SMM,Yunusobod,telegram,2026-06-30,active
+S0189,Aziza Rustamova,+998944094339,G005,Grafik Dizayn,Yunusobod,instagram,2026-06-21,active
+S0190,Iroda Mirzaova,+998938210111,G011,AI Asoslari,Chilonzor,google,2026-06-03,active
+S0191,Botir Tursunov,+998994665923,G003,Data Science,Sergeli,walk_in,2026-08-24,active
+S0192,Gulchehra Nazarova,+998884983457,G023,Backend,Yunusobod,telegram,2025-12-06,dropped
+S0193,Akmal Yusufov,+998559324472,G010,Data Science,Yunusobod,google,2025-12-02,dropped
+S0194,Rustam Abdurahmonov,+998949737961,G015,Frontend,Yunusobod,telegram,2026-08-31,active
+S0195,Nozima Yoqubova,+998932738874,G012,Grafik Dizayn,Sergeli,instagram,2026-08-14,active
+S0196,Mehriniso Mirzaova,+998974883670,G026,Grafik Dizayn,Sergeli,referral,2026-05-10,active
+S0197,Gulbahor Yoqubova,+998945059418,G028,Ingliz tili,Chilonzor,referral,2026-08-16,active
+S0198,Nigora Xudoyberdiova,+998953886439,G014,Ingliz tili,Sergeli,telegram,2026-08-25,active
+S0199,Rustam Nishonov,+998884501870,G012,Grafik Dizayn,Sergeli,instagram,2026-07-22,active
+S0200,Gulchehra Tojiboyova,+998889347542,G017,Data Science,Yunusobod,referral,2026-07-21,graduated
+S0201,Ravshan Qodirov,+998919315102,G020,SMM,Chilonzor,referral,2026-08-31,frozen
+S0202,Alisher Saidov,+998901238791,G001,Frontend,Yunusobod,walk_in,2026-06-12,graduated
+S0203,Bobur Karimov,+998988079846,G025,AI Asoslari,Sergeli,telegram,2026-06-20,active
+S0204,Sardor Sattorov,+998332445294,G026,Grafik Dizayn,Sergeli,walk_in,2026-08-30,active
+S0205,Jamshid Xolmatov,+998881690310,G015,Frontend,Yunusobod,walk_in,2026-08-31,active
+S0206,Shirin Saidova,+998952055584,G005,Grafik Dizayn,Yunusobod,walk_in,2026-08-28,active
+S0207,Jamshid Ahmadov,+998887564751,G014,Ingliz tili,Sergeli,telegram,2026-08-23,active
+S0208,Botir Hoshimov,+998552990905,G011,AI Asoslari,Chilonzor,telegram,2026-07-08,active
+S0209,Abdulloh Sharipov,+998985558268,G009,Backend,Yunusobod,hh,2026-08-21,dropped
+S0210,Shoxrux Sobirov,+998992227328,G005,Grafik Dizayn,Yunusobod,telegram,2026-07-14,active
+S0211,Alisher Ergashov,+998972256612,G015,Frontend,Yunusobod,instagram,2026-08-31,active
+S0212,Otabek Qodirov,+998938280725,G010,Data Science,Yunusobod,google,2025-12-19,dropped
+S0213,Shirin Ahmadova,+998954861234,G003,Data Science,Sergeli,telegram,2026-08-05,dropped
+S0214,Yulduz Sharipova,+998991363593,G001,Frontend,Yunusobod,hh,2026-03-30,dropped
+S0215,Kamola Yusufova,+998558537280,G009,Backend,Yunusobod,instagram,2026-07-31,active
+S0216,Sitora Xudoyberdiova,+998909241702,G002,Backend,Yunusobod,referral,2025-10-01,graduated
+S0217,Otabek Norqulov,+998943795887,G012,Grafik Dizayn,Sergeli,instagram,2026-08-14,active
+S0218,Mehriniso Hasanova,+998917370594,G008,Frontend,Chilonzor,walk_in,2025-11-25,graduated
+S0219,Iroda Nazarova,+998888162096,G030,Backend,Yunusobod,referral,2026-06-28,dropped
+S0220,Lola Boltaova,+998555346445,G016,Backend,Chilonzor,telegram,2026-07-26,dropped
+S0221,Botir Rashidov,+998331696924,G012,Grafik Dizayn,Sergeli,walk_in,2026-07-01,active
+S0222,Aziza Jo'raova,+998911316583,G014,Ingliz tili,Sergeli,instagram,2026-08-24,active
+S0223,Zebo Ibrohimova,+998999425591,G006,SMM,Yunusobod,google,2026-07-06,active
+S0224,Alisher Rashidov,+998912756117,G007,Ingliz tili,Yunusobod,referral,2026-07-21,active
+S0225,Gulbahor Ergashova,+998988205251,G028,Ingliz tili,Chilonzor,referral,2026-07-04,active
+S0226,Dilnoza Rashidova,+998973033360,G026,Grafik Dizayn,Sergeli,telegram,2026-07-19,active
+S0227,Botir Xudoyberdiov,+998972645278,G029,Frontend,Chilonzor,telegram,2026-08-22,dropped
+S0228,Nargiza Xolmatova,+998557497160,G019,Grafik Dizayn,Yunusobod,instagram,2026-07-15,active
+S0229,Akmal Abdurahmonov,+998985675945,G028,Ingliz tili,Chilonzor,referral,2026-08-13,active
+S0230,Gulchehra Abdurahmonova,+998884795894,G013,SMM,Chilonzor,instagram,2026-06-19,active
+S0231,Islom Nishonov,+998996500528,G018,AI Asoslari,Sergeli,google,2026-08-31,active
+S0232,Zafar Abdullaov,+998977454727,G014,Ingliz tili,Sergeli,walk_in,2026-08-23,active
+S0233,Munisa Tursunova,+998992737803,G019,Grafik Dizayn,Yunusobod,referral,2026-07-09,dropped
+S0234,Mehriniso Yusufova,+998887344150,G011,AI Asoslari,Chilonzor,telegram,2026-08-11,active
+S0235,Sirojiddin Abdurahmonov,+998975791876,G024,Data Science,Yunusobod,walk_in,2026-03-12,graduated
+S0236,Nodir Toshpulatov,+998333021522,G004,AI Asoslari,Yunusobod,instagram,2026-02-02,graduated
+S0237,Gulnora Abdullaova,+998934556450,G003,Data Science,Sergeli,referral,2026-08-25,frozen
+S0238,Diyor Tojiboyov,+998937761501,G026,Grafik Dizayn,Sergeli,telegram,2026-06-10,dropped
+S0239,Davron Qodirov,+998917363742,G004,AI Asoslari,Yunusobod,hh,2026-02-24,graduated
+S0240,Muhammadali Saidov,+998331981094,G002,Backend,Yunusobod,telegram,2026-01-08,graduated
+S0241,Aziz Rustamov,+998933082046,G025,AI Asoslari,Sergeli,telegram,2026-07-25,active
+S0242,Davron Rustamov,+998944289467,G007,Ingliz tili,Yunusobod,telegram,2026-07-12,dropped
+S0243,Madina Xudoyberdiova,+998551531352,G009,Backend,Yunusobod,referral,2026-07-06,active
+S0244,Rayhona Abdurahmonova,+998994969564,G019,Grafik Dizayn,Yunusobod,facebook,2026-08-28,dropped
+S0245,Zarina Boltaova,+998906225856,G024,Data Science,Yunusobod,referral,2026-07-15,graduated
+S0246,Diyora Ahmadova,+998779905609,G012,Grafik Dizayn,Sergeli,instagram,2026-07-18,active
+S0247,Rayhona Umarova,+998772066813,G024,Data Science,Yunusobod,telegram,2026-01-08,dropped
+S0248,Iroda Ahmadova,+998884886611,G012,Grafik Dizayn,Sergeli,referral,2026-08-22,active
+S0249,Otabek Nishonov,+998906664459,G009,Backend,Yunusobod,telegram,2026-07-20,active
+S0250,Feruza Nishonova,+998933030831,G025,AI Asoslari,Sergeli,instagram,2026-08-02,active
+S0251,Sanjar Norqulov,+998554782419,G028,Ingliz tili,Chilonzor,instagram,2026-08-17,active
+S0252,Ulug'bek Norqulov,+998977295761,G029,Frontend,Chilonzor,walk_in,2026-07-13,active
+S0253,Aziza Tojiboyova,+998937089332,G023,Backend,Yunusobod,referral,2025-12-29,graduated
+S0254,Islom Hoshimov,+998987559871,G030,Backend,Yunusobod,instagram,2026-03-16,graduated
+S0255,Shoxrux Xolmatov,+998932555234,G012,Grafik Dizayn,Sergeli,telegram,2026-08-15,active
+S0256,Aziza Ibrohimova,+998997647025,G014,Ingliz tili,Sergeli,google,2026-08-24,active
+S0257,Alisher Rashidov,+998939936975,G013,SMM,Chilonzor,walk_in,2026-07-31,active
+S0258,Islom Rustamov,+998934631759,G003,Data Science,Sergeli,telegram,2026-08-14,active
+S0259,Nargiza Ahmadova,+998946412259,G024,Data Science,Yunusobod,instagram,2026-04-03,dropped
+S0260,Munisa Yusufova,+998934625835,G004,AI Asoslari,Yunusobod,telegram,2026-02-11,dropped
+S0261,Nozima Mirzaova,+998552447030,G001,Frontend,Yunusobod,facebook,2026-07-24,graduated
+S0262,Islom Ibrohimov,+998908724356,G025,AI Asoslari,Sergeli,telegram,2026-06-18,dropped
+S0263,Dilnoza Toshpulatova,+998552431215,G019,Grafik Dizayn,Yunusobod,hh,2026-08-24,dropped
+S0264,Zafar Rustamov,+998989860822,G014,Ingliz tili,Sergeli,walk_in,2026-08-31,active
+S0265,Botir Norqulov,+998933778104,G023,Backend,Yunusobod,referral,2026-03-28,graduated
+S0266,Aziza Qodirova,+998558082021,G018,AI Asoslari,Sergeli,facebook,2026-08-31,active
+S0267,Madina Ibrohimova,+998552696771,G007,Ingliz tili,Yunusobod,walk_in,2026-08-10,active
+S0268,Gulnora Norqulova,+998954168455,G029,Frontend,Chilonzor,referral,2026-06-28,frozen
+S0269,Sevara Toshpulatova,+998994711373,G014,Ingliz tili,Sergeli,facebook,2026-08-23,active
+S0270,Iroda Norqulova,+998978951767,G008,Frontend,Chilonzor,telegram,2026-01-22,graduated
+S0271,Bekzod Umarov,+998888466357,G023,Backend,Yunusobod,instagram,2025-12-21,graduated
+S0272,Iroda Abdurahmonova,+998971496889,G007,Ingliz tili,Yunusobod,telegram,2026-08-24,active
+S0273,Ulug'bek Sharipov,+998771457926,G026,Grafik Dizayn,Sergeli,walk_in,2026-08-02,active
+S0274,Barno Hoshimova,+998942943322,G008,Frontend,Chilonzor,referral,2026-01-23,graduated
+S0275,Ulug'bek Karimov,+998959626636,G023,Backend,Yunusobod,hh,2026-04-07,graduated
+S0276,Dilnoza Abdurahmonova,+998915045789,G019,Grafik Dizayn,Yunusobod,referral,2026-07-27,active
+S0277,Nilufar Islomova,+998886207483,G006,SMM,Yunusobod,instagram,2026-06-15,dropped
+S0278,Nargiza Yoqubova,+998552522212,G030,Backend,Yunusobod,instagram,2026-04-13,dropped
+S0279,Sardor Norqulov,+998911666519,G003,Data Science,Sergeli,instagram,2026-07-10,active
+S0280,Nilufar Ahmadova,+998958939574,G025,AI Asoslari,Sergeli,referral,2026-07-20,dropped
+S0281,Sitora Mirzaova,+998977341141,G015,Frontend,Yunusobod,telegram,2026-08-31,active
+S0282,Madina Mirzaova,+998917797196,G005,Grafik Dizayn,Yunusobod,walk_in,2026-07-04,dropped
+S0283,Aziza Hoshimova,+998908933926,G010,Data Science,Yunusobod,telegram,2025-12-26,graduated
+S0284,Ozoda Toshpulatova,+998949863912,G007,Ingliz tili,Yunusobod,telegram,2026-08-09,active
+S0285,Nodir Nazarov,+998999322673,G017,Data Science,Yunusobod,hh,2026-06-19,graduated
+S0286,Zarina G'aniova,+998971463057,G020,SMM,Chilonzor,instagram,2026-07-05,active
+S0287,Barno G'aniova,+998938608910,G007,Ingliz tili,Yunusobod,referral,2026-07-07,active
+S0288,Yulduz Rashidova,+998997493010,G023,Backend,Yunusobod,referral,2026-04-13,graduated
+S0289,Barno Toshpulatova,+998904688926,G016,Backend,Chilonzor,referral,2026-07-19,graduated
+S0290,Yulduz Sharipova,+998885618088,G028,Ingliz tili,Chilonzor,instagram,2026-07-24,active
+S0291,Malika Ahmadova,+998974298344,G007,Ingliz tili,Yunusobod,hh,2026-07-11,active
+S0292,Gulnora Toshpulatova,+998889701216,G001,Frontend,Yunusobod,referral,2026-07-10,graduated
+S0293,Ulug'bek Abdullaov,+998552377314,G010,Data Science,Yunusobod,facebook,2025-12-17,graduated
+S0294,Sherzod G'aniov,+998978647570,G015,Frontend,Yunusobod,google,2026-08-31,active
+S0295,Sanjar Sattorov,+998996242002,G007,Ingliz tili,Yunusobod,google,2026-08-06,active
+S0296,Sitora Hasanova,+998959396400,G030,Backend,Yunusobod,instagram,2026-04-03,graduated
+S0297,Umida Tursunova,+998939870588,G016,Backend,Chilonzor,google,2026-06-02,graduated
+S0298,Umida Sattorova,+998903887650,G027,SMM,Chilonzor,referral,2026-08-27,active
+S0299,Munisa Mirzaova,+998337742566,G017,Data Science,Yunusobod,telegram,2026-04-12,graduated
+S0300,Rustam Hasanov,+998885016540,G010,Data Science,Yunusobod,instagram,2026-01-29,graduated

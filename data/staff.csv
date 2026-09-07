@@ -1,0 +1,41 @@
+staff_id,full_name,role,department,hired_date,salary,status
+E001,Diyora Rustamova,operator,Qongiroq markazi,2021-07-09,4500000,active
+E002,Farrux Ahmadov,operator,Qongiroq markazi,2025-11-16,3100000,active
+E003,Sardor Yusufov,operator,Qongiroq markazi,2024-04-28,4100000,active
+E004,Botir Nazarov,operator,Qongiroq markazi,2024-01-05,3700000,active
+E005,Lola Qodirova,operator,Qongiroq markazi,2021-10-10,3400000,active
+E006,Dilnoza Karimova,operator,Qongiroq markazi,2024-02-27,2900000,active
+E007,Jamshid Umarov,operator,Qongiroq markazi,2022-03-02,4300000,left
+E008,Sherzod Nishonov,operator,Qongiroq markazi,2022-05-25,3700000,active
+E009,Yulduz Xudoyberdiova,sales,Sotuvlar,2022-12-01,5700000,left
+E010,Sirojiddin Xolmatov,sales,Sotuvlar,2025-01-31,2900000,active
+E011,Diyor Islomov,sales,Sotuvlar,2021-07-04,3800000,active
+E012,Farrux Jo'raov,sales,Sotuvlar,2024-07-28,5300000,active
+E013,Diyor Yusupov,sales,Sotuvlar,2021-12-05,5600000,active
+E014,Sanjar Xolmatov,sales,Sotuvlar,2022-04-22,2900000,active
+E015,Lola Rustamova,sales,Sotuvlar,2023-06-27,3100000,active
+E016,Akmal Yusufov,sales,Sotuvlar,2023-08-06,3400000,active
+E017,Malika Abdullaova,teacher,O'quv,2026-01-15,5800000,left
+E018,Shirin G'aniova,teacher,O'quv,2024-12-28,7900000,active
+E019,Shuhrat Ergashov,teacher,O'quv,2024-03-02,7100000,left
+E020,Sardor Jo'raov,teacher,O'quv,2026-02-09,6300000,active
+E021,Sabina Ibrohimova,teacher,O'quv,2022-03-08,6500000,active
+E022,Sitora Nishonova,teacher,O'quv,2022-05-02,7300000,active
+E023,Gulchehra Xudoyberdiova,teacher,O'quv,2022-12-23,7700000,active
+E024,Malika Islomova,teacher,O'quv,2026-04-08,4300000,active
+E025,Lola Saidova,teacher,O'quv,2026-02-17,5800000,active
+E026,Umida Hasanova,teacher,O'quv,2024-09-12,5200000,active
+E027,Madina Saidova,teacher,O'quv,2024-07-05,5600000,active
+E028,Zarina Boltaova,teacher,O'quv,2024-08-20,7900000,active
+E029,Jasur Umarov,teacher,O'quv,2024-10-14,7400000,active
+E030,Ulug'bek Abdurahmonov,teacher,O'quv,2025-03-10,6900000,active
+E031,Nigora Karimova,teacher,O'quv,2025-08-24,6800000,active
+E032,Nilufar Tursunova,admin,Ma'muriyat,2025-06-03,3900000,active
+E033,Botir Islomov,admin,Ma'muriyat,2025-11-04,3500000,active
+E034,Bekzod Nazarov,admin,Ma'muriyat,2022-05-08,3500000,active
+E035,Shahnoza Tursunova,admin,Ma'muriyat,2022-02-11,2800000,active
+E036,Jamshid Ibrohimov,marketer,Marketing,2022-10-05,3700000,active
+E037,Iroda Abdullaova,marketer,Marketing,2023-04-14,3800000,active
+E038,Munisa Karimova,marketer,Marketing,2023-09-05,3600000,active
+E039,Shoxrux G'aniov,manager,Ma'muriyat,2025-06-20,5000000,active
+E040,Islom Saidov,manager,Ma'muriyat,2022-02-20,5100000,active

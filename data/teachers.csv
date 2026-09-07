@@ -1,0 +1,16 @@
+teacher_id,full_name,direction,hired_date,rating
+T001,Nozima Tursunova,Frontend,2022-05-22,4.8
+T002,Sevara Toshpulatova,Backend,2022-05-16,5.0
+T003,Sitora Sobirova,Data Science,2025-03-09,3.7
+T004,Rustam Islomov,AI Asoslari,2025-08-21,4.9
+T005,Munisa Tojiboyova,Grafik Dizayn,2025-05-21,4.2
+T006,Jasur Xudoyberdiov,SMM,2023-12-14,3.6
+T007,Shahnoza Ahmadova,Ingliz tili,2025-09-19,4.6
+T008,Jasur Norqulov,Frontend,2025-01-13,4.8
+T009,Barno Ergashova,Backend,2024-12-08,4.2
+T010,Jamshid Nazarov,Data Science,2024-02-27,4.5
+T011,Nigora Sharipova,AI Asoslari,2025-12-30,4.0
+T012,Jasur Abdurahmonov,Grafik Dizayn,2025-12-03,3.8
+T013,Sanjar Abdurahmonov,SMM,2024-01-03,3.8
+T014,Umida Mirzaova,Ingliz tili,2024-06-12,4.7
+T015,Zarina Abdullaova,Frontend,2024-09-23,4.7

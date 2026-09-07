@@ -1,0 +1,108 @@
+expense_id,date,category,amount,note
+X0001,2025-09-01,rent,26069330,Chilonzor filial ijarasi
+X0002,2025-09-01,rent,19926543,Yunusobod filial ijarasi
+X0003,2025-09-01,rent,24565507,Sergeli filial ijarasi
+X0004,2025-09-01,utilities,6934687,kommunal to'lovlar
+X0005,2025-09-01,salary,183352440,oylik ish haqi fondi
+X0006,2025-09-12,marketing,2420413,reklama kampaniyasi
+X0007,2025-09-27,marketing,3769520,reklama kampaniyasi
+X0008,2025-09-10,marketing,4333689,reklama kampaniyasi
+X0009,2025-09-28,equipment,10411441,texnika/mebel xaridi
+X0010,2025-10-01,rent,18044925,Chilonzor filial ijarasi
+X0011,2025-10-01,rent,21543893,Yunusobod filial ijarasi
+X0012,2025-10-01,rent,26985981,Sergeli filial ijarasi
+X0013,2025-10-01,utilities,5039947,kommunal to'lovlar
+X0014,2025-10-01,salary,173770348,oylik ish haqi fondi
+X0015,2025-10-23,marketing,7671904,reklama kampaniyasi
+X0016,2025-10-31,marketing,4033838,reklama kampaniyasi
+X0017,2025-10-18,marketing,6815780,reklama kampaniyasi
+X0018,2025-10-28,equipment,3096247,texnika/mebel xaridi
+X0019,2025-10-05,other,757611,boshqa xarajatlar
+X0020,2025-11-01,rent,27299624,Chilonzor filial ijarasi
+X0021,2025-11-01,rent,25545340,Yunusobod filial ijarasi
+X0022,2025-11-01,rent,17560084,Sergeli filial ijarasi
+X0023,2025-11-01,utilities,4589365,kommunal to'lovlar
+X0024,2025-11-01,salary,146815794,oylik ish haqi fondi
+X0025,2025-11-02,marketing,7929185,reklama kampaniyasi
+X0026,2025-11-03,marketing,5447011,reklama kampaniyasi
+X0027,2025-11-18,marketing,3074639,reklama kampaniyasi
+X0028,2025-11-03,marketing,4713427,reklama kampaniyasi
+X0029,2025-12-01,rent,26689645,Chilonzor filial ijarasi
+X0030,2025-12-01,rent,26327336,Yunusobod filial ijarasi
+X0031,2025-12-01,rent,20151731,Sergeli filial ijarasi
+X0032,2025-12-01,utilities,6935026,kommunal to'lovlar
+X0033,2025-12-01,salary,182147531,oylik ish haqi fondi
+X0034,2025-12-16,marketing,2758185,reklama kampaniyasi
+X0035,2025-12-06,marketing,8106991,reklama kampaniyasi
+X0036,2025-12-11,marketing,8425637,reklama kampaniyasi
+X0037,2026-01-01,rent,19720862,Chilonzor filial ijarasi
+X0038,2026-01-01,rent,21035820,Yunusobod filial ijarasi
+X0039,2026-01-01,rent,25637633,Sergeli filial ijarasi
+X0040,2026-01-01,utilities,6349067,kommunal to'lovlar
+X0041,2026-01-01,salary,163855779,oylik ish haqi fondi
+X0042,2026-01-08,marketing,6407582,reklama kampaniyasi
+X0043,2026-01-13,marketing,4659770,reklama kampaniyasi
+X0044,2026-01-23,marketing,4002408,reklama kampaniyasi
+X0045,2026-01-08,marketing,5085744,reklama kampaniyasi
+X0046,2026-02-01,rent,16191239,Chilonzor filial ijarasi
+X0047,2026-02-01,rent,18611960,Yunusobod filial ijarasi
+X0048,2026-02-01,rent,16615622,Sergeli filial ijarasi
+X0049,2026-02-01,utilities,3526307,kommunal to'lovlar
+X0050,2026-02-01,salary,153562860,oylik ish haqi fondi
+X0051,2026-02-16,marketing,1992439,reklama kampaniyasi
+X0052,2026-02-01,marketing,2401541,reklama kampaniyasi
+X0053,2026-02-23,marketing,6331332,reklama kampaniyasi
+X0054,2026-02-14,equipment,7105495,texnika/mebel xaridi
+X0055,2026-03-01,rent,26203221,Chilonzor filial ijarasi
+X0056,2026-03-01,rent,22439298,Yunusobod filial ijarasi
+X0057,2026-03-01,rent,27522281,Sergeli filial ijarasi
+X0058,2026-03-01,utilities,4190696,kommunal to'lovlar
+X0059,2026-03-01,salary,139685276,oylik ish haqi fondi
+X0060,2026-03-13,marketing,2787181,reklama kampaniyasi
+X0061,2026-03-21,marketing,8700298,reklama kampaniyasi
+X0062,2026-03-29,marketing,2258799,reklama kampaniyasi
+X0063,2026-04-01,rent,25285153,Chilonzor filial ijarasi
+X0064,2026-04-01,rent,22411682,Yunusobod filial ijarasi
+X0065,2026-04-01,rent,16232947,Sergeli filial ijarasi
+X0066,2026-04-01,utilities,3518005,kommunal to'lovlar
+X0067,2026-04-01,salary,170692546,oylik ish haqi fondi
+X0068,2026-04-18,marketing,7542507,reklama kampaniyasi
+X0069,2026-04-09,marketing,8195548,reklama kampaniyasi
+X0070,2026-04-08,marketing,4859562,reklama kampaniyasi
+X0071,2026-04-09,equipment,6339792,texnika/mebel xaridi
+X0072,2026-04-09,other,2111371,boshqa xarajatlar
+X0073,2026-05-01,rent,23745606,Chilonzor filial ijarasi
+X0074,2026-05-01,rent,24446571,Yunusobod filial ijarasi
+X0075,2026-05-01,rent,21659835,Sergeli filial ijarasi
+X0076,2026-05-01,utilities,5586761,kommunal to'lovlar
+X0077,2026-05-01,salary,128937670,oylik ish haqi fondi
+X0078,2026-05-22,marketing,3357138,reklama kampaniyasi
+X0079,2026-05-06,marketing,3742838,reklama kampaniyasi
+X0080,2026-05-16,marketing,1858424,reklama kampaniyasi
+X0081,2026-06-01,rent,26961375,Chilonzor filial ijarasi
+X0082,2026-06-01,rent,25021198,Yunusobod filial ijarasi
+X0083,2026-06-01,rent,22603950,Sergeli filial ijarasi
+X0084,2026-06-01,utilities,6084527,kommunal to'lovlar
+X0085,2026-06-01,salary,124493477,oylik ish haqi fondi
+X0086,2026-06-13,marketing,5079171,reklama kampaniyasi
+X0087,2026-06-10,marketing,4505116,reklama kampaniyasi
+X0088,2026-06-15,marketing,4282995,reklama kampaniyasi
+X0089,2026-06-29,marketing,5339600,reklama kampaniyasi
+X0090,2026-07-01,rent,25224718,Chilonzor filial ijarasi
+X0091,2026-07-01,rent,15143556,Yunusobod filial ijarasi
+X0092,2026-07-01,rent,24497795,Sergeli filial ijarasi
+X0093,2026-07-01,utilities,3035316,kommunal to'lovlar
+X0094,2026-07-01,salary,151946118,oylik ish haqi fondi
+X0095,2026-07-27,marketing,6335333,reklama kampaniyasi
+X0096,2026-07-20,marketing,6412471,reklama kampaniyasi
+X0097,2026-07-23,equipment,14126645,texnika/mebel xaridi
+X0098,2026-08-01,rent,21992927,Chilonzor filial ijarasi
+X0099,2026-08-01,rent,26034841,Yunusobod filial ijarasi
+X0100,2026-08-01,rent,15720242,Sergeli filial ijarasi
+X0101,2026-08-01,utilities,4760822,kommunal to'lovlar
+X0102,2026-08-01,salary,165229337,oylik ish haqi fondi
+X0103,2026-08-29,marketing,1562871,reklama kampaniyasi
+X0104,2026-08-23,marketing,8108891,reklama kampaniyasi
+X0105,2026-08-03,marketing,6307901,reklama kampaniyasi
+X0106,2026-08-02,equipment,12812906,texnika/mebel xaridi
+X0107,2026-08-08,other,2339738,boshqa xarajatlar

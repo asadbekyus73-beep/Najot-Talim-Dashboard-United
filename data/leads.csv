@@ -1,0 +1,1201 @@
+lead_id,full_name,phone,source,interest_course,branch,assigned_to,created_date,status
+L0001,Islom Yusupov,+998339508748,instagram,SMM,Yunusobod,Yulduz Xudoyberdiova,2025-09-09,new
+L0002,Alisher Nishonov,+998989882944,instagram,Ingliz tili,Sergeli,Diyor Yusupov,2025-09-03,trial
+L0003,Dilnoza Sattorova,+998958699277,telegram,Data Science,Yunusobod,Akmal Yusufov,2025-09-22,trial
+L0004,Kamola Ergashova,+998904628906,instagram,Data Science,Sergeli,Sanjar Xolmatov,2025-09-30,contacted
+L0005,Shoxrux Sattorov,+998984196960,telegram,Data Science,Sergeli,Farrux Jo'raov,2025-09-14,enrolled
+L0006,Ravshan Yusupov,+998983392393,facebook,Backend,Yunusobod,Diyor Islomov,2025-09-14,contacted
+L0007,Jamshid Toshpulatov,+998883146197,walk_in,Data Science,Chilonzor,Diyor Islomov,2025-09-23,trial
+L0008,Nodir Nazarov,+998334742808,google,Grafik Dizayn,Yunusobod,Diyor Islomov,2025-09-25,lost
+L0009,Elyor Xudoyberdiov,+998552601212,referral,Data Science,Chilonzor,Yulduz Xudoyberdiova,2025-09-16,trial
+L0010,Sardor Sharipov,+998917835110,instagram,Backend,Sergeli,Yulduz Xudoyberdiova,2025-09-28,contacted
+L0011,Alisher Qodirov,+998974466509,telegram,Data Science,Chilonzor,Diyor Islomov,2025-09-11,contacted
+L0012,Islom Abdullaov,+998556395472,google,Ingliz tili,Chilonzor,Diyor Yusupov,2025-09-03,new
+L0013,Malika G'aniova,+998907882809,walk_in,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2025-09-24,contacted
+L0014,Nargiza G'aniova,+998941612598,instagram,Ingliz tili,Sergeli,Akmal Yusufov,2025-09-14,enrolled
+L0015,Shahnoza Ahmadova,+998911307614,walk_in,SMM,Sergeli,Lola Rustamova,2025-09-14,new
+L0016,Jasur G'aniov,+998949809683,instagram,Data Science,Yunusobod,Farrux Jo'raov,2025-09-19,lost
+L0017,Ravshan Mirzaov,+998908914704,instagram,Ingliz tili,Sergeli,Akmal Yusufov,2025-09-14,contacted
+L0018,Gulchehra Yusupova,+998975209536,referral,Backend,Chilonzor,Sirojiddin Xolmatov,2025-09-13,contacted
+L0019,Jamshid Mirzaov,+998978415210,instagram,Grafik Dizayn,Sergeli,Yulduz Xudoyberdiova,2025-09-24,trial
+L0020,Aziza Rustamova,+998919339218,instagram,AI Asoslari,Chilonzor,Lola Rustamova,2025-09-24,lost
+L0021,Gulnora Yusufova,+998882036674,referral,Data Science,Sergeli,Diyor Islomov,2025-09-10,contacted
+L0022,Elyor Karimov,+998905579526,instagram,AI Asoslari,Chilonzor,Sanjar Xolmatov,2025-09-02,trial
+L0023,Farrux Hoshimov,+998942673769,telegram,Frontend,Yunusobod,Diyor Islomov,2025-09-12,lost
+L0024,Sherzod Boltaov,+998917493759,telegram,Ingliz tili,Chilonzor,Lola Rustamova,2025-09-22,trial
+L0025,Alisher Rashidov,+998772026172,google,Grafik Dizayn,Sergeli,Diyor Islomov,2025-09-08,lost
+L0026,Lola Nishonova,+998953769527,facebook,Backend,Sergeli,Diyor Islomov,2025-09-10,contacted
+L0027,Sabina Yusupova,+998916883573,telegram,Grafik Dizayn,Yunusobod,Farrux Jo'raov,2025-09-15,new
+L0028,Barno Qodirova,+998775393574,telegram,Frontend,Sergeli,Diyor Islomov,2025-09-03,lost
+L0029,Aziza Yusupova,+998974319905,instagram,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2025-09-27,contacted
+L0030,Nodir Yoqubov,+998953200306,referral,Data Science,Sergeli,Lola Rustamova,2025-09-06,contacted
+L0031,Farrux Sharipov,+998945697820,facebook,Ingliz tili,Sergeli,Diyor Islomov,2025-09-01,trial
+L0032,Mehriniso Xudoyberdiova,+998888204232,instagram,AI Asoslari,Yunusobod,Diyor Yusupov,2025-09-02,trial
+L0033,Abdulloh Ibrohimov,+998907510881,facebook,Grafik Dizayn,Yunusobod,Akmal Yusufov,2025-09-01,enrolled
+L0034,Aziza Ibrohimova,+998771403777,referral,Frontend,Sergeli,Sirojiddin Xolmatov,2025-09-19,enrolled
+L0035,Yulduz Mirzaova,+998902692937,telegram,Grafik Dizayn,Sergeli,Diyor Islomov,2025-09-05,enrolled
+L0036,Zafar Boltaov,+998551749407,telegram,Backend,Chilonzor,Akmal Yusufov,2025-09-07,new
+L0037,Sevara Abdullaova,+998993692125,instagram,Frontend,Sergeli,Diyor Yusupov,2025-09-05,enrolled
+L0038,Sitora Norqulova,+998883818131,telegram,SMM,Chilonzor,Farrux Jo'raov,2025-09-02,new
+L0039,Muhammadali Ibrohimov,+998984880358,referral,Grafik Dizayn,Sergeli,Diyor Yusupov,2025-09-27,contacted
+L0040,Shoxrux Karimov,+998937859691,telegram,Data Science,Chilonzor,Sirojiddin Xolmatov,2025-09-30,new
+L0041,Iroda Yusufova,+998771293331,instagram,Frontend,Yunusobod,Sanjar Xolmatov,2025-09-04,trial
+L0042,Shuhrat Yoqubov,+998932100831,referral,Backend,Yunusobod,Farrux Jo'raov,2025-09-03,contacted
+L0043,Kamola Tojiboyova,+998942247224,telegram,Frontend,Sergeli,Sirojiddin Xolmatov,2025-09-25,contacted
+L0044,Sabina Ahmadova,+998903923630,instagram,Backend,Yunusobod,Sanjar Xolmatov,2025-09-27,contacted
+L0045,Abdulloh Rashidov,+998888762929,walk_in,Frontend,Chilonzor,Diyor Islomov,2025-09-29,enrolled
+L0046,Aziza Nishonova,+998935233000,telegram,AI Asoslari,Chilonzor,Lola Rustamova,2025-09-01,new
+L0047,Zafar Norqulov,+998952351165,walk_in,Ingliz tili,Chilonzor,Diyor Islomov,2025-09-27,trial
+L0048,Xurshid Yusufov,+998337868860,telegram,Backend,Chilonzor,Diyor Islomov,2025-09-15,lost
+L0049,Munisa Yoqubova,+998333749325,instagram,Ingliz tili,Yunusobod,Yulduz Xudoyberdiova,2025-09-11,trial
+L0050,Nodir Saidov,+998915067957,walk_in,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2025-09-05,lost
+L0051,Botir Yusupov,+998947860261,google,Backend,Chilonzor,Diyor Islomov,2025-09-14,new
+L0052,Sabina Yoqubova,+998558598927,instagram,Data Science,Chilonzor,Diyor Yusupov,2025-09-23,new
+L0053,Zebo Ergashova,+998982115332,referral,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2025-09-06,contacted
+L0054,Zafar Qodirov,+998552831762,referral,Backend,Sergeli,Diyor Islomov,2025-09-24,enrolled
+L0055,Jamshid Umarov,+998779771312,telegram,Backend,Yunusobod,Akmal Yusufov,2025-09-27,lost
+L0056,Farrux Norqulov,+998982232881,google,Frontend,Sergeli,Yulduz Xudoyberdiova,2025-09-15,new
+L0057,Ravshan Toshpulatov,+998919102501,hh,Frontend,Chilonzor,Yulduz Xudoyberdiova,2025-09-03,enrolled
+L0058,Sirojiddin Yusupov,+998559026947,referral,SMM,Yunusobod,Diyor Islomov,2025-09-21,enrolled
+L0059,Nilufar Saidova,+998936979103,telegram,Grafik Dizayn,Sergeli,Farrux Jo'raov,2025-09-28,lost
+L0060,Islom Boltaov,+998984040474,referral,AI Asoslari,Chilonzor,Yulduz Xudoyberdiova,2025-09-30,contacted
+L0061,Sirojiddin Saidov,+998956916004,hh,Backend,Yunusobod,Diyor Islomov,2025-09-15,trial
+L0062,Diyora Karimova,+998997999268,instagram,Frontend,Sergeli,Diyor Yusupov,2025-09-24,enrolled
+L0063,Kamola Rashidova,+998956330473,instagram,Frontend,Sergeli,Akmal Yusufov,2025-09-30,enrolled
+L0064,Sabina Abdullaova,+998957544189,facebook,AI Asoslari,Chilonzor,Sanjar Xolmatov,2025-09-25,trial
+L0065,Kamola Yusupova,+998552287066,instagram,Backend,Yunusobod,Akmal Yusufov,2025-09-12,contacted
+L0066,Madina Sharipova,+998913032687,walk_in,Data Science,Sergeli,Farrux Jo'raov,2025-09-29,trial
+L0067,Sabina Toshpulatova,+998886477937,google,Backend,Yunusobod,Sirojiddin Xolmatov,2025-09-26,lost
+L0068,Shirin Ahmadova,+998989923264,instagram,AI Asoslari,Sergeli,Lola Rustamova,2025-09-02,lost
+L0069,Nodir Umarov,+998559554465,walk_in,SMM,Chilonzor,Lola Rustamova,2025-09-21,new
+L0070,Umida Yusupova,+998988025509,telegram,Grafik Dizayn,Sergeli,Farrux Jo'raov,2025-09-02,lost
+L0071,Diyor Xolmatov,+998948529765,instagram,Frontend,Chilonzor,Akmal Yusufov,2025-09-27,new
+L0072,Sherzod Qodirov,+998988273159,referral,Data Science,Chilonzor,Akmal Yusufov,2025-09-17,contacted
+L0073,Sardor Hoshimov,+998888461787,referral,AI Asoslari,Yunusobod,Diyor Yusupov,2025-09-14,lost
+L0074,Malika Yusupova,+998889183253,walk_in,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2025-09-20,enrolled
+L0075,Davron Ibrohimov,+998904932903,telegram,SMM,Chilonzor,Sirojiddin Xolmatov,2025-09-10,trial
+L0076,Shuhrat Tursunov,+998936540533,telegram,Data Science,Yunusobod,Diyor Yusupov,2025-09-16,contacted
+L0077,Sirojiddin Sharipov,+998943566989,hh,Ingliz tili,Chilonzor,Sirojiddin Xolmatov,2025-09-08,enrolled
+L0078,Malika Tojiboyova,+998996536799,walk_in,Grafik Dizayn,Chilonzor,Diyor Yusupov,2025-09-08,trial
+L0079,Yulduz Yusupova,+998331899566,referral,Frontend,Sergeli,Farrux Jo'raov,2025-09-21,contacted
+L0080,Barno Abdurahmonova,+998554331349,referral,AI Asoslari,Chilonzor,Sanjar Xolmatov,2025-09-01,trial
+L0081,Gulnora Yusufova,+998951234156,walk_in,Data Science,Chilonzor,Sanjar Xolmatov,2025-09-25,new
+L0082,Lola Hasanova,+998952841446,telegram,Backend,Chilonzor,Farrux Jo'raov,2025-09-06,new
+L0083,Gulbahor Ahmadova,+998772119693,telegram,SMM,Sergeli,Farrux Jo'raov,2025-09-26,lost
+L0084,Umida Saidova,+998884926616,hh,Data Science,Yunusobod,Farrux Jo'raov,2025-09-03,trial
+L0085,Dilnoza Nazarova,+998976527788,instagram,SMM,Yunusobod,Yulduz Xudoyberdiova,2025-09-22,new
+L0086,Nargiza Ibrohimova,+998973803375,instagram,SMM,Chilonzor,Farrux Jo'raov,2025-09-11,lost
+L0087,Jamshid Tojiboyov,+998779119346,facebook,Ingliz tili,Sergeli,Diyor Islomov,2025-09-09,lost
+L0088,Sabina Nazarova,+998977427089,telegram,AI Asoslari,Chilonzor,Diyor Islomov,2025-09-07,lost
+L0089,Akmal Abdurahmonov,+998558989854,referral,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2025-09-21,new
+L0090,Sevara Xolmatova,+998554399587,hh,Backend,Sergeli,Lola Rustamova,2025-09-13,trial
+L0091,Madina Abdullaova,+998558934554,hh,Ingliz tili,Sergeli,Yulduz Xudoyberdiova,2025-09-30,lost
+L0092,Shuhrat Rustamov,+998973106764,walk_in,SMM,Chilonzor,Farrux Jo'raov,2025-09-20,lost
+L0093,Munisa Saidova,+998981953481,instagram,Data Science,Sergeli,Sanjar Xolmatov,2025-09-28,contacted
+L0094,Madina Rustamova,+998976067173,facebook,SMM,Yunusobod,Yulduz Xudoyberdiova,2025-09-12,contacted
+L0095,Kamola Jo'raova,+998985025480,telegram,AI Asoslari,Yunusobod,Diyor Islomov,2025-09-23,trial
+L0096,Anvar Sobirov,+998557252241,telegram,SMM,Yunusobod,Lola Rustamova,2025-09-18,trial
+L0097,Zarina Saidova,+998993567807,hh,Data Science,Chilonzor,Sanjar Xolmatov,2025-09-18,contacted
+L0098,Rustam Rustamov,+998884497839,facebook,Data Science,Chilonzor,Akmal Yusufov,2025-09-21,contacted
+L0099,Nargiza Tojiboyova,+998981289344,telegram,Ingliz tili,Sergeli,Lola Rustamova,2025-09-15,contacted
+L0100,Shoxrux Nishonov,+998556036095,telegram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2025-09-21,trial
+L0101,Jamshid Ahmadov,+998559747948,instagram,Data Science,Chilonzor,Lola Rustamova,2025-09-10,contacted
+L0102,Sevara Yoqubova,+998985733535,instagram,Ingliz tili,Yunusobod,Diyor Yusupov,2025-09-05,lost
+L0103,Madina Islomova,+998334693071,instagram,Backend,Sergeli,Lola Rustamova,2025-09-16,lost
+L0104,Shoxrux Ibrohimov,+998779089447,telegram,Frontend,Chilonzor,Diyor Yusupov,2025-09-24,new
+L0105,Akmal Tursunov,+998552633707,referral,Backend,Sergeli,Yulduz Xudoyberdiova,2025-09-02,contacted
+L0106,Ravshan Xudoyberdiov,+998932918168,telegram,SMM,Yunusobod,Lola Rustamova,2025-09-18,new
+L0107,Muhammadali Abdurahmonov,+998881296424,instagram,Frontend,Sergeli,Diyor Yusupov,2025-09-06,contacted
+L0108,Shirin Qodirova,+998559155887,hh,Ingliz tili,Yunusobod,Sanjar Xolmatov,2025-09-26,new
+L0109,Barno Yusufova,+998991904697,telegram,Frontend,Chilonzor,Diyor Yusupov,2025-09-18,enrolled
+L0110,Sanjar Yusupov,+998778347651,instagram,Ingliz tili,Chilonzor,Lola Rustamova,2025-09-29,trial
+L0111,Sevara G'aniova,+998994192527,referral,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2025-09-07,new
+L0112,Botir Sobirov,+998911832850,telegram,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2025-09-08,new
+L0113,Sitora Xudoyberdiova,+998989414619,telegram,AI Asoslari,Sergeli,Sanjar Xolmatov,2025-09-23,enrolled
+L0114,Shuhrat Sobirov,+998771735524,referral,Grafik Dizayn,Sergeli,Diyor Islomov,2025-09-03,enrolled
+L0115,Nigora Norqulova,+998905432165,instagram,AI Asoslari,Yunusobod,Diyor Yusupov,2025-09-17,enrolled
+L0116,Kamola Saidova,+998338175489,instagram,Backend,Chilonzor,Yulduz Xudoyberdiova,2025-09-04,contacted
+L0117,Munisa Yusupova,+998971254630,referral,AI Asoslari,Chilonzor,Lola Rustamova,2025-09-07,enrolled
+L0118,Alisher G'aniov,+998947074264,instagram,Grafik Dizayn,Sergeli,Akmal Yusufov,2025-09-18,trial
+L0119,Nilufar Tursunova,+998932979940,walk_in,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2025-09-30,enrolled
+L0120,Lola Ergashova,+998557824721,referral,Grafik Dizayn,Sergeli,Sanjar Xolmatov,2025-09-07,trial
+L0121,Nodir Yusupov,+998938082469,telegram,AI Asoslari,Yunusobod,Lola Rustamova,2025-09-15,contacted
+L0122,Akmal Hoshimov,+998936286491,walk_in,Frontend,Sergeli,Farrux Jo'raov,2025-09-08,contacted
+L0123,Davron Tojiboyov,+998953887531,walk_in,Backend,Sergeli,Farrux Jo'raov,2025-09-19,trial
+L0124,Sirojiddin Karimov,+998979819916,referral,Data Science,Chilonzor,Diyor Islomov,2025-09-20,trial
+L0125,Ravshan Toshpulatov,+998774693972,referral,Data Science,Sergeli,Sirojiddin Xolmatov,2025-09-16,trial
+L0126,Lola Karimova,+998904899326,instagram,Backend,Sergeli,Sirojiddin Xolmatov,2025-09-02,enrolled
+L0127,Davron Ibrohimov,+998981008909,instagram,Backend,Chilonzor,Diyor Islomov,2025-09-04,trial
+L0128,Jamshid Yoqubov,+998934684429,google,Frontend,Yunusobod,Yulduz Xudoyberdiova,2025-09-17,contacted
+L0129,Zafar Norqulov,+998986558941,referral,AI Asoslari,Sergeli,Sanjar Xolmatov,2025-09-22,new
+L0130,Islom Hasanov,+998996063135,telegram,Data Science,Yunusobod,Akmal Yusufov,2025-09-03,lost
+L0131,Anvar Qodirov,+998336838973,google,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2025-09-10,lost
+L0132,Sitora Hasanova,+998915650711,hh,AI Asoslari,Chilonzor,Farrux Jo'raov,2025-09-28,trial
+L0133,Farrux Hasanov,+998771310238,hh,SMM,Sergeli,Diyor Yusupov,2025-10-11,contacted
+L0134,Sanjar Jo'raov,+998902523541,hh,Grafik Dizayn,Yunusobod,Diyor Yusupov,2025-10-01,contacted
+L0135,Rustam Jo'raov,+998982868734,referral,SMM,Sergeli,Akmal Yusufov,2025-10-15,enrolled
+L0136,Kamola Boltaova,+998919228506,instagram,Backend,Chilonzor,Akmal Yusufov,2025-10-21,trial
+L0137,Shuhrat Rustamov,+998993552410,telegram,Frontend,Chilonzor,Diyor Yusupov,2025-10-26,lost
+L0138,Shirin Yusufova,+998911843575,instagram,SMM,Yunusobod,Akmal Yusufov,2025-10-25,lost
+L0139,Mehriniso Rustamova,+998981106281,instagram,Grafik Dizayn,Sergeli,Sirojiddin Xolmatov,2025-10-25,contacted
+L0140,Dilnoza Nishonova,+998992017748,referral,Backend,Yunusobod,Diyor Islomov,2025-10-25,lost
+L0141,Shuhrat Rustamov,+998945222200,referral,Backend,Chilonzor,Diyor Islomov,2025-10-26,trial
+L0142,Elyor Ergashov,+998997120463,hh,Grafik Dizayn,Yunusobod,Akmal Yusufov,2025-10-29,trial
+L0143,Barno Toshpulatova,+998336456254,instagram,SMM,Chilonzor,Farrux Jo'raov,2025-10-06,contacted
+L0144,Gulnora Ergashova,+998996440454,walk_in,SMM,Chilonzor,Diyor Islomov,2025-10-02,trial
+L0145,Nilufar Abdurahmonova,+998556896024,instagram,SMM,Sergeli,Lola Rustamova,2025-10-29,trial
+L0146,Sabina Tursunova,+998933526895,instagram,SMM,Yunusobod,Lola Rustamova,2025-10-04,lost
+L0147,Kamola Rashidova,+998557757526,telegram,Data Science,Sergeli,Farrux Jo'raov,2025-10-21,new
+L0148,Shahnoza Hoshimova,+998337924041,instagram,Ingliz tili,Yunusobod,Diyor Islomov,2025-10-24,enrolled
+L0149,Aziz Nishonov,+998995268182,referral,Backend,Chilonzor,Farrux Jo'raov,2025-10-14,contacted
+L0150,Aziza Karimova,+998996764958,walk_in,Data Science,Yunusobod,Yulduz Xudoyberdiova,2025-10-05,contacted
+L0151,Sherzod Norqulov,+998917354886,referral,Ingliz tili,Chilonzor,Diyor Islomov,2025-10-12,contacted
+L0152,Zebo Xolmatova,+998887056889,telegram,SMM,Yunusobod,Sanjar Xolmatov,2025-10-06,enrolled
+L0153,Kamola Ahmadova,+998339267980,instagram,Backend,Sergeli,Farrux Jo'raov,2025-10-07,trial
+L0154,Muhammadali Jo'raov,+998998784435,referral,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2025-10-04,enrolled
+L0155,Islom Jo'raov,+998554977109,instagram,Backend,Sergeli,Diyor Islomov,2025-10-27,contacted
+L0156,Munisa Ahmadova,+998932286459,telegram,SMM,Chilonzor,Yulduz Xudoyberdiova,2025-10-12,trial
+L0157,Diyora Nishonova,+998918821825,facebook,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2025-10-17,lost
+L0158,Shahnoza Xolmatova,+998933023546,referral,Frontend,Chilonzor,Lola Rustamova,2025-10-19,enrolled
+L0159,Ozoda Ergashova,+998975082527,referral,SMM,Sergeli,Farrux Jo'raov,2025-10-26,contacted
+L0160,Ravshan Qodirov,+998882162751,instagram,AI Asoslari,Chilonzor,Yulduz Xudoyberdiova,2025-10-28,lost
+L0161,Sherzod Rustamov,+998889578833,instagram,Frontend,Sergeli,Sanjar Xolmatov,2025-10-10,contacted
+L0162,Sanjar Saidov,+998947394223,instagram,Grafik Dizayn,Chilonzor,Akmal Yusufov,2025-10-24,enrolled
+L0163,Shoxrux Boltaov,+998996908037,telegram,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2025-10-09,contacted
+L0164,Shahnoza Norqulova,+998946858660,telegram,Backend,Sergeli,Diyor Islomov,2025-10-05,enrolled
+L0165,Sanjar Ergashov,+998945875646,instagram,Grafik Dizayn,Sergeli,Sanjar Xolmatov,2025-10-25,contacted
+L0166,Alisher Xudoyberdiov,+998917229329,hh,Frontend,Yunusobod,Lola Rustamova,2025-10-30,trial
+L0167,Zarina G'aniova,+998904388848,telegram,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2025-10-18,new
+L0168,Elyor Qodirov,+998991304833,hh,SMM,Chilonzor,Lola Rustamova,2025-10-31,new
+L0169,Sherzod Jo'raov,+998944184727,instagram,Data Science,Chilonzor,Farrux Jo'raov,2025-10-10,new
+L0170,Nilufar Sobirova,+998775192292,google,Data Science,Chilonzor,Akmal Yusufov,2025-10-11,new
+L0171,Jasur Jo'raov,+998907215822,instagram,Frontend,Chilonzor,Diyor Yusupov,2025-10-30,enrolled
+L0172,Shuhrat Umarov,+998332565518,google,Grafik Dizayn,Yunusobod,Sanjar Xolmatov,2025-10-03,enrolled
+L0173,Sirojiddin Islomov,+998331039272,referral,Grafik Dizayn,Sergeli,Lola Rustamova,2025-10-11,lost
+L0174,Feruza Karimova,+998909917953,hh,Frontend,Chilonzor,Lola Rustamova,2025-10-08,trial
+L0175,Bekzod Ergashov,+998991241701,referral,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2025-10-05,contacted
+L0176,Jamshid Saidov,+998916086013,google,Backend,Yunusobod,Lola Rustamova,2025-10-21,contacted
+L0177,Barno Ahmadova,+998989354146,telegram,Frontend,Chilonzor,Sirojiddin Xolmatov,2025-10-10,lost
+L0178,Zarina Ahmadova,+998952567939,walk_in,Grafik Dizayn,Sergeli,Diyor Yusupov,2025-10-02,new
+L0179,Farrux Islomov,+998991116940,telegram,Frontend,Chilonzor,Lola Rustamova,2025-10-21,enrolled
+L0180,Sirojiddin Abdullaov,+998332692829,walk_in,Frontend,Sergeli,Sanjar Xolmatov,2025-10-09,lost
+L0181,Aziz Abdurahmonov,+998934954150,instagram,Frontend,Yunusobod,Diyor Islomov,2025-10-15,enrolled
+L0182,Botir Tursunov,+998883175047,telegram,Backend,Sergeli,Diyor Islomov,2025-10-04,contacted
+L0183,Sitora Yusufova,+998553699323,instagram,Ingliz tili,Yunusobod,Diyor Islomov,2025-10-21,trial
+L0184,Shirin Abdullaova,+998972095612,referral,Ingliz tili,Yunusobod,Diyor Islomov,2025-10-11,lost
+L0185,Bekzod Sobirov,+998911912915,telegram,Backend,Yunusobod,Sirojiddin Xolmatov,2025-10-30,new
+L0186,Sanjar Abdullaov,+998901129820,telegram,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2025-10-02,new
+L0187,Aziz Sharipov,+998942261617,google,Data Science,Yunusobod,Sirojiddin Xolmatov,2025-10-16,enrolled
+L0188,Sitora Xudoyberdiova,+998552616284,referral,AI Asoslari,Chilonzor,Diyor Islomov,2025-10-20,enrolled
+L0189,Anvar Yusupov,+998903480715,instagram,Backend,Chilonzor,Lola Rustamova,2025-10-30,enrolled
+L0190,Ulug'bek Yusupov,+998912193355,telegram,AI Asoslari,Yunusobod,Sanjar Xolmatov,2025-10-20,enrolled
+L0191,Madina Abdurahmonova,+998909696671,walk_in,Ingliz tili,Yunusobod,Lola Rustamova,2025-10-23,trial
+L0192,Umid Abdurahmonov,+998945014548,google,Backend,Chilonzor,Sanjar Xolmatov,2025-10-15,new
+L0193,Islom Karimov,+998976396569,instagram,Frontend,Sergeli,Lola Rustamova,2025-10-11,new
+L0194,Iroda Mirzaova,+998945369566,hh,Frontend,Sergeli,Yulduz Xudoyberdiova,2025-10-30,trial
+L0195,Davron Karimov,+998884906320,hh,Frontend,Sergeli,Diyor Yusupov,2025-10-04,contacted
+L0196,Munisa Rashidova,+998778986532,instagram,AI Asoslari,Chilonzor,Akmal Yusufov,2025-10-19,lost
+L0197,Jasur Xolmatov,+998974300187,telegram,Data Science,Yunusobod,Diyor Yusupov,2025-10-15,new
+L0198,Gulchehra Ergashova,+998957675861,instagram,SMM,Chilonzor,Yulduz Xudoyberdiova,2025-10-28,contacted
+L0199,Nargiza Sobirova,+998916306623,walk_in,Data Science,Yunusobod,Akmal Yusufov,2025-10-22,enrolled
+L0200,Nilufar Karimova,+998942801493,telegram,AI Asoslari,Yunusobod,Diyor Yusupov,2025-10-02,new
+L0201,Otabek Umarov,+998773862577,telegram,Backend,Yunusobod,Lola Rustamova,2025-10-29,enrolled
+L0202,Kamola Saidova,+998333962509,instagram,Grafik Dizayn,Yunusobod,Farrux Jo'raov,2025-10-19,contacted
+L0203,Shirin Hasanova,+998902468603,referral,SMM,Yunusobod,Diyor Yusupov,2025-10-01,new
+L0204,Lola Abdullaova,+998881298828,facebook,Data Science,Yunusobod,Akmal Yusufov,2025-10-01,lost
+L0205,Diyora Umarova,+998885940802,google,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2025-10-21,contacted
+L0206,Sanjar Xolmatov,+998886845356,walk_in,Frontend,Sergeli,Akmal Yusufov,2025-10-09,new
+L0207,Jasur Boltaov,+998976831669,instagram,AI Asoslari,Sergeli,Farrux Jo'raov,2025-10-27,new
+L0208,Zafar Tojiboyov,+998554710584,instagram,AI Asoslari,Sergeli,Diyor Yusupov,2025-10-17,lost
+L0209,Shuhrat Nazarov,+998985600556,instagram,AI Asoslari,Chilonzor,Diyor Yusupov,2025-10-23,enrolled
+L0210,Muhammadali Boltaov,+998901582623,facebook,SMM,Yunusobod,Diyor Islomov,2025-10-08,enrolled
+L0211,Nigora Nazarova,+998955757961,instagram,Ingliz tili,Sergeli,Sanjar Xolmatov,2025-10-09,trial
+L0212,Diyora Rustamova,+998989112144,instagram,Ingliz tili,Sergeli,Yulduz Xudoyberdiova,2025-10-29,lost
+L0213,Lola Yoqubova,+998971063768,referral,Data Science,Chilonzor,Lola Rustamova,2025-10-05,contacted
+L0214,Nigora Toshpulatova,+998772337606,hh,Data Science,Sergeli,Lola Rustamova,2025-10-06,new
+L0215,Sardor Boltaov,+998556033179,instagram,Frontend,Chilonzor,Sirojiddin Xolmatov,2025-10-09,lost
+L0216,Umid Ergashov,+998771277147,walk_in,Frontend,Chilonzor,Farrux Jo'raov,2025-10-31,enrolled
+L0217,Zebo Abdullaova,+998337761913,walk_in,Frontend,Yunusobod,Farrux Jo'raov,2025-10-15,new
+L0218,Rayhona Tojiboyova,+998975529565,referral,AI Asoslari,Yunusobod,Farrux Jo'raov,2025-10-10,contacted
+L0219,Nargiza Tojiboyova,+998979181458,google,Data Science,Yunusobod,Diyor Islomov,2025-10-12,trial
+L0220,Ravshan Hoshimov,+998985925473,walk_in,Grafik Dizayn,Chilonzor,Sanjar Xolmatov,2025-10-14,enrolled
+L0221,Iroda Abdurahmonova,+998946294416,instagram,Ingliz tili,Sergeli,Diyor Yusupov,2025-10-10,contacted
+L0222,Nargiza Xolmatova,+998337732467,telegram,SMM,Yunusobod,Lola Rustamova,2025-10-19,new
+L0223,Shoxrux Karimov,+998996803857,hh,Frontend,Yunusobod,Sanjar Xolmatov,2025-10-28,trial
+L0224,Mehriniso Tursunova,+998945671819,hh,Ingliz tili,Chilonzor,Akmal Yusufov,2025-10-16,lost
+L0225,Shirin G'aniova,+998776484863,instagram,Frontend,Yunusobod,Lola Rustamova,2025-10-08,lost
+L0226,Shirin Tojiboyova,+998916361669,referral,Data Science,Sergeli,Farrux Jo'raov,2025-10-24,trial
+L0227,Shoxrux Tojiboyov,+998885359457,instagram,Ingliz tili,Chilonzor,Yulduz Xudoyberdiova,2025-10-22,contacted
+L0228,Sitora Abdullaova,+998556469438,referral,Backend,Sergeli,Sirojiddin Xolmatov,2025-10-15,contacted
+L0229,Diyor Xudoyberdiov,+998988972997,instagram,Frontend,Chilonzor,Sanjar Xolmatov,2025-10-08,lost
+L0230,Rayhona Rustamova,+998913198774,facebook,SMM,Yunusobod,Diyor Yusupov,2025-10-15,trial
+L0231,Bekzod Abdullaov,+998908191966,referral,AI Asoslari,Sergeli,Diyor Yusupov,2025-10-09,trial
+L0232,Sitora Jo'raova,+998981682574,instagram,Ingliz tili,Chilonzor,Akmal Yusufov,2025-10-20,trial
+L0233,Malika Abdurahmonova,+998988534813,telegram,Backend,Sergeli,Akmal Yusufov,2025-10-10,lost
+L0234,Lola Abdullaova,+998946383073,walk_in,Data Science,Yunusobod,Diyor Islomov,2025-10-05,contacted
+L0235,Nilufar G'aniova,+998998128208,telegram,Grafik Dizayn,Sergeli,Farrux Jo'raov,2025-10-23,new
+L0236,Zebo Toshpulatova,+998977713006,telegram,SMM,Yunusobod,Lola Rustamova,2025-10-29,lost
+L0237,Anvar Rashidov,+998941399575,google,AI Asoslari,Sergeli,Sanjar Xolmatov,2025-10-02,lost
+L0238,Bobur Umarov,+998943380108,referral,Frontend,Sergeli,Sirojiddin Xolmatov,2025-10-28,lost
+L0239,Gulchehra Nazarova,+998933218282,instagram,Backend,Chilonzor,Diyor Islomov,2025-11-14,new
+L0240,Iroda Karimova,+998779247875,hh,Grafik Dizayn,Yunusobod,Diyor Islomov,2025-11-20,contacted
+L0241,Bekzod Sharipov,+998986596301,instagram,SMM,Yunusobod,Sirojiddin Xolmatov,2025-11-11,contacted
+L0242,Jamshid G'aniov,+998772866100,referral,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2025-11-26,enrolled
+L0243,Rustam Jo'raov,+998554741150,referral,Data Science,Chilonzor,Diyor Yusupov,2025-11-07,lost
+L0244,Elyor Ibrohimov,+998986807367,instagram,Backend,Chilonzor,Lola Rustamova,2025-11-25,contacted
+L0245,Sanjar G'aniov,+998944150388,telegram,Backend,Chilonzor,Farrux Jo'raov,2025-11-20,new
+L0246,Sevara Yusufova,+998945862374,telegram,Backend,Sergeli,Yulduz Xudoyberdiova,2025-11-26,contacted
+L0247,Sanjar Hoshimov,+998981515616,instagram,Ingliz tili,Sergeli,Farrux Jo'raov,2025-11-16,trial
+L0248,Farrux Sattorov,+998974056923,instagram,Backend,Sergeli,Farrux Jo'raov,2025-11-27,enrolled
+L0249,Aziza Jo'raova,+998333666292,telegram,Ingliz tili,Sergeli,Lola Rustamova,2025-11-04,contacted
+L0250,Sabina Abdullaova,+998948895511,hh,Frontend,Chilonzor,Sirojiddin Xolmatov,2025-11-27,contacted
+L0251,Jasur Rustamov,+998551850998,telegram,Data Science,Sergeli,Diyor Yusupov,2025-11-30,trial
+L0252,Nilufar Xolmatova,+998996611825,referral,Frontend,Chilonzor,Lola Rustamova,2025-11-19,contacted
+L0253,Akmal Yusupov,+998971223000,telegram,SMM,Sergeli,Yulduz Xudoyberdiova,2025-11-30,contacted
+L0254,Mehriniso Xudoyberdiova,+998901727331,telegram,Backend,Chilonzor,Sanjar Xolmatov,2025-11-08,trial
+L0255,Diyor Hasanov,+998937825349,google,Grafik Dizayn,Sergeli,Akmal Yusufov,2025-11-25,enrolled
+L0256,Diyor Mirzaov,+998558292186,telegram,Ingliz tili,Chilonzor,Sanjar Xolmatov,2025-11-26,lost
+L0257,Gulnora Mirzaova,+998338377540,walk_in,SMM,Sergeli,Diyor Yusupov,2025-11-17,lost
+L0258,Sirojiddin Xudoyberdiov,+998882906433,referral,Ingliz tili,Yunusobod,Diyor Yusupov,2025-11-08,enrolled
+L0259,Islom Sattorov,+998977522625,walk_in,SMM,Yunusobod,Sanjar Xolmatov,2025-11-28,lost
+L0260,Ravshan Sobirov,+998981130456,hh,Frontend,Chilonzor,Diyor Islomov,2025-11-07,contacted
+L0261,Sabina Ergashova,+998771763725,referral,SMM,Yunusobod,Sirojiddin Xolmatov,2025-11-26,contacted
+L0262,Aziz Abdurahmonov,+998943541258,google,Backend,Chilonzor,Sirojiddin Xolmatov,2025-11-23,trial
+L0263,Munisa Rashidova,+998943238213,instagram,Data Science,Sergeli,Lola Rustamova,2025-11-05,contacted
+L0264,Xurshid Abdullaov,+998996901246,google,Ingliz tili,Yunusobod,Sanjar Xolmatov,2025-11-16,contacted
+L0265,Nigora Abdurahmonova,+998977340123,instagram,SMM,Sergeli,Yulduz Xudoyberdiova,2025-11-20,enrolled
+L0266,Ravshan Sattorov,+998884765642,referral,Backend,Sergeli,Akmal Yusufov,2025-11-29,new
+L0267,Ozoda Islomova,+998997283301,instagram,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2025-11-06,new
+L0268,Jamshid Toshpulatov,+998995896862,walk_in,Grafik Dizayn,Yunusobod,Farrux Jo'raov,2025-11-01,contacted
+L0269,Bekzod Ergashov,+998903811489,instagram,Backend,Chilonzor,Yulduz Xudoyberdiova,2025-11-01,new
+L0270,Iroda Jo'raova,+998883300773,referral,SMM,Sergeli,Sirojiddin Xolmatov,2025-11-05,enrolled
+L0271,Sitora Mirzaova,+998944512327,telegram,Frontend,Chilonzor,Sirojiddin Xolmatov,2025-11-27,new
+L0272,Gulbahor Mirzaova,+998991962773,instagram,AI Asoslari,Yunusobod,Sanjar Xolmatov,2025-11-21,lost
+L0273,Dilnoza Yoqubova,+998559420460,referral,Grafik Dizayn,Yunusobod,Farrux Jo'raov,2025-11-12,contacted
+L0274,Yulduz Abdullaova,+998941708937,hh,AI Asoslari,Sergeli,Yulduz Xudoyberdiova,2025-11-19,trial
+L0275,Nigora Umarova,+998776784527,referral,Frontend,Yunusobod,Yulduz Xudoyberdiova,2025-11-23,contacted
+L0276,Diyor Ahmadov,+998335640237,telegram,Backend,Yunusobod,Farrux Jo'raov,2025-11-29,trial
+L0277,Ravshan Qodirov,+998976434780,instagram,Data Science,Sergeli,Sirojiddin Xolmatov,2025-11-16,contacted
+L0278,Jasur Karimov,+998978290403,hh,Frontend,Chilonzor,Diyor Islomov,2025-11-14,enrolled
+L0279,Shahnoza Saidova,+998903316487,referral,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2025-11-07,contacted
+L0280,Botir Tojiboyov,+998916234568,telegram,Ingliz tili,Chilonzor,Yulduz Xudoyberdiova,2025-11-12,contacted
+L0281,Nargiza Mirzaova,+998957457297,facebook,AI Asoslari,Sergeli,Akmal Yusufov,2025-11-05,new
+L0282,Sardor Saidov,+998881777945,google,SMM,Yunusobod,Diyor Islomov,2025-11-14,lost
+L0283,Anvar Ibrohimov,+998335708511,google,Ingliz tili,Yunusobod,Sanjar Xolmatov,2025-11-16,enrolled
+L0284,Gulnora Xudoyberdiova,+998934863446,walk_in,Backend,Sergeli,Sanjar Xolmatov,2025-11-10,trial
+L0285,Gulchehra Umarova,+998918316147,facebook,AI Asoslari,Yunusobod,Sanjar Xolmatov,2025-11-08,contacted
+L0286,Anvar Tojiboyov,+998773551682,telegram,Data Science,Chilonzor,Diyor Islomov,2025-11-25,trial
+L0287,Zebo Umarova,+998554874520,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2025-11-13,trial
+L0288,Islom Yoqubov,+998983240809,walk_in,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2025-11-11,lost
+L0289,Gulbahor Saidova,+998935591496,instagram,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2025-11-03,trial
+L0290,Xurshid Qodirov,+998978184841,instagram,Frontend,Sergeli,Sirojiddin Xolmatov,2025-11-08,contacted
+L0291,Elyor Rustamov,+998938935473,instagram,SMM,Chilonzor,Lola Rustamova,2025-11-25,enrolled
+L0292,Ulug'bek Yoqubov,+998886685260,hh,Ingliz tili,Chilonzor,Yulduz Xudoyberdiova,2025-11-27,contacted
+L0293,Dilnoza Sharipova,+998331954022,telegram,Data Science,Chilonzor,Diyor Yusupov,2025-11-02,lost
+L0294,Shahnoza Yusufova,+998954022982,referral,Frontend,Yunusobod,Sirojiddin Xolmatov,2025-11-04,enrolled
+L0295,Nodir Sharipov,+998982304842,referral,SMM,Chilonzor,Diyor Yusupov,2025-11-06,new
+L0296,Nilufar Ahmadova,+998917184092,referral,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2025-11-03,contacted
+L0297,Islom Xolmatov,+998904348705,instagram,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2025-11-18,trial
+L0298,Shuhrat Hoshimov,+998885884567,instagram,Data Science,Sergeli,Diyor Islomov,2025-11-15,lost
+L0299,Sanjar Toshpulatov,+998775078726,telegram,Frontend,Chilonzor,Sanjar Xolmatov,2025-11-01,new
+L0300,Aziza Mirzaova,+998933712184,instagram,AI Asoslari,Chilonzor,Farrux Jo'raov,2025-11-22,contacted
+L0301,Farrux Jo'raov,+998943374074,instagram,Backend,Sergeli,Diyor Yusupov,2025-11-24,contacted
+L0302,Jamshid Ahmadov,+998948311603,instagram,AI Asoslari,Chilonzor,Sanjar Xolmatov,2025-11-02,trial
+L0303,Ulug'bek Yoqubov,+998979121328,walk_in,Backend,Sergeli,Farrux Jo'raov,2025-11-27,contacted
+L0304,Yulduz Ahmadova,+998774507963,telegram,AI Asoslari,Sergeli,Sanjar Xolmatov,2025-11-20,enrolled
+L0305,Nilufar Qodirova,+998993819928,walk_in,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2025-11-07,new
+L0306,Barno Boltaova,+998917050810,referral,Ingliz tili,Yunusobod,Diyor Islomov,2025-11-25,trial
+L0307,Aziz Islomov,+998907457675,google,Backend,Sergeli,Sirojiddin Xolmatov,2025-11-20,contacted
+L0308,Nargiza Yoqubova,+998772663662,google,Data Science,Chilonzor,Farrux Jo'raov,2025-11-17,trial
+L0309,Barno Boltaova,+998552453956,referral,Backend,Chilonzor,Sirojiddin Xolmatov,2025-11-13,lost
+L0310,Mehriniso Tojiboyova,+998778940106,telegram,Backend,Yunusobod,Sanjar Xolmatov,2025-11-24,contacted
+L0311,Jasur Karimov,+998554659382,referral,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2025-11-19,contacted
+L0312,Shoxrux Yoqubov,+998943642514,telegram,SMM,Yunusobod,Diyor Yusupov,2025-11-05,trial
+L0313,Malika Jo'raova,+998911659213,instagram,AI Asoslari,Chilonzor,Sanjar Xolmatov,2025-11-27,trial
+L0314,Otabek Nazarov,+998932802765,referral,Data Science,Chilonzor,Diyor Yusupov,2025-11-23,lost
+L0315,Lola Abdullaova,+998996928830,referral,AI Asoslari,Chilonzor,Diyor Islomov,2025-11-11,lost
+L0316,Sitora Yusupova,+998336306613,referral,Ingliz tili,Chilonzor,Diyor Islomov,2025-11-28,new
+L0317,Iroda Ibrohimova,+998957910715,instagram,Ingliz tili,Yunusobod,Diyor Islomov,2025-11-19,enrolled
+L0318,Yulduz Boltaova,+998885936762,facebook,SMM,Yunusobod,Farrux Jo'raov,2025-11-26,contacted
+L0319,Nilufar Ibrohimova,+998555313459,walk_in,AI Asoslari,Sergeli,Sanjar Xolmatov,2025-11-13,contacted
+L0320,Ulug'bek Nazarov,+998982288495,instagram,AI Asoslari,Chilonzor,Diyor Yusupov,2025-11-22,enrolled
+L0321,Feruza Sobirova,+998994514364,referral,SMM,Chilonzor,Yulduz Xudoyberdiova,2025-12-03,enrolled
+L0322,Farrux Yusupov,+998901889290,telegram,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2025-12-12,trial
+L0323,Davron Tursunov,+998975265859,referral,Frontend,Chilonzor,Farrux Jo'raov,2025-12-31,trial
+L0324,Lola Xolmatova,+998936985060,telegram,AI Asoslari,Yunusobod,Lola Rustamova,2025-12-29,new
+L0325,Abdulloh Xolmatov,+998331174655,telegram,Data Science,Yunusobod,Sanjar Xolmatov,2025-12-10,enrolled
+L0326,Diyor Abdullaov,+998883279844,walk_in,Data Science,Chilonzor,Diyor Yusupov,2025-12-15,lost
+L0327,Umida Ahmadova,+998339089351,hh,SMM,Chilonzor,Akmal Yusufov,2025-12-11,lost
+L0328,Alisher Norqulov,+998556869879,instagram,Frontend,Chilonzor,Yulduz Xudoyberdiova,2025-12-22,trial
+L0329,Ulug'bek Nishonov,+998885971226,walk_in,Ingliz tili,Chilonzor,Akmal Yusufov,2025-12-30,new
+L0330,Zafar Umarov,+998939054291,instagram,Frontend,Chilonzor,Lola Rustamova,2025-12-17,new
+L0331,Abdulloh Nishonov,+998777759729,instagram,Grafik Dizayn,Chilonzor,Diyor Yusupov,2025-12-27,enrolled
+L0332,Mehriniso Xolmatova,+998951594134,instagram,AI Asoslari,Yunusobod,Diyor Yusupov,2025-12-14,contacted
+L0333,Aziz Rashidov,+998939783050,hh,AI Asoslari,Chilonzor,Diyor Islomov,2025-12-03,enrolled
+L0334,Sherzod Tojiboyov,+998936096551,referral,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2025-12-01,contacted
+L0335,Barno Norqulova,+998331294815,hh,Data Science,Sergeli,Sanjar Xolmatov,2025-12-30,contacted
+L0336,Shoxrux Sobirov,+998775153219,referral,AI Asoslari,Yunusobod,Lola Rustamova,2025-12-03,contacted
+L0337,Lola Ibrohimova,+998987462051,instagram,AI Asoslari,Sergeli,Diyor Islomov,2025-12-31,trial
+L0338,Nargiza Sattorova,+998953524446,instagram,Backend,Yunusobod,Diyor Yusupov,2025-12-01,contacted
+L0339,Aziza Karimova,+998985186512,google,Ingliz tili,Chilonzor,Diyor Yusupov,2025-12-01,new
+L0340,Bekzod Ibrohimov,+998559359324,referral,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2025-12-30,lost
+L0341,Malika G'aniova,+998989984302,telegram,Frontend,Sergeli,Sanjar Xolmatov,2025-12-16,enrolled
+L0342,Nilufar Ibrohimova,+998959454826,telegram,SMM,Yunusobod,Sanjar Xolmatov,2025-12-27,contacted
+L0343,Botir Jo'raov,+998552167814,facebook,Ingliz tili,Chilonzor,Akmal Yusufov,2025-12-30,contacted
+L0344,Rayhona Hoshimova,+998992774073,instagram,Frontend,Chilonzor,Yulduz Xudoyberdiova,2025-12-29,contacted
+L0345,Munisa Qodirova,+998935003521,referral,Ingliz tili,Yunusobod,Diyor Islomov,2025-12-24,lost
+L0346,Diyor Rustamov,+998883860313,instagram,Data Science,Chilonzor,Sirojiddin Xolmatov,2025-12-22,trial
+L0347,Gulbahor Sharipova,+998906647014,referral,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2025-12-13,contacted
+L0348,Abdulloh Tursunov,+998994993777,walk_in,Ingliz tili,Chilonzor,Lola Rustamova,2025-12-09,lost
+L0349,Alisher Xudoyberdiov,+998906566861,instagram,SMM,Chilonzor,Akmal Yusufov,2025-12-24,lost
+L0350,Sirojiddin Qodirov,+998773074708,instagram,Ingliz tili,Yunusobod,Akmal Yusufov,2025-12-18,new
+L0351,Abdulloh Tojiboyov,+998331632800,instagram,Ingliz tili,Chilonzor,Lola Rustamova,2025-12-11,trial
+L0352,Dilnoza Karimova,+998917142568,instagram,AI Asoslari,Yunusobod,Sanjar Xolmatov,2025-12-16,lost
+L0353,Lola Hoshimova,+998335676273,walk_in,AI Asoslari,Chilonzor,Akmal Yusufov,2025-12-11,enrolled
+L0354,Nilufar Abdurahmonova,+998773155824,google,Grafik Dizayn,Yunusobod,Diyor Islomov,2025-12-03,enrolled
+L0355,Diyor Xolmatov,+998555876638,referral,Ingliz tili,Sergeli,Akmal Yusufov,2025-12-22,enrolled
+L0356,Anvar G'aniov,+998994952177,telegram,Backend,Chilonzor,Diyor Islomov,2025-12-24,new
+L0357,Jasur Rustamov,+998886314836,instagram,Data Science,Sergeli,Sanjar Xolmatov,2025-12-28,trial
+L0358,Abdulloh Sharipov,+998987988098,instagram,Data Science,Chilonzor,Farrux Jo'raov,2025-12-07,lost
+L0359,Gulchehra Abdullaova,+998982388192,hh,Backend,Yunusobod,Diyor Yusupov,2025-12-04,lost
+L0360,Rustam Xolmatov,+998991440894,telegram,Data Science,Yunusobod,Sirojiddin Xolmatov,2025-12-07,enrolled
+L0361,Aziza G'aniova,+998338182069,walk_in,AI Asoslari,Chilonzor,Diyor Yusupov,2025-12-14,contacted
+L0362,Sabina Xudoyberdiova,+998885275574,facebook,Data Science,Sergeli,Sirojiddin Xolmatov,2025-12-09,trial
+L0363,Diyor Nishonov,+998932355874,instagram,Ingliz tili,Sergeli,Akmal Yusufov,2025-12-16,new
+L0364,Abdulloh Umarov,+998983589031,instagram,Data Science,Yunusobod,Diyor Yusupov,2025-12-17,new
+L0365,Farrux Qodirov,+998982680715,instagram,Frontend,Chilonzor,Diyor Islomov,2025-12-08,trial
+L0366,Ozoda Sobirova,+998551900681,referral,Data Science,Chilonzor,Diyor Yusupov,2025-12-01,contacted
+L0367,Kamola Abdullaova,+998953716068,instagram,Backend,Chilonzor,Sirojiddin Xolmatov,2025-12-25,contacted
+L0368,Dilnoza Hoshimova,+998977159892,referral,Data Science,Chilonzor,Diyor Yusupov,2025-12-28,lost
+L0369,Akmal Norqulov,+998996880642,hh,Data Science,Yunusobod,Sirojiddin Xolmatov,2025-12-23,lost
+L0370,Sabina Abdullaova,+998907341624,telegram,SMM,Yunusobod,Farrux Jo'raov,2025-12-11,new
+L0371,Xurshid Rustamov,+998772361770,instagram,Data Science,Yunusobod,Akmal Yusufov,2025-12-12,lost
+L0372,Alisher Yusufov,+998941172591,instagram,Grafik Dizayn,Sergeli,Farrux Jo'raov,2025-12-31,contacted
+L0373,Shirin Xolmatova,+998998456471,google,AI Asoslari,Yunusobod,Akmal Yusufov,2025-12-04,trial
+L0374,Madina Qodirova,+998776544290,walk_in,Backend,Chilonzor,Yulduz Xudoyberdiova,2025-12-20,enrolled
+L0375,Shuhrat Ibrohimov,+998778653879,google,SMM,Chilonzor,Yulduz Xudoyberdiova,2025-12-24,trial
+L0376,Yulduz Karimova,+998972971939,walk_in,SMM,Yunusobod,Yulduz Xudoyberdiova,2025-12-09,contacted
+L0377,Muhammadali Tursunov,+998902175807,telegram,SMM,Yunusobod,Lola Rustamova,2025-12-21,enrolled
+L0378,Davron G'aniov,+998998002619,facebook,AI Asoslari,Sergeli,Yulduz Xudoyberdiova,2025-12-06,enrolled
+L0379,Xurshid Mirzaov,+998773686879,walk_in,Ingliz tili,Chilonzor,Sanjar Xolmatov,2025-12-19,contacted
+L0380,Gulbahor Yusufova,+998774696036,referral,SMM,Chilonzor,Sanjar Xolmatov,2025-12-03,trial
+L0381,Rayhona Xudoyberdiova,+998337935483,telegram,Grafik Dizayn,Yunusobod,Lola Rustamova,2025-12-30,contacted
+L0382,Jasur Karimov,+998994769736,instagram,Ingliz tili,Chilonzor,Diyor Islomov,2025-12-15,trial
+L0383,Ulug'bek Norqulov,+998335441243,telegram,AI Asoslari,Chilonzor,Sanjar Xolmatov,2025-12-29,new
+L0384,Diyor Tursunov,+998942972663,hh,Frontend,Chilonzor,Yulduz Xudoyberdiova,2025-12-31,contacted
+L0385,Gulnora Nishonova,+998777927750,hh,Data Science,Chilonzor,Diyor Islomov,2025-12-15,contacted
+L0386,Madina Karimova,+998948885258,instagram,SMM,Yunusobod,Sanjar Xolmatov,2025-12-22,lost
+L0387,Nozima Xudoyberdiova,+998886182894,telegram,Frontend,Sergeli,Lola Rustamova,2025-12-31,new
+L0388,Ravshan Tojiboyov,+998933768488,instagram,SMM,Sergeli,Farrux Jo'raov,2025-12-06,contacted
+L0389,Xurshid Sobirov,+998888648726,google,Grafik Dizayn,Sergeli,Diyor Yusupov,2025-12-19,enrolled
+L0390,Alisher Rashidov,+998992658969,instagram,Ingliz tili,Sergeli,Farrux Jo'raov,2025-12-24,trial
+L0391,Munisa Ergashova,+998919802383,telegram,Backend,Chilonzor,Akmal Yusufov,2025-12-31,contacted
+L0392,Nodir Yoqubov,+998886791845,referral,Ingliz tili,Yunusobod,Sanjar Xolmatov,2025-12-11,contacted
+L0393,Zafar Ergashov,+998331957425,google,Backend,Sergeli,Farrux Jo'raov,2025-12-24,lost
+L0394,Yulduz Sobirova,+998945965099,instagram,Data Science,Yunusobod,Diyor Yusupov,2025-12-10,enrolled
+L0395,Bekzod Ergashov,+998999447495,referral,Ingliz tili,Sergeli,Diyor Yusupov,2025-12-18,trial
+L0396,Ravshan Hasanov,+998945291722,instagram,Backend,Yunusobod,Diyor Islomov,2025-12-04,enrolled
+L0397,Jamshid Sattorov,+998336836610,instagram,SMM,Yunusobod,Yulduz Xudoyberdiova,2025-12-05,contacted
+L0398,Sevara Xudoyberdiova,+998932115909,telegram,Frontend,Yunusobod,Yulduz Xudoyberdiova,2025-12-22,contacted
+L0399,Sanjar Yusufov,+998932935682,telegram,SMM,Yunusobod,Sirojiddin Xolmatov,2025-12-11,lost
+L0400,Botir Umarov,+998916969616,facebook,Data Science,Yunusobod,Akmal Yusufov,2025-12-27,lost
+L0401,Bobur Nazarov,+998947175163,facebook,Data Science,Yunusobod,Sirojiddin Xolmatov,2025-12-04,trial
+L0402,Ulug'bek Ahmadov,+998559446385,facebook,Data Science,Sergeli,Diyor Islomov,2025-12-03,trial
+L0403,Shuhrat Yusupov,+998773531213,hh,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2025-12-22,contacted
+L0404,Zarina Sobirova,+998777451661,instagram,Ingliz tili,Yunusobod,Lola Rustamova,2025-12-04,new
+L0405,Kamola Islomova,+998903569580,telegram,Data Science,Sergeli,Lola Rustamova,2025-12-11,lost
+L0406,Madina Mirzaova,+998338150858,telegram,SMM,Yunusobod,Sanjar Xolmatov,2025-12-23,trial
+L0407,Farrux Ibrohimov,+998777981531,google,Ingliz tili,Yunusobod,Lola Rustamova,2025-12-14,trial
+L0408,Sherzod Tojiboyov,+998948319872,telegram,Frontend,Yunusobod,Sirojiddin Xolmatov,2025-12-11,contacted
+L0409,Bobur Xolmatov,+998946507050,facebook,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2025-12-03,enrolled
+L0410,Akmal Yusupov,+998984115588,telegram,Backend,Chilonzor,Diyor Yusupov,2025-12-07,contacted
+L0411,Muhammadali Rashidov,+998554029462,walk_in,Backend,Chilonzor,Yulduz Xudoyberdiova,2025-12-24,enrolled
+L0412,Davron Qodirov,+998772116173,instagram,Data Science,Sergeli,Akmal Yusufov,2025-12-19,trial
+L0413,Feruza Yusupova,+998952180844,referral,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2025-12-12,enrolled
+L0414,Bekzod Xudoyberdiov,+998903029041,telegram,Frontend,Yunusobod,Diyor Yusupov,2025-12-07,enrolled
+L0415,Ozoda Ergashova,+998935768204,telegram,Backend,Yunusobod,Lola Rustamova,2025-12-13,new
+L0416,Ulug'bek Ahmadov,+998884647164,google,Frontend,Chilonzor,Diyor Yusupov,2025-12-29,trial
+L0417,Nargiza Ibrohimova,+998914945663,instagram,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2025-12-27,lost
+L0418,Sitora Yusupova,+998993337695,instagram,Data Science,Chilonzor,Farrux Jo'raov,2025-12-18,contacted
+L0419,Anvar Mirzaov,+998971737278,instagram,SMM,Yunusobod,Diyor Yusupov,2025-12-30,new
+L0420,Ozoda Xolmatova,+998994580239,facebook,Ingliz tili,Chilonzor,Diyor Islomov,2025-12-10,lost
+L0421,Gulnora Umarova,+998975419735,instagram,SMM,Chilonzor,Akmal Yusufov,2025-12-23,new
+L0422,Otabek Norqulov,+998935019078,walk_in,AI Asoslari,Yunusobod,Lola Rustamova,2025-12-30,contacted
+L0423,Ulug'bek Yusupov,+998945163672,walk_in,Ingliz tili,Sergeli,Yulduz Xudoyberdiova,2025-12-18,contacted
+L0424,Bobur Qodirov,+998982609029,hh,AI Asoslari,Sergeli,Diyor Yusupov,2025-12-13,trial
+L0425,Malika Karimova,+998933127361,referral,Ingliz tili,Yunusobod,Akmal Yusufov,2025-12-13,trial
+L0426,Bekzod Abdurahmonov,+998994380031,telegram,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2025-12-18,enrolled
+L0427,Ravshan Sobirov,+998559180756,referral,Frontend,Chilonzor,Yulduz Xudoyberdiova,2025-12-26,trial
+L0428,Davron Umarov,+998558971086,instagram,Frontend,Sergeli,Yulduz Xudoyberdiova,2025-12-22,enrolled
+L0429,Bobur Mirzaov,+998993474384,telegram,Backend,Yunusobod,Yulduz Xudoyberdiova,2025-12-26,lost
+L0430,Xurshid Mirzaov,+998917730525,instagram,SMM,Yunusobod,Sanjar Xolmatov,2026-01-10,new
+L0431,Aziza Rashidova,+998919546153,telegram,Grafik Dizayn,Yunusobod,Diyor Yusupov,2026-01-03,new
+L0432,Gulchehra Toshpulatova,+998773558559,walk_in,Backend,Sergeli,Sanjar Xolmatov,2026-01-01,contacted
+L0433,Shoxrux Xolmatov,+998934982747,referral,Data Science,Yunusobod,Diyor Yusupov,2026-01-29,contacted
+L0434,Akmal Boltaov,+998983627659,instagram,AI Asoslari,Yunusobod,Sanjar Xolmatov,2026-01-08,enrolled
+L0435,Akmal Nazarov,+998886371535,referral,Data Science,Yunusobod,Sanjar Xolmatov,2026-01-10,contacted
+L0436,Dilnoza Toshpulatova,+998338585242,google,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-01-27,lost
+L0437,Rustam Sattorov,+998337227939,referral,Frontend,Chilonzor,Akmal Yusufov,2026-01-31,trial
+L0438,Gulbahor Boltaova,+998976693152,instagram,Data Science,Sergeli,Akmal Yusufov,2026-01-16,lost
+L0439,Nigora Hoshimova,+998982095212,hh,AI Asoslari,Chilonzor,Lola Rustamova,2026-01-05,trial
+L0440,Shoxrux Yusufov,+998888847590,walk_in,Data Science,Yunusobod,Sanjar Xolmatov,2026-01-04,trial
+L0441,Dilnoza Mirzaova,+998884507040,instagram,SMM,Chilonzor,Diyor Yusupov,2026-01-04,lost
+L0442,Aziz Hasanov,+998936906722,hh,AI Asoslari,Yunusobod,Diyor Islomov,2026-01-28,trial
+L0443,Nozima Sobirova,+998943258186,referral,Grafik Dizayn,Chilonzor,Lola Rustamova,2026-01-17,enrolled
+L0444,Iroda Ibrohimova,+998934587982,instagram,Ingliz tili,Chilonzor,Diyor Yusupov,2026-01-12,enrolled
+L0445,Diyora Sobirova,+998906356628,walk_in,SMM,Yunusobod,Sanjar Xolmatov,2026-01-20,trial
+L0446,Sirojiddin Jo'raov,+998938900722,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-01-22,contacted
+L0447,Zarina Islomova,+998337431760,instagram,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2026-01-14,contacted
+L0448,Farrux Yoqubov,+998901105804,telegram,Data Science,Yunusobod,Yulduz Xudoyberdiova,2026-01-16,contacted
+L0449,Nargiza Rashidova,+998933853373,facebook,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-01-20,enrolled
+L0450,Sevara G'aniova,+998553718168,facebook,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-01-13,trial
+L0451,Farrux Abdullaov,+998933995248,referral,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-01-21,contacted
+L0452,Abdulloh Yoqubov,+998773406514,telegram,Grafik Dizayn,Yunusobod,Diyor Yusupov,2026-01-29,new
+L0453,Umid Abdurahmonov,+998884178690,referral,Data Science,Chilonzor,Diyor Yusupov,2026-01-10,contacted
+L0454,Gulnora Sharipova,+998906883553,walk_in,AI Asoslari,Sergeli,Sanjar Xolmatov,2026-01-21,enrolled
+L0455,Sevara Xolmatova,+998995786009,instagram,Ingliz tili,Sergeli,Lola Rustamova,2026-01-27,trial
+L0456,Gulchehra Sobirova,+998975411670,telegram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-01-07,contacted
+L0457,Yulduz Ahmadova,+998946715070,referral,SMM,Yunusobod,Farrux Jo'raov,2026-01-12,lost
+L0458,Malika Toshpulatova,+998908652233,instagram,SMM,Sergeli,Diyor Yusupov,2026-01-10,trial
+L0459,Zebo Hoshimova,+998552710861,facebook,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-01-10,contacted
+L0460,Davron Xudoyberdiov,+998954787343,google,Backend,Yunusobod,Sirojiddin Xolmatov,2026-01-08,contacted
+L0461,Nozima Norqulova,+998553029710,telegram,AI Asoslari,Yunusobod,Lola Rustamova,2026-01-26,contacted
+L0462,Shahnoza Yusupova,+998987330157,referral,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2026-01-04,lost
+L0463,Alisher Abdullaov,+998972304227,google,Backend,Yunusobod,Akmal Yusufov,2026-01-18,contacted
+L0464,Bekzod Xolmatov,+998984393373,telegram,Data Science,Chilonzor,Farrux Jo'raov,2026-01-20,contacted
+L0465,Iroda Xolmatova,+998955391784,instagram,Frontend,Yunusobod,Akmal Yusufov,2026-01-30,lost
+L0466,Akmal Mirzaov,+998974238123,google,Frontend,Chilonzor,Farrux Jo'raov,2026-01-23,contacted
+L0467,Barno Yusufova,+998553614232,telegram,Frontend,Sergeli,Lola Rustamova,2026-01-17,trial
+L0468,Shuhrat Karimov,+998981134366,referral,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-01-11,contacted
+L0469,Nargiza Abdullaova,+998331205202,referral,SMM,Sergeli,Sirojiddin Xolmatov,2026-01-31,trial
+L0470,Shahnoza Saidova,+998987178434,instagram,SMM,Yunusobod,Diyor Yusupov,2026-01-14,contacted
+L0471,Zarina Toshpulatova,+998909337523,referral,SMM,Sergeli,Akmal Yusufov,2026-01-24,lost
+L0472,Iroda Xudoyberdiova,+998941958272,referral,AI Asoslari,Sergeli,Diyor Yusupov,2026-01-02,trial
+L0473,Botir Ergashov,+998559250254,google,Backend,Chilonzor,Akmal Yusufov,2026-01-19,trial
+L0474,Anvar Islomov,+998779755100,instagram,AI Asoslari,Chilonzor,Yulduz Xudoyberdiova,2026-01-06,contacted
+L0475,Diyor Jo'raov,+998906066620,telegram,SMM,Sergeli,Diyor Islomov,2026-01-27,lost
+L0476,Zafar G'aniov,+998976251683,instagram,Ingliz tili,Chilonzor,Sanjar Xolmatov,2026-01-11,lost
+L0477,Xurshid Ergashov,+998911564869,instagram,Data Science,Chilonzor,Diyor Yusupov,2026-01-05,trial
+L0478,Davron Norqulov,+998885372280,instagram,Ingliz tili,Sergeli,Farrux Jo'raov,2026-01-19,trial
+L0479,Gulchehra Islomova,+998947716535,instagram,Ingliz tili,Chilonzor,Sanjar Xolmatov,2026-01-19,enrolled
+L0480,Aziza Sharipova,+998907689283,instagram,Backend,Chilonzor,Sirojiddin Xolmatov,2026-01-23,enrolled
+L0481,Shuhrat Ibrohimov,+998976921025,telegram,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2026-01-19,trial
+L0482,Ravshan Yoqubov,+998907559249,facebook,AI Asoslari,Chilonzor,Diyor Yusupov,2026-01-21,new
+L0483,Barno Toshpulatova,+998917074343,facebook,Frontend,Sergeli,Sanjar Xolmatov,2026-01-24,enrolled
+L0484,Barno Ergashova,+998989936428,instagram,Backend,Sergeli,Sirojiddin Xolmatov,2026-01-14,contacted
+L0485,Xurshid Karimov,+998881468798,google,Backend,Chilonzor,Sanjar Xolmatov,2026-01-10,contacted
+L0486,Madina Nazarova,+998887859569,telegram,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-01-03,trial
+L0487,Aziz Abdullaov,+998902104061,instagram,Data Science,Yunusobod,Lola Rustamova,2026-01-08,new
+L0488,Anvar Sobirov,+998979419624,instagram,Frontend,Yunusobod,Sirojiddin Xolmatov,2026-01-04,new
+L0489,Abdulloh Yusufov,+998934653499,telegram,SMM,Sergeli,Diyor Yusupov,2026-01-03,lost
+L0490,Botir Boltaov,+998976735502,instagram,AI Asoslari,Sergeli,Diyor Islomov,2026-01-20,contacted
+L0491,Shuhrat Tursunov,+998776877571,referral,Data Science,Chilonzor,Diyor Yusupov,2026-01-04,contacted
+L0492,Anvar Ahmadov,+998904503945,walk_in,Backend,Yunusobod,Lola Rustamova,2026-01-04,lost
+L0493,Nigora Mirzaova,+998554839714,instagram,Ingliz tili,Yunusobod,Diyor Islomov,2026-01-19,enrolled
+L0494,Shirin Tojiboyova,+998953307616,telegram,Frontend,Sergeli,Lola Rustamova,2026-01-19,contacted
+L0495,Yulduz Sharipova,+998998877175,walk_in,SMM,Sergeli,Farrux Jo'raov,2026-01-04,trial
+L0496,Sabina Yusufova,+998337683085,hh,Backend,Sergeli,Akmal Yusufov,2026-01-12,enrolled
+L0497,Otabek Qodirov,+998882797511,instagram,Backend,Sergeli,Diyor Yusupov,2026-01-11,lost
+L0498,Iroda Nishonova,+998946702714,facebook,AI Asoslari,Yunusobod,Sanjar Xolmatov,2026-01-18,contacted
+L0499,Shahnoza Norqulova,+998993172690,instagram,SMM,Chilonzor,Sanjar Xolmatov,2026-01-30,trial
+L0500,Sitora Ibrohimova,+998952474595,referral,Frontend,Chilonzor,Akmal Yusufov,2026-01-18,enrolled
+L0501,Umid Abdullaov,+998954828738,instagram,Ingliz tili,Yunusobod,Diyor Islomov,2026-01-19,contacted
+L0502,Shoxrux Xudoyberdiov,+998901707874,telegram,Ingliz tili,Sergeli,Diyor Islomov,2026-01-20,contacted
+L0503,Ravshan Hasanov,+998951370378,instagram,AI Asoslari,Chilonzor,Akmal Yusufov,2026-01-16,enrolled
+L0504,Lola Nazarova,+998956256068,walk_in,SMM,Chilonzor,Sirojiddin Xolmatov,2026-01-19,lost
+L0505,Bekzod G'aniov,+998947255569,hh,Backend,Sergeli,Sirojiddin Xolmatov,2026-01-14,contacted
+L0506,Nilufar Jo'raova,+998777378335,telegram,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2026-01-09,contacted
+L0507,Dilnoza Umarova,+998552834028,facebook,Data Science,Sergeli,Diyor Yusupov,2026-01-22,enrolled
+L0508,Ozoda Abdullaova,+998886650759,telegram,Grafik Dizayn,Yunusobod,Diyor Islomov,2026-01-21,enrolled
+L0509,Malika Rashidova,+998772279673,facebook,AI Asoslari,Sergeli,Farrux Jo'raov,2026-01-09,enrolled
+L0510,Muhammadali Yusupov,+998551210881,instagram,Data Science,Yunusobod,Akmal Yusufov,2026-01-30,trial
+L0511,Jasur Ahmadov,+998987136103,instagram,SMM,Sergeli,Sirojiddin Xolmatov,2026-01-26,trial
+L0512,Islom Sobirov,+998339120570,instagram,SMM,Chilonzor,Sirojiddin Xolmatov,2026-01-07,lost
+L0513,Feruza Ergashova,+998955099777,google,Backend,Yunusobod,Farrux Jo'raov,2026-01-02,new
+L0514,Bobur Toshpulatov,+998976553299,telegram,Data Science,Chilonzor,Diyor Islomov,2026-01-13,lost
+L0515,Gulchehra Umarova,+998942810840,telegram,SMM,Chilonzor,Yulduz Xudoyberdiova,2026-01-12,new
+L0516,Nigora Rustamova,+998917802627,walk_in,Backend,Sergeli,Diyor Islomov,2026-01-18,enrolled
+L0517,Sabina Ergashova,+998337545776,telegram,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-01-04,contacted
+L0518,Aziz Norqulov,+998959995140,walk_in,AI Asoslari,Chilonzor,Yulduz Xudoyberdiova,2026-01-30,new
+L0519,Ozoda Sharipova,+998948356505,google,Backend,Yunusobod,Yulduz Xudoyberdiova,2026-01-29,enrolled
+L0520,Nozima Yoqubova,+998974306999,instagram,SMM,Yunusobod,Lola Rustamova,2026-01-12,trial
+L0521,Sirojiddin Nazarov,+998902162477,walk_in,Backend,Sergeli,Yulduz Xudoyberdiova,2026-01-15,lost
+L0522,Bekzod Xolmatov,+998554626983,referral,Data Science,Yunusobod,Farrux Jo'raov,2026-01-23,lost
+L0523,Rustam Nishonov,+998772570971,google,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-01-02,trial
+L0524,Otabek Nazarov,+998906768619,instagram,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2026-01-06,enrolled
+L0525,Kamola Sobirova,+998918165338,instagram,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-01-24,new
+L0526,Nilufar Jo'raova,+998888077454,hh,Backend,Chilonzor,Sirojiddin Xolmatov,2026-01-03,enrolled
+L0527,Rustam Saidov,+998999989768,instagram,Frontend,Chilonzor,Farrux Jo'raov,2026-01-29,trial
+L0528,Zafar Sattorov,+998777970029,instagram,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-01-11,contacted
+L0529,Ozoda Umarova,+998773134285,telegram,AI Asoslari,Sergeli,Diyor Islomov,2026-01-20,contacted
+L0530,Davron Xolmatov,+998905975940,instagram,Backend,Yunusobod,Diyor Yusupov,2026-01-08,lost
+L0531,Aziz Hasanov,+998984262669,instagram,AI Asoslari,Yunusobod,Lola Rustamova,2026-01-19,enrolled
+L0532,Botir Umarov,+998981787119,telegram,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2026-01-25,trial
+L0533,Yulduz Ergashova,+998972310244,referral,Grafik Dizayn,Yunusobod,Diyor Islomov,2026-01-07,contacted
+L0534,Sanjar Yusupov,+998948673621,telegram,Ingliz tili,Chilonzor,Sirojiddin Xolmatov,2026-01-08,trial
+L0535,Sitora Yoqubova,+998978572885,referral,SMM,Yunusobod,Farrux Jo'raov,2026-01-05,lost
+L0536,Bekzod Xolmatov,+998995316935,instagram,Data Science,Chilonzor,Akmal Yusufov,2026-01-27,enrolled
+L0537,Lola Jo'raova,+998905955772,telegram,Frontend,Sergeli,Sanjar Xolmatov,2026-01-21,trial
+L0538,Bobur Hoshimov,+998949749876,telegram,Frontend,Yunusobod,Sirojiddin Xolmatov,2026-01-20,enrolled
+L0539,Shirin Abdullaova,+998983995943,hh,Data Science,Chilonzor,Diyor Islomov,2026-01-08,lost
+L0540,Dilnoza Sattorova,+998939319264,instagram,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-01-29,contacted
+L0541,Akmal Hoshimov,+998902332298,instagram,Grafik Dizayn,Yunusobod,Diyor Islomov,2026-01-27,contacted
+L0542,Botir Toshpulatov,+998886372022,walk_in,Grafik Dizayn,Sergeli,Lola Rustamova,2026-01-27,contacted
+L0543,Sabina Yoqubova,+998887452626,hh,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2026-01-15,contacted
+L0544,Yulduz Sharipova,+998994703264,walk_in,Data Science,Chilonzor,Diyor Yusupov,2026-01-18,contacted
+L0545,Farrux Ahmadov,+998339237350,telegram,Backend,Yunusobod,Diyor Yusupov,2026-01-18,trial
+L0546,Jasur Abdullaov,+998775065034,referral,Ingliz tili,Yunusobod,Diyor Yusupov,2026-01-15,trial
+L0547,Jamshid Mirzaov,+998947381391,instagram,AI Asoslari,Sergeli,Lola Rustamova,2026-01-03,trial
+L0548,Nodir Hasanov,+998932353310,walk_in,AI Asoslari,Sergeli,Diyor Yusupov,2026-01-09,enrolled
+L0549,Bekzod Abdullaov,+998986774810,referral,Ingliz tili,Chilonzor,Akmal Yusufov,2026-01-31,trial
+L0550,Gulbahor Rashidova,+998906778129,telegram,Data Science,Sergeli,Sirojiddin Xolmatov,2026-02-18,enrolled
+L0551,Ravshan Toshpulatov,+998977018252,instagram,Frontend,Sergeli,Farrux Jo'raov,2026-02-28,new
+L0552,Shoxrux Toshpulatov,+998556673684,telegram,SMM,Chilonzor,Diyor Yusupov,2026-02-02,trial
+L0553,Elyor Rashidov,+998884911438,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-02-24,trial
+L0554,Aziz Islomov,+998949646313,facebook,Backend,Sergeli,Lola Rustamova,2026-02-13,trial
+L0555,Sirojiddin Mirzaov,+998981138569,referral,Frontend,Chilonzor,Yulduz Xudoyberdiova,2026-02-05,enrolled
+L0556,Madina Jo'raova,+998774168274,walk_in,Grafik Dizayn,Sergeli,Diyor Yusupov,2026-02-06,enrolled
+L0557,Iroda Xudoyberdiova,+998935643013,facebook,Grafik Dizayn,Chilonzor,Akmal Yusufov,2026-02-17,contacted
+L0558,Shoxrux Tojiboyov,+998775715330,instagram,Data Science,Sergeli,Diyor Yusupov,2026-02-17,enrolled
+L0559,Sirojiddin Rashidov,+998992757494,walk_in,Frontend,Sergeli,Diyor Islomov,2026-02-24,new
+L0560,Jamshid Xudoyberdiov,+998772486259,telegram,SMM,Chilonzor,Yulduz Xudoyberdiova,2026-02-16,new
+L0561,Sabina Yusupova,+998958413069,instagram,SMM,Chilonzor,Akmal Yusufov,2026-02-17,lost
+L0562,Ulug'bek Sobirov,+998775022833,instagram,SMM,Yunusobod,Diyor Yusupov,2026-02-22,trial
+L0563,Kamola Norqulova,+998887174426,instagram,Data Science,Chilonzor,Diyor Yusupov,2026-02-16,trial
+L0564,Jasur Norqulov,+998917616652,instagram,SMM,Chilonzor,Yulduz Xudoyberdiova,2026-02-24,lost
+L0565,Gulbahor Hoshimova,+998556854619,telegram,Data Science,Sergeli,Diyor Islomov,2026-02-19,lost
+L0566,Shirin Nazarova,+998337897056,instagram,Ingliz tili,Yunusobod,Akmal Yusufov,2026-02-09,contacted
+L0567,Nilufar Yusufova,+998934426776,hh,Frontend,Yunusobod,Lola Rustamova,2026-02-26,enrolled
+L0568,Sanjar Ibrohimov,+998901026420,google,Backend,Yunusobod,Akmal Yusufov,2026-02-23,lost
+L0569,Barno Qodirova,+998947837053,walk_in,Backend,Chilonzor,Diyor Islomov,2026-02-02,new
+L0570,Yulduz Mirzaova,+998931159257,instagram,Frontend,Chilonzor,Akmal Yusufov,2026-02-18,new
+L0571,Nargiza Abdurahmonova,+998334719632,telegram,SMM,Yunusobod,Sanjar Xolmatov,2026-02-10,lost
+L0572,Nargiza Rustamova,+998778576590,referral,Backend,Chilonzor,Sirojiddin Xolmatov,2026-02-10,enrolled
+L0573,Sanjar Xudoyberdiov,+998957515344,instagram,Data Science,Sergeli,Lola Rustamova,2026-02-11,enrolled
+L0574,Ravshan Ibrohimov,+998931812916,facebook,SMM,Sergeli,Lola Rustamova,2026-02-28,trial
+L0575,Barno Tojiboyova,+998917216342,instagram,Backend,Chilonzor,Akmal Yusufov,2026-02-23,trial
+L0576,Gulchehra Jo'raova,+998775669676,telegram,Grafik Dizayn,Sergeli,Farrux Jo'raov,2026-02-22,enrolled
+L0577,Barno Saidova,+998995578847,hh,Ingliz tili,Sergeli,Lola Rustamova,2026-02-23,enrolled
+L0578,Sirojiddin Tojiboyov,+998988007307,hh,Frontend,Yunusobod,Sanjar Xolmatov,2026-02-24,new
+L0579,Madina Abdullaova,+998972817164,telegram,Data Science,Yunusobod,Diyor Yusupov,2026-02-14,enrolled
+L0580,Diyor Toshpulatov,+998935082077,instagram,Data Science,Yunusobod,Sanjar Xolmatov,2026-02-20,lost
+L0581,Rustam Sobirov,+998957038452,telegram,SMM,Chilonzor,Diyor Islomov,2026-02-21,trial
+L0582,Jasur Yusufov,+998778980037,telegram,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-02-19,trial
+L0583,Nodir Sattorov,+998996106658,telegram,Frontend,Sergeli,Sanjar Xolmatov,2026-02-08,contacted
+L0584,Dilnoza Sharipova,+998557124331,facebook,Ingliz tili,Chilonzor,Yulduz Xudoyberdiova,2026-02-27,contacted
+L0585,Nodir Tojiboyov,+998776232662,referral,AI Asoslari,Yunusobod,Akmal Yusufov,2026-02-27,new
+L0586,Malika Abdullaova,+998997246865,hh,SMM,Yunusobod,Diyor Islomov,2026-02-08,enrolled
+L0587,Dilnoza Nazarova,+998932756297,referral,AI Asoslari,Chilonzor,Diyor Yusupov,2026-02-11,enrolled
+L0588,Sherzod Toshpulatov,+998975912398,instagram,Grafik Dizayn,Chilonzor,Sanjar Xolmatov,2026-02-04,contacted
+L0589,Islom Xolmatov,+998978066854,google,Data Science,Yunusobod,Farrux Jo'raov,2026-02-28,contacted
+L0590,Sherzod Nishonov,+998779647301,google,Frontend,Sergeli,Diyor Yusupov,2026-02-02,contacted
+L0591,Gulchehra Karimova,+998337994373,instagram,Frontend,Sergeli,Farrux Jo'raov,2026-02-10,lost
+L0592,Elyor Xudoyberdiov,+998907325980,walk_in,Frontend,Sergeli,Farrux Jo'raov,2026-02-15,new
+L0593,Gulnora Jo'raova,+998983630115,instagram,SMM,Sergeli,Diyor Yusupov,2026-02-08,enrolled
+L0594,Shahnoza Ahmadova,+998946020794,walk_in,Grafik Dizayn,Sergeli,Lola Rustamova,2026-02-03,trial
+L0595,Gulchehra Tursunova,+998331084011,walk_in,SMM,Chilonzor,Diyor Islomov,2026-02-23,contacted
+L0596,Nargiza Nishonova,+998556794377,instagram,Ingliz tili,Chilonzor,Akmal Yusufov,2026-02-16,contacted
+L0597,Akmal Xolmatov,+998913407794,referral,Frontend,Chilonzor,Diyor Yusupov,2026-02-18,contacted
+L0598,Aziza Xolmatova,+998336645136,instagram,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-02-12,enrolled
+L0599,Otabek Yusupov,+998987006860,telegram,SMM,Yunusobod,Akmal Yusufov,2026-02-25,contacted
+L0600,Lola Tojiboyova,+998905749911,referral,AI Asoslari,Sergeli,Diyor Yusupov,2026-02-10,trial
+L0601,Davron Abdullaov,+998771129913,instagram,Ingliz tili,Yunusobod,Sirojiddin Xolmatov,2026-02-03,enrolled
+L0602,Farrux Rashidov,+998552236634,referral,Data Science,Yunusobod,Lola Rustamova,2026-02-09,enrolled
+L0603,Sirojiddin Xudoyberdiov,+998979958680,google,Grafik Dizayn,Chilonzor,Sanjar Xolmatov,2026-02-09,new
+L0604,Gulnora Karimova,+998999158882,referral,AI Asoslari,Chilonzor,Lola Rustamova,2026-02-22,contacted
+L0605,Sanjar Islomov,+998981384515,telegram,AI Asoslari,Sergeli,Akmal Yusufov,2026-02-18,enrolled
+L0606,Sanjar Umarov,+998885196174,referral,Ingliz tili,Chilonzor,Farrux Jo'raov,2026-02-14,new
+L0607,Nilufar Hasanova,+998958369594,telegram,Frontend,Chilonzor,Diyor Yusupov,2026-02-22,lost
+L0608,Nilufar Nazarova,+998976552610,walk_in,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-02-16,contacted
+L0609,Rayhona Boltaova,+998881091238,referral,AI Asoslari,Chilonzor,Sanjar Xolmatov,2026-02-03,enrolled
+L0610,Elyor Ibrohimov,+998337332823,google,Ingliz tili,Yunusobod,Akmal Yusufov,2026-02-02,contacted
+L0611,Botir Tojiboyov,+998918839771,instagram,SMM,Chilonzor,Diyor Yusupov,2026-02-21,lost
+L0612,Shoxrux Yusupov,+998973335945,instagram,Frontend,Sergeli,Akmal Yusufov,2026-02-26,contacted
+L0613,Feruza Abdullaova,+998332980913,telegram,Data Science,Yunusobod,Lola Rustamova,2026-02-11,lost
+L0614,Rayhona Sobirova,+998985195048,telegram,Data Science,Yunusobod,Yulduz Xudoyberdiova,2026-02-01,enrolled
+L0615,Diyor Mirzaov,+998915905312,walk_in,SMM,Chilonzor,Diyor Islomov,2026-02-09,trial
+L0616,Gulnora Umarova,+998983131733,facebook,SMM,Sergeli,Sanjar Xolmatov,2026-02-01,new
+L0617,Alisher Qodirov,+998553991735,facebook,Data Science,Yunusobod,Lola Rustamova,2026-02-25,contacted
+L0618,Gulnora Yoqubova,+998881675695,instagram,Frontend,Chilonzor,Sirojiddin Xolmatov,2026-02-07,contacted
+L0619,Sitora Ahmadova,+998994219584,instagram,Frontend,Sergeli,Yulduz Xudoyberdiova,2026-02-03,trial
+L0620,Akmal Umarov,+998909481465,walk_in,Frontend,Yunusobod,Farrux Jo'raov,2026-02-06,new
+L0621,Sardor Nishonov,+998331597187,instagram,Frontend,Yunusobod,Sirojiddin Xolmatov,2026-02-04,contacted
+L0622,Zebo Mirzaova,+998901493942,referral,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-02-17,lost
+L0623,Diyora Hasanova,+998948516452,telegram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-02-15,contacted
+L0624,Shoxrux Yusufov,+998996549211,telegram,Frontend,Yunusobod,Diyor Islomov,2026-02-28,new
+L0625,Zarina G'aniova,+998974480347,instagram,AI Asoslari,Sergeli,Farrux Jo'raov,2026-02-06,trial
+L0626,Nigora Nazarova,+998332589477,instagram,Data Science,Chilonzor,Diyor Islomov,2026-02-01,new
+L0627,Umid Xudoyberdiov,+998902049813,telegram,Data Science,Yunusobod,Diyor Islomov,2026-02-15,new
+L0628,Davron Tojiboyov,+998933459337,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-02-21,contacted
+L0629,Sirojiddin Rustamov,+998551862915,referral,Backend,Yunusobod,Sanjar Xolmatov,2026-02-05,contacted
+L0630,Kamola Nishonova,+998888350363,walk_in,SMM,Chilonzor,Sanjar Xolmatov,2026-02-19,enrolled
+L0631,Ravshan Mirzaov,+998931873273,telegram,AI Asoslari,Chilonzor,Diyor Islomov,2026-02-06,contacted
+L0632,Sanjar Karimov,+998989288427,referral,Data Science,Chilonzor,Akmal Yusufov,2026-02-01,lost
+L0633,Barno Tursunova,+998884111272,hh,Grafik Dizayn,Sergeli,Farrux Jo'raov,2026-02-24,enrolled
+L0634,Munisa Sobirova,+998973025886,hh,Ingliz tili,Yunusobod,Diyor Islomov,2026-02-12,contacted
+L0635,Abdulloh Yusupov,+998885750347,walk_in,Grafik Dizayn,Yunusobod,Sanjar Xolmatov,2026-02-28,trial
+L0636,Diyor Nazarov,+998947369825,referral,Grafik Dizayn,Chilonzor,Lola Rustamova,2026-02-06,enrolled
+L0637,Jamshid Abdurahmonov,+998551397306,telegram,AI Asoslari,Sergeli,Diyor Yusupov,2026-02-07,contacted
+L0638,Rayhona Yusupova,+998984798312,referral,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-02-05,trial
+L0639,Shoxrux Qodirov,+998903609159,instagram,Backend,Sergeli,Diyor Yusupov,2026-02-09,enrolled
+L0640,Shoxrux Ahmadov,+998999126216,instagram,Backend,Yunusobod,Diyor Yusupov,2026-02-01,enrolled
+L0641,Diyora Mirzaova,+998955001894,instagram,Backend,Yunusobod,Yulduz Xudoyberdiova,2026-02-10,contacted
+L0642,Dilnoza Hasanova,+998972395237,telegram,Data Science,Yunusobod,Farrux Jo'raov,2026-02-05,trial
+L0643,Umida Tojiboyova,+998553030871,telegram,Frontend,Chilonzor,Diyor Yusupov,2026-02-13,trial
+L0644,Ravshan Abdurahmonov,+998989691173,instagram,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2026-02-12,enrolled
+L0645,Gulchehra Rashidova,+998949438059,google,Data Science,Yunusobod,Sirojiddin Xolmatov,2026-02-05,contacted
+L0646,Islom Tursunov,+998973824545,facebook,Data Science,Yunusobod,Akmal Yusufov,2026-02-11,lost
+L0647,Umida Abdurahmonova,+998333207955,facebook,AI Asoslari,Chilonzor,Sanjar Xolmatov,2026-02-28,new
+L0648,Lola Islomova,+998772662629,walk_in,Frontend,Yunusobod,Yulduz Xudoyberdiova,2026-02-02,enrolled
+L0649,Jasur Xolmatov,+998996343467,instagram,Frontend,Chilonzor,Farrux Jo'raov,2026-02-05,trial
+L0650,Nozima Ergashova,+998334800622,walk_in,Frontend,Sergeli,Diyor Islomov,2026-02-21,contacted
+L0651,Shuhrat Tojiboyov,+998936046558,referral,Backend,Sergeli,Diyor Islomov,2026-02-22,new
+L0652,Sitora Hoshimova,+998888707881,google,Ingliz tili,Yunusobod,Sirojiddin Xolmatov,2026-02-10,lost
+L0653,Umida Ahmadova,+998553509748,google,SMM,Chilonzor,Akmal Yusufov,2026-02-04,lost
+L0654,Gulnora Yoqubova,+998338581535,hh,Frontend,Yunusobod,Lola Rustamova,2026-02-14,trial
+L0655,Ravshan Rustamov,+998948613540,google,Ingliz tili,Chilonzor,Sirojiddin Xolmatov,2026-02-02,enrolled
+L0656,Rustam Islomov,+998338926368,referral,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2026-02-20,trial
+L0657,Bekzod Toshpulatov,+998996378176,instagram,SMM,Sergeli,Sanjar Xolmatov,2026-02-07,lost
+L0658,Farrux Tursunov,+998971723385,referral,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-02-17,trial
+L0659,Madina Mirzaova,+998984032529,instagram,Grafik Dizayn,Sergeli,Diyor Yusupov,2026-03-27,contacted
+L0660,Zafar Yoqubov,+998974707807,referral,Backend,Sergeli,Akmal Yusufov,2026-03-28,lost
+L0661,Barno Boltaova,+998777952840,facebook,Frontend,Sergeli,Farrux Jo'raov,2026-03-14,trial
+L0662,Yulduz Islomova,+998944788296,referral,Ingliz tili,Sergeli,Farrux Jo'raov,2026-03-14,contacted
+L0663,Alisher Ibrohimov,+998972161440,facebook,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-03-18,enrolled
+L0664,Jamshid Toshpulatov,+998335119882,instagram,Ingliz tili,Chilonzor,Akmal Yusufov,2026-03-14,contacted
+L0665,Nozima Ergashova,+998953664790,facebook,Backend,Chilonzor,Lola Rustamova,2026-03-10,contacted
+L0666,Zafar Islomov,+998994889636,instagram,SMM,Chilonzor,Akmal Yusufov,2026-03-15,enrolled
+L0667,Alisher Norqulov,+998952814759,instagram,AI Asoslari,Yunusobod,Akmal Yusufov,2026-03-17,new
+L0668,Nodir Rashidov,+998555140967,instagram,SMM,Chilonzor,Diyor Yusupov,2026-03-10,new
+L0669,Kamola Ergashova,+998911021702,referral,Backend,Chilonzor,Yulduz Xudoyberdiova,2026-03-17,contacted
+L0670,Islom Tursunov,+998992170712,instagram,Backend,Yunusobod,Lola Rustamova,2026-03-23,lost
+L0671,Rustam Xudoyberdiov,+998882417345,telegram,Data Science,Chilonzor,Yulduz Xudoyberdiova,2026-03-17,lost
+L0672,Aziz Jo'raov,+998987253938,walk_in,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2026-03-28,enrolled
+L0673,Islom Qodirov,+998915200359,instagram,Ingliz tili,Yunusobod,Diyor Yusupov,2026-03-29,new
+L0674,Ozoda Ibrohimova,+998996793692,referral,Data Science,Sergeli,Diyor Islomov,2026-03-14,new
+L0675,Barno Abdurahmonova,+998339197967,walk_in,SMM,Sergeli,Lola Rustamova,2026-03-28,trial
+L0676,Sanjar Ibrohimov,+998971081709,walk_in,Grafik Dizayn,Chilonzor,Diyor Islomov,2026-03-07,contacted
+L0677,Bobur Sattorov,+998947005656,walk_in,SMM,Yunusobod,Yulduz Xudoyberdiova,2026-03-02,trial
+L0678,Diyor Yusufov,+998932434969,hh,SMM,Sergeli,Diyor Islomov,2026-03-23,trial
+L0679,Nigora Xolmatova,+998777623817,google,SMM,Sergeli,Lola Rustamova,2026-03-02,lost
+L0680,Rayhona Umarova,+998986181434,instagram,Frontend,Sergeli,Lola Rustamova,2026-03-13,enrolled
+L0681,Ulug'bek Islomov,+998337816355,telegram,Ingliz tili,Sergeli,Lola Rustamova,2026-03-09,contacted
+L0682,Shirin Yusufova,+998941124354,instagram,Grafik Dizayn,Chilonzor,Akmal Yusufov,2026-03-23,lost
+L0683,Davron Hasanov,+998982444181,walk_in,Frontend,Chilonzor,Sanjar Xolmatov,2026-03-12,enrolled
+L0684,Shoxrux Xolmatov,+998997062694,telegram,Ingliz tili,Chilonzor,Diyor Yusupov,2026-03-14,trial
+L0685,Feruza Yusupova,+998779485115,instagram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-03-17,enrolled
+L0686,Sherzod G'aniov,+998932855172,instagram,SMM,Chilonzor,Farrux Jo'raov,2026-03-18,enrolled
+L0687,Barno Ergashova,+998953735642,google,Backend,Yunusobod,Diyor Islomov,2026-03-20,enrolled
+L0688,Aziz Nazarov,+998882700973,instagram,Data Science,Chilonzor,Diyor Yusupov,2026-03-02,contacted
+L0689,Ulug'bek Norqulov,+998947341745,instagram,AI Asoslari,Yunusobod,Diyor Yusupov,2026-03-08,contacted
+L0690,Sabina Yusupova,+998989337009,facebook,SMM,Chilonzor,Sirojiddin Xolmatov,2026-03-06,new
+L0691,Mehriniso Sattorova,+998908612071,instagram,Frontend,Yunusobod,Yulduz Xudoyberdiova,2026-03-05,trial
+L0692,Ravshan Islomov,+998931758497,instagram,SMM,Sergeli,Sirojiddin Xolmatov,2026-03-23,contacted
+L0693,Sanjar Nazarov,+998998878943,instagram,Frontend,Yunusobod,Farrux Jo'raov,2026-03-05,lost
+L0694,Umida Jo'raova,+998979381555,referral,Grafik Dizayn,Sergeli,Diyor Yusupov,2026-03-11,new
+L0695,Shahnoza Boltaova,+998905792320,referral,Backend,Yunusobod,Diyor Islomov,2026-03-20,lost
+L0696,Bobur Sharipov,+998554729199,google,Ingliz tili,Yunusobod,Lola Rustamova,2026-03-14,enrolled
+L0697,Madina Rustamova,+998955311165,instagram,AI Asoslari,Chilonzor,Yulduz Xudoyberdiova,2026-03-30,enrolled
+L0698,Rustam Umarov,+998947700026,telegram,Grafik Dizayn,Chilonzor,Lola Rustamova,2026-03-30,lost
+L0699,Gulbahor Xolmatova,+998773406442,instagram,Frontend,Yunusobod,Diyor Yusupov,2026-03-31,contacted
+L0700,Shahnoza Qodirova,+998918419824,instagram,SMM,Yunusobod,Lola Rustamova,2026-03-01,new
+L0701,Davron Karimov,+998977436844,instagram,Data Science,Yunusobod,Sirojiddin Xolmatov,2026-03-04,new
+L0702,Dilnoza Abdullaova,+998952630860,instagram,SMM,Chilonzor,Diyor Islomov,2026-03-04,lost
+L0703,Madina Karimova,+998904851223,instagram,Backend,Sergeli,Akmal Yusufov,2026-03-19,contacted
+L0704,Islom Qodirov,+998336963655,instagram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-03-20,trial
+L0705,Lola Sattorova,+998972098430,hh,Data Science,Sergeli,Yulduz Xudoyberdiova,2026-03-21,enrolled
+L0706,Nargiza Jo'raova,+998937741758,referral,Data Science,Chilonzor,Yulduz Xudoyberdiova,2026-03-12,new
+L0707,Umid Yusufov,+998933802444,hh,Grafik Dizayn,Sergeli,Sanjar Xolmatov,2026-03-01,new
+L0708,Rustam Yusufov,+998952199009,google,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-03-21,trial
+L0709,Diyor Hoshimov,+998942222072,walk_in,Ingliz tili,Chilonzor,Sanjar Xolmatov,2026-03-08,contacted
+L0710,Yulduz Rashidova,+998938979579,telegram,SMM,Chilonzor,Diyor Islomov,2026-03-23,lost
+L0711,Nozima Umarova,+998902234780,telegram,Ingliz tili,Sergeli,Sanjar Xolmatov,2026-03-20,trial
+L0712,Nozima Nazarova,+998775439019,walk_in,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-03-02,trial
+L0713,Elyor Hoshimov,+998956021576,telegram,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-03-10,lost
+L0714,Nargiza Islomova,+998971227435,telegram,Backend,Yunusobod,Yulduz Xudoyberdiova,2026-03-02,lost
+L0715,Ozoda Xolmatova,+998946607049,google,Frontend,Chilonzor,Diyor Islomov,2026-03-16,trial
+L0716,Otabek Mirzaov,+998986254050,instagram,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2026-03-15,trial
+L0717,Zarina Ahmadova,+998906640957,walk_in,Grafik Dizayn,Sergeli,Farrux Jo'raov,2026-03-20,contacted
+L0718,Bobur Tojiboyov,+998951192406,telegram,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-03-27,enrolled
+L0719,Davron Yusupov,+998943476176,walk_in,Frontend,Yunusobod,Sanjar Xolmatov,2026-03-11,contacted
+L0720,Aziza Ergashova,+998555161324,google,Frontend,Chilonzor,Yulduz Xudoyberdiova,2026-03-25,trial
+L0721,Zebo Yoqubova,+998946387127,telegram,Data Science,Chilonzor,Lola Rustamova,2026-03-29,enrolled
+L0722,Jasur Islomov,+998991787329,telegram,AI Asoslari,Chilonzor,Sanjar Xolmatov,2026-03-01,new
+L0723,Abdulloh G'aniov,+998999189793,telegram,SMM,Chilonzor,Diyor Islomov,2026-03-06,contacted
+L0724,Ulug'bek Hoshimov,+998939713013,referral,Frontend,Yunusobod,Akmal Yusufov,2026-03-25,lost
+L0725,Nargiza Ahmadova,+998908488614,telegram,AI Asoslari,Sergeli,Diyor Islomov,2026-03-30,contacted
+L0726,Akmal Hoshimov,+998979208949,referral,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-03-13,contacted
+L0727,Islom Islomov,+998987506158,telegram,Frontend,Yunusobod,Diyor Yusupov,2026-03-26,trial
+L0728,Nozima Rashidova,+998981855757,hh,AI Asoslari,Sergeli,Lola Rustamova,2026-03-20,new
+L0729,Gulbahor Yoqubova,+998907429078,referral,Backend,Yunusobod,Sirojiddin Xolmatov,2026-03-08,contacted
+L0730,Feruza Toshpulatova,+998989567859,telegram,Backend,Chilonzor,Sanjar Xolmatov,2026-03-18,enrolled
+L0731,Abdulloh Hoshimov,+998947955430,referral,Frontend,Sergeli,Sanjar Xolmatov,2026-03-10,contacted
+L0732,Feruza Ahmadova,+998941706359,instagram,Data Science,Sergeli,Diyor Yusupov,2026-03-14,enrolled
+L0733,Akmal Ergashov,+998912111556,google,Data Science,Yunusobod,Akmal Yusufov,2026-03-13,enrolled
+L0734,Sardor G'aniov,+998984343078,instagram,AI Asoslari,Yunusobod,Lola Rustamova,2026-03-30,trial
+L0735,Barno Abdurahmonova,+998986565621,instagram,SMM,Sergeli,Diyor Islomov,2026-03-23,enrolled
+L0736,Sardor Xolmatov,+998994134023,facebook,Ingliz tili,Sergeli,Sanjar Xolmatov,2026-03-13,contacted
+L0737,Gulnora Yoqubova,+998946410962,instagram,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2026-03-16,enrolled
+L0738,Umid Islomov,+998888507994,hh,Data Science,Yunusobod,Farrux Jo'raov,2026-03-13,contacted
+L0739,Muhammadali Xolmatov,+998933952703,instagram,Backend,Chilonzor,Diyor Islomov,2026-03-11,contacted
+L0740,Jasur Rashidov,+998945171224,telegram,AI Asoslari,Chilonzor,Diyor Yusupov,2026-03-07,lost
+L0741,Sanjar Saidov,+998987128695,referral,Data Science,Yunusobod,Yulduz Xudoyberdiova,2026-03-22,enrolled
+L0742,Rustam Sharipov,+998909087060,hh,Data Science,Sergeli,Yulduz Xudoyberdiova,2026-03-11,contacted
+L0743,Anvar Qodirov,+998918216424,google,SMM,Sergeli,Akmal Yusufov,2026-03-30,enrolled
+L0744,Iroda Tursunova,+998993494682,telegram,Grafik Dizayn,Sergeli,Yulduz Xudoyberdiova,2026-03-14,contacted
+L0745,Botir Toshpulatov,+998559336548,instagram,Ingliz tili,Yunusobod,Diyor Yusupov,2026-03-24,contacted
+L0746,Gulchehra Boltaova,+998338554978,telegram,Data Science,Yunusobod,Lola Rustamova,2026-03-30,contacted
+L0747,Nargiza Norqulova,+998994332946,walk_in,Backend,Yunusobod,Diyor Yusupov,2026-03-09,lost
+L0748,Sirojiddin Sobirov,+998779305119,referral,Data Science,Chilonzor,Diyor Islomov,2026-03-21,enrolled
+L0749,Gulnora Sobirova,+998994781120,referral,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-03-22,enrolled
+L0750,Ozoda Toshpulatova,+998941442365,instagram,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-03-06,contacted
+L0751,Mehriniso Ahmadova,+998907360736,facebook,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-03-30,enrolled
+L0752,Diyor Sharipov,+998975567639,referral,AI Asoslari,Sergeli,Farrux Jo'raov,2026-03-03,contacted
+L0753,Ozoda Boltaova,+998887437790,facebook,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-03-24,enrolled
+L0754,Iroda Mirzaova,+998331293891,telegram,AI Asoslari,Sergeli,Diyor Yusupov,2026-03-30,new
+L0755,Bekzod Islomov,+998952581362,referral,AI Asoslari,Yunusobod,Sanjar Xolmatov,2026-03-05,lost
+L0756,Jamshid Hasanov,+998935714630,referral,Grafik Dizayn,Sergeli,Lola Rustamova,2026-03-03,trial
+L0757,Ravshan Sharipov,+998946050957,instagram,Grafik Dizayn,Sergeli,Lola Rustamova,2026-03-28,contacted
+L0758,Diyor Ahmadov,+998881387096,instagram,Ingliz tili,Yunusobod,Lola Rustamova,2026-03-07,enrolled
+L0759,Otabek Jo'raov,+998551490891,instagram,AI Asoslari,Chilonzor,Akmal Yusufov,2026-03-31,enrolled
+L0760,Ozoda Sattorova,+998987963845,walk_in,SMM,Sergeli,Sanjar Xolmatov,2026-03-04,contacted
+L0761,Rustam Nishonov,+998957688362,facebook,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-03-17,lost
+L0762,Lola Tojiboyova,+998552071696,instagram,Frontend,Yunusobod,Diyor Yusupov,2026-03-17,lost
+L0763,Akmal Karimov,+998957463346,instagram,SMM,Sergeli,Diyor Yusupov,2026-03-17,lost
+L0764,Malika Yusupova,+998985597116,google,Ingliz tili,Sergeli,Diyor Islomov,2026-03-12,new
+L0765,Islom Ibrohimov,+998946397313,instagram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-03-29,new
+L0766,Sevara Sattorova,+998935103130,instagram,Frontend,Yunusobod,Sanjar Xolmatov,2026-03-28,new
+L0767,Farrux Hoshimov,+998939339288,hh,Frontend,Chilonzor,Farrux Jo'raov,2026-03-06,enrolled
+L0768,Umid Norqulov,+998882386897,telegram,Data Science,Yunusobod,Diyor Yusupov,2026-03-03,contacted
+L0769,Davron Xolmatov,+998984322283,telegram,Frontend,Chilonzor,Yulduz Xudoyberdiova,2026-03-16,lost
+L0770,Gulnora Sharipova,+998993761283,instagram,Data Science,Sergeli,Yulduz Xudoyberdiova,2026-03-12,lost
+L0771,Shoxrux Qodirov,+998918291887,hh,AI Asoslari,Sergeli,Diyor Islomov,2026-03-03,new
+L0772,Xurshid Sobirov,+998936508153,referral,Data Science,Chilonzor,Lola Rustamova,2026-03-14,enrolled
+L0773,Bobur Norqulov,+998952040209,google,SMM,Sergeli,Diyor Islomov,2026-03-13,contacted
+L0774,Sevara Sharipova,+998997577968,walk_in,SMM,Chilonzor,Diyor Islomov,2026-03-27,enrolled
+L0775,Shoxrux Abdurahmonov,+998336164026,walk_in,AI Asoslari,Sergeli,Akmal Yusufov,2026-03-04,contacted
+L0776,Yulduz Abdullaova,+998951705242,instagram,Backend,Sergeli,Diyor Islomov,2026-03-21,contacted
+L0777,Ravshan Yusupov,+998553434676,instagram,Ingliz tili,Yunusobod,Akmal Yusufov,2026-03-26,trial
+L0778,Sherzod Yusufov,+998886071457,hh,Grafik Dizayn,Chilonzor,Diyor Yusupov,2026-03-18,contacted
+L0779,Sabina Qodirova,+998977210227,instagram,Data Science,Yunusobod,Lola Rustamova,2026-03-25,lost
+L0780,Umid Saidov,+998772958845,google,Data Science,Sergeli,Diyor Islomov,2026-03-13,new
+L0781,Bobur Abdullaov,+998885054862,hh,Ingliz tili,Chilonzor,Akmal Yusufov,2026-04-25,lost
+L0782,Sanjar Saidov,+998915394102,hh,Backend,Sergeli,Sirojiddin Xolmatov,2026-04-13,contacted
+L0783,Farrux G'aniov,+998951853930,walk_in,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2026-04-19,enrolled
+L0784,Diyor Abdullaov,+998992888259,hh,AI Asoslari,Chilonzor,Akmal Yusufov,2026-04-11,enrolled
+L0785,Gulnora Nishonova,+998958702274,google,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-04-26,lost
+L0786,Bobur Rustamov,+998984831036,google,SMM,Chilonzor,Farrux Jo'raov,2026-04-05,trial
+L0787,Yulduz Xudoyberdiova,+998971196242,referral,Backend,Yunusobod,Sirojiddin Xolmatov,2026-04-11,contacted
+L0788,Nigora Nazarova,+998904244994,google,Frontend,Sergeli,Akmal Yusufov,2026-04-23,enrolled
+L0789,Ravshan Mirzaov,+998957209459,telegram,Backend,Chilonzor,Yulduz Xudoyberdiova,2026-04-18,contacted
+L0790,Kamola Abdullaova,+998916070824,referral,Grafik Dizayn,Yunusobod,Diyor Islomov,2026-04-13,contacted
+L0791,Zebo Sobirova,+998949603857,instagram,Data Science,Sergeli,Diyor Islomov,2026-04-21,trial
+L0792,Shoxrux Islomov,+998958910988,google,Frontend,Sergeli,Diyor Yusupov,2026-04-22,enrolled
+L0793,Sardor Yusupov,+998772562858,referral,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-04-30,trial
+L0794,Iroda Xudoyberdiova,+998558819284,hh,Frontend,Sergeli,Sanjar Xolmatov,2026-04-24,enrolled
+L0795,Farrux Ergashov,+998972783267,referral,SMM,Chilonzor,Diyor Yusupov,2026-04-28,contacted
+L0796,Malika Xolmatova,+998948677056,google,Backend,Sergeli,Diyor Islomov,2026-04-20,new
+L0797,Xurshid Islomov,+998556452639,walk_in,Ingliz tili,Yunusobod,Diyor Yusupov,2026-04-03,contacted
+L0798,Ravshan Sharipov,+998981931485,hh,Data Science,Sergeli,Lola Rustamova,2026-04-19,trial
+L0799,Sherzod Hoshimov,+998902772591,walk_in,Ingliz tili,Yunusobod,Diyor Yusupov,2026-04-01,lost
+L0800,Ravshan Islomov,+998997023259,instagram,AI Asoslari,Chilonzor,Farrux Jo'raov,2026-04-17,trial
+L0801,Nigora Yusupova,+998558955929,walk_in,Ingliz tili,Yunusobod,Sirojiddin Xolmatov,2026-04-12,enrolled
+L0802,Sardor Norqulov,+998943943782,facebook,Grafik Dizayn,Sergeli,Diyor Islomov,2026-04-01,trial
+L0803,Nigora Karimova,+998773154850,hh,Backend,Sergeli,Yulduz Xudoyberdiova,2026-04-08,lost
+L0804,Iroda Abdurahmonova,+998332440694,instagram,SMM,Sergeli,Sirojiddin Xolmatov,2026-04-12,enrolled
+L0805,Otabek Yusufov,+998958176709,instagram,Data Science,Yunusobod,Lola Rustamova,2026-04-24,lost
+L0806,Bekzod Nazarov,+998558170380,referral,Backend,Yunusobod,Akmal Yusufov,2026-04-06,contacted
+L0807,Iroda Yusufova,+998956787716,telegram,SMM,Yunusobod,Yulduz Xudoyberdiova,2026-04-20,new
+L0808,Rustam Sobirov,+998971271221,walk_in,Frontend,Sergeli,Sirojiddin Xolmatov,2026-04-27,trial
+L0809,Jamshid Sattorov,+998914622563,referral,Data Science,Chilonzor,Diyor Yusupov,2026-04-06,contacted
+L0810,Shuhrat Karimov,+998977005913,instagram,Data Science,Sergeli,Yulduz Xudoyberdiova,2026-04-06,lost
+L0811,Elyor Nishonov,+998984143424,google,Data Science,Yunusobod,Sirojiddin Xolmatov,2026-04-15,lost
+L0812,Sevara Rashidova,+998774888325,referral,Data Science,Yunusobod,Farrux Jo'raov,2026-04-09,trial
+L0813,Rayhona Abdurahmonova,+998902189286,facebook,Frontend,Yunusobod,Farrux Jo'raov,2026-04-28,enrolled
+L0814,Sardor Islomov,+998947544718,telegram,AI Asoslari,Sergeli,Farrux Jo'raov,2026-04-09,lost
+L0815,Jasur Yusupov,+998992418818,google,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2026-04-17,new
+L0816,Sitora Sattorova,+998911152983,referral,Backend,Yunusobod,Farrux Jo'raov,2026-04-15,contacted
+L0817,Nigora Tojiboyova,+998972657869,instagram,Ingliz tili,Chilonzor,Lola Rustamova,2026-04-22,lost
+L0818,Ozoda Abdurahmonova,+998941394260,referral,SMM,Chilonzor,Lola Rustamova,2026-04-24,lost
+L0819,Nilufar Rashidova,+998889614971,telegram,Data Science,Yunusobod,Diyor Yusupov,2026-04-09,new
+L0820,Umida Ergashova,+998905739690,walk_in,Frontend,Yunusobod,Diyor Yusupov,2026-04-11,contacted
+L0821,Anvar Xolmatov,+998773347296,instagram,Frontend,Chilonzor,Sirojiddin Xolmatov,2026-04-24,new
+L0822,Shirin Tursunova,+998956843594,google,Data Science,Chilonzor,Lola Rustamova,2026-04-23,lost
+L0823,Feruza Yoqubova,+998335638278,referral,SMM,Chilonzor,Yulduz Xudoyberdiova,2026-04-29,contacted
+L0824,Sabina Ibrohimova,+998938295981,hh,SMM,Sergeli,Yulduz Xudoyberdiova,2026-04-29,trial
+L0825,Zebo Tojiboyova,+998972854820,facebook,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-04-05,enrolled
+L0826,Feruza Nazarova,+998947294695,walk_in,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-04-03,new
+L0827,Kamola Jo'raova,+998889360462,walk_in,Grafik Dizayn,Yunusobod,Sanjar Xolmatov,2026-04-21,contacted
+L0828,Malika Mirzaova,+998979964402,telegram,Frontend,Chilonzor,Sirojiddin Xolmatov,2026-04-22,new
+L0829,Barno Tojiboyova,+998777425497,instagram,SMM,Chilonzor,Sanjar Xolmatov,2026-04-13,lost
+L0830,Shoxrux Jo'raov,+998974065145,instagram,AI Asoslari,Yunusobod,Diyor Islomov,2026-04-20,enrolled
+L0831,Sirojiddin Sharipov,+998945846360,hh,Grafik Dizayn,Sergeli,Lola Rustamova,2026-04-09,enrolled
+L0832,Yulduz Rustamova,+998987665215,facebook,Frontend,Yunusobod,Akmal Yusufov,2026-04-04,enrolled
+L0833,Abdulloh Rustamov,+998888031739,referral,Data Science,Chilonzor,Akmal Yusufov,2026-04-11,contacted
+L0834,Lola Qodirova,+998955021283,referral,AI Asoslari,Yunusobod,Diyor Islomov,2026-04-25,contacted
+L0835,Rustam Ibrohimov,+998949247476,referral,Backend,Sergeli,Farrux Jo'raov,2026-04-11,lost
+L0836,Farrux Hasanov,+998905219508,instagram,Backend,Chilonzor,Akmal Yusufov,2026-04-09,enrolled
+L0837,Zarina Toshpulatova,+998909090508,walk_in,Ingliz tili,Chilonzor,Sanjar Xolmatov,2026-04-14,enrolled
+L0838,Abdulloh Rashidov,+998986129207,instagram,SMM,Yunusobod,Farrux Jo'raov,2026-04-16,enrolled
+L0839,Nigora Sharipova,+998338634479,referral,Frontend,Yunusobod,Sirojiddin Xolmatov,2026-04-30,enrolled
+L0840,Sardor Umarov,+998335301400,referral,SMM,Chilonzor,Lola Rustamova,2026-04-19,trial
+L0841,Iroda Karimova,+998771532454,telegram,Frontend,Yunusobod,Akmal Yusufov,2026-04-15,contacted
+L0842,Islom Saidov,+998557212769,telegram,SMM,Sergeli,Sirojiddin Xolmatov,2026-04-06,contacted
+L0843,Islom Qodirov,+998331409881,telegram,SMM,Sergeli,Diyor Yusupov,2026-04-21,new
+L0844,Botir Ergashov,+998945154363,telegram,Ingliz tili,Chilonzor,Sanjar Xolmatov,2026-04-16,lost
+L0845,Ozoda Abdullaova,+998975787535,instagram,Backend,Chilonzor,Sanjar Xolmatov,2026-04-08,trial
+L0846,Mehriniso Umarova,+998946690874,hh,Backend,Sergeli,Akmal Yusufov,2026-04-01,lost
+L0847,Nodir Hasanov,+998949040381,facebook,Frontend,Chilonzor,Yulduz Xudoyberdiova,2026-04-01,contacted
+L0848,Bekzod Norqulov,+998779433798,referral,Frontend,Chilonzor,Akmal Yusufov,2026-04-04,trial
+L0849,Dilnoza Sharipova,+998991680935,telegram,Frontend,Chilonzor,Akmal Yusufov,2026-04-13,enrolled
+L0850,Malika Boltaova,+998908348566,instagram,Data Science,Sergeli,Lola Rustamova,2026-04-30,lost
+L0851,Ulug'bek Xudoyberdiov,+998884396525,instagram,Grafik Dizayn,Sergeli,Sanjar Xolmatov,2026-04-18,enrolled
+L0852,Shoxrux Jo'raov,+998779301812,walk_in,SMM,Chilonzor,Diyor Yusupov,2026-04-19,trial
+L0853,Gulchehra Boltaova,+998984640029,referral,Frontend,Sergeli,Yulduz Xudoyberdiova,2026-04-29,contacted
+L0854,Akmal Mirzaov,+998771149986,walk_in,Ingliz tili,Chilonzor,Yulduz Xudoyberdiova,2026-04-30,trial
+L0855,Ulug'bek G'aniov,+998907680096,hh,Data Science,Yunusobod,Diyor Islomov,2026-04-12,lost
+L0856,Bekzod Ibrohimov,+998332641091,walk_in,SMM,Yunusobod,Diyor Islomov,2026-04-13,lost
+L0857,Mehriniso Nazarova,+998884756023,instagram,Backend,Sergeli,Diyor Yusupov,2026-04-10,new
+L0858,Ravshan Abdurahmonov,+998986130862,facebook,Grafik Dizayn,Yunusobod,Diyor Yusupov,2026-04-28,new
+L0859,Sanjar Abdurahmonov,+998559543088,referral,AI Asoslari,Yunusobod,Yulduz Xudoyberdiova,2026-04-11,new
+L0860,Davron Jo'raov,+998337617555,instagram,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2026-04-01,lost
+L0861,Shuhrat Boltaov,+998338378041,instagram,Data Science,Yunusobod,Akmal Yusufov,2026-04-11,contacted
+L0862,Sirojiddin Ergashov,+998559945299,instagram,SMM,Yunusobod,Diyor Yusupov,2026-04-02,contacted
+L0863,Alisher Ahmadov,+998339416817,instagram,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-04-24,lost
+L0864,Nodir Ahmadov,+998985786903,instagram,Ingliz tili,Sergeli,Akmal Yusufov,2026-04-24,contacted
+L0865,Sardor Ibrohimov,+998943388298,google,Backend,Sergeli,Diyor Yusupov,2026-04-19,trial
+L0866,Mehriniso Saidova,+998975726031,instagram,SMM,Sergeli,Lola Rustamova,2026-04-30,lost
+L0867,Xurshid Islomov,+998954317608,instagram,Frontend,Yunusobod,Diyor Yusupov,2026-04-23,enrolled
+L0868,Farrux Abdullaov,+998993789180,walk_in,Data Science,Chilonzor,Yulduz Xudoyberdiova,2026-04-13,contacted
+L0869,Nilufar Ibrohimova,+998885972912,referral,Frontend,Yunusobod,Lola Rustamova,2026-04-08,contacted
+L0870,Lola Saidova,+998954051388,telegram,Grafik Dizayn,Yunusobod,Lola Rustamova,2026-04-16,contacted
+L0871,Islom Sattorov,+998551407566,referral,Backend,Sergeli,Lola Rustamova,2026-05-23,contacted
+L0872,Otabek Saidov,+998773309682,telegram,Frontend,Sergeli,Lola Rustamova,2026-05-24,trial
+L0873,Shoxrux Sattorov,+998886400264,instagram,SMM,Yunusobod,Lola Rustamova,2026-05-30,new
+L0874,Madina Rashidova,+998555774789,hh,Data Science,Chilonzor,Farrux Jo'raov,2026-05-14,contacted
+L0875,Jamshid Ibrohimov,+998555120579,walk_in,Grafik Dizayn,Sergeli,Sirojiddin Xolmatov,2026-05-08,trial
+L0876,Jamshid Hasanov,+998991045892,walk_in,Data Science,Yunusobod,Lola Rustamova,2026-05-25,trial
+L0877,Akmal Hasanov,+998884820380,facebook,Grafik Dizayn,Chilonzor,Diyor Yusupov,2026-05-25,lost
+L0878,Jamshid Tojiboyov,+998957617947,instagram,Ingliz tili,Sergeli,Diyor Islomov,2026-05-01,contacted
+L0879,Aziza Nishonova,+998914397224,google,Ingliz tili,Sergeli,Farrux Jo'raov,2026-05-15,new
+L0880,Zarina Umarova,+998883771418,telegram,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-05-02,new
+L0881,Gulchehra Boltaova,+998907869918,telegram,Data Science,Yunusobod,Akmal Yusufov,2026-05-14,contacted
+L0882,Umida Tursunova,+998339255367,referral,SMM,Sergeli,Sirojiddin Xolmatov,2026-05-07,contacted
+L0883,Aziza Rustamova,+998554711868,referral,Backend,Sergeli,Yulduz Xudoyberdiova,2026-05-12,trial
+L0884,Shoxrux Toshpulatov,+998949707091,walk_in,Backend,Sergeli,Diyor Islomov,2026-05-08,lost
+L0885,Sirojiddin Umarov,+998988029299,telegram,Data Science,Sergeli,Akmal Yusufov,2026-05-22,contacted
+L0886,Sabina Boltaova,+998336444274,referral,Backend,Yunusobod,Diyor Islomov,2026-05-01,new
+L0887,Nigora Norqulova,+998335101271,referral,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-05-01,enrolled
+L0888,Rayhona Jo'raova,+998939293614,instagram,SMM,Yunusobod,Lola Rustamova,2026-05-10,contacted
+L0889,Bobur Umarov,+998951811064,hh,Data Science,Yunusobod,Farrux Jo'raov,2026-05-18,lost
+L0890,Diyor Yoqubov,+998333799544,facebook,Data Science,Yunusobod,Diyor Islomov,2026-05-11,contacted
+L0891,Sanjar Toshpulatov,+998903489976,referral,Ingliz tili,Chilonzor,Farrux Jo'raov,2026-05-23,trial
+L0892,Jamshid Umarov,+998772670155,referral,Grafik Dizayn,Chilonzor,Diyor Islomov,2026-05-07,enrolled
+L0893,Shahnoza Xolmatova,+998338574296,walk_in,SMM,Yunusobod,Lola Rustamova,2026-05-25,contacted
+L0894,Yulduz Rashidova,+998337742967,instagram,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2026-05-02,new
+L0895,Aziza Yusupova,+998881389985,instagram,SMM,Chilonzor,Farrux Jo'raov,2026-05-27,enrolled
+L0896,Xurshid Yusupov,+998551344941,google,Ingliz tili,Chilonzor,Diyor Islomov,2026-05-17,new
+L0897,Sirojiddin Boltaov,+998911538210,telegram,SMM,Chilonzor,Diyor Islomov,2026-05-15,contacted
+L0898,Xurshid Rashidov,+998985127810,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-05-07,enrolled
+L0899,Bobur Saidov,+998931666384,google,Ingliz tili,Chilonzor,Diyor Islomov,2026-05-29,enrolled
+L0900,Umida Qodirova,+998995503777,instagram,Ingliz tili,Yunusobod,Diyor Yusupov,2026-05-12,enrolled
+L0901,Gulnora Islomova,+998889862825,instagram,Grafik Dizayn,Yunusobod,Farrux Jo'raov,2026-05-30,trial
+L0902,Rayhona Nishonova,+998775863410,google,Frontend,Chilonzor,Farrux Jo'raov,2026-05-28,lost
+L0903,Aziza Tojiboyova,+998886183272,walk_in,Frontend,Chilonzor,Diyor Islomov,2026-05-18,contacted
+L0904,Abdulloh Ergashov,+998338148639,referral,Data Science,Sergeli,Yulduz Xudoyberdiova,2026-05-06,trial
+L0905,Sardor Abdullaov,+998912932497,instagram,Frontend,Chilonzor,Yulduz Xudoyberdiova,2026-05-25,enrolled
+L0906,Nigora Rashidova,+998332889102,referral,AI Asoslari,Chilonzor,Diyor Islomov,2026-05-20,contacted
+L0907,Shirin Abdullaova,+998979138934,referral,Grafik Dizayn,Yunusobod,Diyor Islomov,2026-05-23,trial
+L0908,Aziza Tojiboyova,+998334386655,instagram,Data Science,Yunusobod,Yulduz Xudoyberdiova,2026-05-28,new
+L0909,Shahnoza Sattorova,+998947219963,hh,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-05-10,new
+L0910,Aziza Tojiboyova,+998914555965,referral,Frontend,Chilonzor,Sirojiddin Xolmatov,2026-05-26,trial
+L0911,Madina G'aniova,+998339095770,walk_in,AI Asoslari,Sergeli,Farrux Jo'raov,2026-05-16,new
+L0912,Zebo Nazarova,+998775076339,google,Ingliz tili,Yunusobod,Lola Rustamova,2026-05-28,trial
+L0913,Xurshid Sharipov,+998776995181,walk_in,Backend,Yunusobod,Lola Rustamova,2026-05-24,lost
+L0914,Ravshan Ibrohimov,+998902074263,instagram,Data Science,Yunusobod,Farrux Jo'raov,2026-05-30,new
+L0915,Shuhrat Xudoyberdiov,+998909079575,instagram,Data Science,Chilonzor,Lola Rustamova,2026-05-07,lost
+L0916,Jamshid Ergashov,+998554639654,referral,SMM,Chilonzor,Akmal Yusufov,2026-05-25,enrolled
+L0917,Dilnoza Islomova,+998931020327,instagram,AI Asoslari,Sergeli,Sirojiddin Xolmatov,2026-05-18,enrolled
+L0918,Iroda Ahmadova,+998936216522,google,Backend,Chilonzor,Farrux Jo'raov,2026-05-23,contacted
+L0919,Diyor Qodirov,+998777565760,google,Ingliz tili,Yunusobod,Yulduz Xudoyberdiova,2026-05-14,trial
+L0920,Jamshid Sobirov,+998945106794,facebook,Frontend,Sergeli,Farrux Jo'raov,2026-05-19,contacted
+L0921,Islom Tojiboyov,+998982533033,telegram,Grafik Dizayn,Sergeli,Akmal Yusufov,2026-05-02,new
+L0922,Sevara Umarova,+998333105147,referral,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-05-15,lost
+L0923,Umid Yusufov,+998557327499,google,Frontend,Yunusobod,Yulduz Xudoyberdiova,2026-05-28,enrolled
+L0924,Sitora Saidova,+998771881107,instagram,Grafik Dizayn,Chilonzor,Diyor Yusupov,2026-05-18,contacted
+L0925,Zebo Rustamova,+998902147473,telegram,SMM,Chilonzor,Diyor Islomov,2026-05-20,lost
+L0926,Jamshid Norqulov,+998934333303,google,AI Asoslari,Chilonzor,Farrux Jo'raov,2026-05-31,trial
+L0927,Rustam Norqulov,+998999901606,instagram,Grafik Dizayn,Yunusobod,Diyor Islomov,2026-05-24,contacted
+L0928,Dilnoza Xudoyberdiova,+998559021209,instagram,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-05-03,trial
+L0929,Sirojiddin Rashidov,+998913380918,google,AI Asoslari,Chilonzor,Yulduz Xudoyberdiova,2026-05-08,contacted
+L0930,Gulchehra Islomova,+998973025618,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-05-27,new
+L0931,Sevara Boltaova,+998971235144,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-05-15,enrolled
+L0932,Shahnoza Ahmadova,+998949166115,hh,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-05-19,enrolled
+L0933,Gulbahor Yoqubova,+998934574254,hh,Data Science,Yunusobod,Akmal Yusufov,2026-05-23,trial
+L0934,Feruza Sharipova,+998881366915,telegram,Data Science,Sergeli,Sanjar Xolmatov,2026-05-18,enrolled
+L0935,Ozoda Ahmadova,+998889125453,walk_in,Backend,Sergeli,Lola Rustamova,2026-05-07,trial
+L0936,Jamshid Rashidov,+998904934279,telegram,SMM,Chilonzor,Diyor Islomov,2026-05-09,trial
+L0937,Sanjar Yoqubov,+998556443420,referral,Ingliz tili,Chilonzor,Akmal Yusufov,2026-05-10,contacted
+L0938,Zarina Jo'raova,+998982981004,referral,AI Asoslari,Yunusobod,Akmal Yusufov,2026-05-07,lost
+L0939,Madina Hasanova,+998992932662,instagram,Backend,Yunusobod,Sanjar Xolmatov,2026-05-07,lost
+L0940,Islom Abdullaov,+998939268625,hh,Data Science,Sergeli,Sanjar Xolmatov,2026-05-13,trial
+L0941,Gulnora Qodirova,+998779682096,hh,Backend,Yunusobod,Sirojiddin Xolmatov,2026-05-18,contacted
+L0942,Shirin Umarova,+998993159978,referral,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2026-05-17,new
+L0943,Zafar Ibrohimov,+998931305455,telegram,Frontend,Sergeli,Akmal Yusufov,2026-05-27,enrolled
+L0944,Nodir Mirzaov,+998552704112,walk_in,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2026-05-12,trial
+L0945,Gulnora Ibrohimova,+998336622679,instagram,AI Asoslari,Yunusobod,Akmal Yusufov,2026-05-20,lost
+L0946,Shuhrat Hasanov,+998947318618,telegram,Grafik Dizayn,Sergeli,Diyor Islomov,2026-05-07,new
+L0947,Ravshan Ahmadov,+998949648425,telegram,Frontend,Sergeli,Lola Rustamova,2026-05-23,contacted
+L0948,Farrux Rashidov,+998907558097,referral,SMM,Chilonzor,Farrux Jo'raov,2026-05-21,enrolled
+L0949,Umida Sobirova,+998953951674,google,Backend,Chilonzor,Farrux Jo'raov,2026-05-25,contacted
+L0950,Sherzod Karimov,+998884922056,instagram,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-05-05,enrolled
+L0951,Ozoda Hoshimova,+998901992026,google,Data Science,Yunusobod,Diyor Yusupov,2026-05-20,enrolled
+L0952,Nilufar Yusupova,+998882594577,telegram,Ingliz tili,Chilonzor,Akmal Yusufov,2026-05-21,contacted
+L0953,Muhammadali Rashidov,+998974521424,instagram,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-05-12,contacted
+L0954,Aziza Rashidova,+998337772754,walk_in,Backend,Yunusobod,Sirojiddin Xolmatov,2026-05-05,enrolled
+L0955,Gulchehra Islomova,+998901751431,walk_in,Data Science,Sergeli,Akmal Yusufov,2026-05-21,trial
+L0956,Umida Norqulova,+998936946107,telegram,SMM,Sergeli,Farrux Jo'raov,2026-05-21,lost
+L0957,Diyor Nishonov,+998773402174,telegram,SMM,Yunusobod,Lola Rustamova,2026-05-12,lost
+L0958,Kamola Ibrohimova,+998971581218,telegram,Grafik Dizayn,Chilonzor,Diyor Yusupov,2026-05-24,lost
+L0959,Sherzod Qodirov,+998959234450,telegram,SMM,Chilonzor,Akmal Yusufov,2026-06-18,contacted
+L0960,Bobur Nishonov,+998905068384,telegram,Grafik Dizayn,Sergeli,Sanjar Xolmatov,2026-06-23,lost
+L0961,Botir Islomov,+998887343130,telegram,Ingliz tili,Chilonzor,Diyor Yusupov,2026-06-02,new
+L0962,Dilnoza Tursunova,+998334770996,telegram,Grafik Dizayn,Chilonzor,Akmal Yusufov,2026-06-14,enrolled
+L0963,Kamola Karimova,+998933774742,instagram,AI Asoslari,Yunusobod,Diyor Islomov,2026-06-25,contacted
+L0964,Kamola G'aniova,+998979735933,referral,Frontend,Sergeli,Yulduz Xudoyberdiova,2026-06-28,lost
+L0965,Barno Ergashova,+998777294317,referral,Grafik Dizayn,Sergeli,Lola Rustamova,2026-06-24,lost
+L0966,Xurshid Sharipov,+998907324389,instagram,Grafik Dizayn,Chilonzor,Sanjar Xolmatov,2026-06-15,contacted
+L0967,Zarina Qodirova,+998957601693,instagram,Backend,Yunusobod,Diyor Islomov,2026-06-09,new
+L0968,Nargiza Ergashova,+998983747208,instagram,Grafik Dizayn,Chilonzor,Yulduz Xudoyberdiova,2026-06-21,contacted
+L0969,Ulug'bek Hoshimov,+998338268322,instagram,AI Asoslari,Yunusobod,Sanjar Xolmatov,2026-06-01,lost
+L0970,Dilnoza Mirzaova,+998771219370,instagram,Backend,Sergeli,Akmal Yusufov,2026-06-24,enrolled
+L0971,Shoxrux Xudoyberdiov,+998779832575,instagram,Data Science,Sergeli,Diyor Yusupov,2026-06-15,contacted
+L0972,Ulug'bek Mirzaov,+998983456919,telegram,Backend,Chilonzor,Sanjar Xolmatov,2026-06-11,new
+L0973,Feruza Tojiboyova,+998974682262,telegram,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-06-17,enrolled
+L0974,Kamola Jo'raova,+998934053751,google,Data Science,Chilonzor,Diyor Yusupov,2026-06-17,new
+L0975,Jasur Umarov,+998914914580,telegram,Frontend,Sergeli,Farrux Jo'raov,2026-06-17,trial
+L0976,Diyora Nishonova,+998558847695,walk_in,Ingliz tili,Yunusobod,Diyor Yusupov,2026-06-02,trial
+L0977,Rustam Tojiboyov,+998339391725,walk_in,Data Science,Chilonzor,Diyor Islomov,2026-06-19,trial
+L0978,Mehriniso Sharipova,+998332268761,referral,AI Asoslari,Yunusobod,Diyor Islomov,2026-06-22,lost
+L0979,Xurshid Sharipov,+998888711400,telegram,Frontend,Chilonzor,Sirojiddin Xolmatov,2026-06-09,lost
+L0980,Nozima Ahmadova,+998882325991,referral,Data Science,Yunusobod,Lola Rustamova,2026-06-09,lost
+L0981,Akmal Saidov,+998931071078,instagram,AI Asoslari,Sergeli,Farrux Jo'raov,2026-06-17,lost
+L0982,Gulbahor Sattorova,+998974590933,google,SMM,Chilonzor,Sirojiddin Xolmatov,2026-06-20,enrolled
+L0983,Malika Yoqubova,+998974714793,facebook,SMM,Chilonzor,Sirojiddin Xolmatov,2026-06-22,contacted
+L0984,Botir Yoqubov,+998559879124,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-06-14,enrolled
+L0985,Gulchehra Rashidova,+998949569731,facebook,AI Asoslari,Yunusobod,Sanjar Xolmatov,2026-06-09,contacted
+L0986,Xurshid Xudoyberdiov,+998994192268,referral,SMM,Yunusobod,Diyor Yusupov,2026-06-17,lost
+L0987,Sanjar Ibrohimov,+998554247486,telegram,Backend,Sergeli,Lola Rustamova,2026-06-01,trial
+L0988,Bekzod Qodirov,+998935609705,telegram,SMM,Chilonzor,Diyor Islomov,2026-06-13,new
+L0989,Nargiza Rustamova,+998988442592,referral,Data Science,Sergeli,Sanjar Xolmatov,2026-06-25,new
+L0990,Nilufar Abdullaova,+998552044716,instagram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-06-26,lost
+L0991,Zafar Jo'raov,+998995740730,instagram,Backend,Sergeli,Yulduz Xudoyberdiova,2026-06-27,lost
+L0992,Malika Hasanova,+998558143144,referral,Backend,Yunusobod,Sanjar Xolmatov,2026-06-17,new
+L0993,Nodir Xolmatov,+998939516837,facebook,Data Science,Chilonzor,Diyor Islomov,2026-06-11,trial
+L0994,Umid Saidov,+998951087151,google,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-06-16,trial
+L0995,Yulduz Jo'raova,+998934291148,google,AI Asoslari,Yunusobod,Diyor Islomov,2026-06-30,new
+L0996,Elyor Xolmatov,+998339564316,instagram,SMM,Yunusobod,Sanjar Xolmatov,2026-06-05,lost
+L0997,Shuhrat Yusufov,+998907653116,instagram,SMM,Chilonzor,Sirojiddin Xolmatov,2026-06-13,contacted
+L0998,Farrux Rashidov,+998936145849,telegram,Frontend,Sergeli,Akmal Yusufov,2026-06-29,new
+L0999,Ravshan Nishonov,+998775959720,walk_in,SMM,Yunusobod,Diyor Islomov,2026-06-26,trial
+L1000,Muhammadali Saidov,+998332996119,instagram,SMM,Yunusobod,Sanjar Xolmatov,2026-06-19,enrolled
+L1001,Ozoda Hasanova,+998773742404,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-06-27,contacted
+L1002,Shoxrux Umarov,+998779254996,hh,AI Asoslari,Chilonzor,Lola Rustamova,2026-06-08,trial
+L1003,Umida Sobirova,+998984601859,google,Backend,Yunusobod,Sanjar Xolmatov,2026-06-11,lost
+L1004,Nodir Karimov,+998915094726,telegram,Grafik Dizayn,Chilonzor,Diyor Yusupov,2026-06-01,contacted
+L1005,Akmal Islomov,+998972261425,telegram,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-06-10,lost
+L1006,Nilufar Qodirova,+998774212042,instagram,AI Asoslari,Chilonzor,Lola Rustamova,2026-06-20,trial
+L1007,Nozima Mirzaova,+998904694473,referral,SMM,Chilonzor,Sirojiddin Xolmatov,2026-06-30,enrolled
+L1008,Xurshid Ahmadov,+998979696945,walk_in,Backend,Yunusobod,Diyor Islomov,2026-06-09,lost
+L1009,Otabek Nishonov,+998336785291,instagram,Grafik Dizayn,Chilonzor,Akmal Yusufov,2026-06-27,contacted
+L1010,Sanjar Tojiboyov,+998938846630,google,SMM,Chilonzor,Diyor Yusupov,2026-06-20,trial
+L1011,Sanjar Yoqubov,+998551443589,telegram,Grafik Dizayn,Sergeli,Diyor Islomov,2026-06-04,enrolled
+L1012,Rustam Yoqubov,+998984412416,referral,Frontend,Yunusobod,Yulduz Xudoyberdiova,2026-06-13,lost
+L1013,Sirojiddin Qodirov,+998905833695,instagram,Frontend,Chilonzor,Diyor Yusupov,2026-06-03,contacted
+L1014,Davron Ergashov,+998949721514,hh,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-06-30,new
+L1015,Davron Yoqubov,+998999538952,google,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-06-13,enrolled
+L1016,Otabek Umarov,+998971338048,telegram,AI Asoslari,Chilonzor,Diyor Islomov,2026-06-11,contacted
+L1017,Aziz Yusufov,+998771683089,referral,Data Science,Yunusobod,Farrux Jo'raov,2026-06-12,lost
+L1018,Zafar Rashidov,+998901339564,google,Data Science,Yunusobod,Sirojiddin Xolmatov,2026-06-21,trial
+L1019,Sardor G'aniov,+998937050461,walk_in,Grafik Dizayn,Sergeli,Sirojiddin Xolmatov,2026-06-12,enrolled
+L1020,Gulbahor Abdullaova,+998775042330,instagram,Backend,Yunusobod,Lola Rustamova,2026-06-05,enrolled
+L1021,Jasur Tojiboyov,+998555553919,telegram,Backend,Chilonzor,Sanjar Xolmatov,2026-06-24,new
+L1022,Yulduz Ergashova,+998915198497,instagram,Data Science,Chilonzor,Yulduz Xudoyberdiova,2026-06-02,enrolled
+L1023,Anvar Ergashov,+998334093039,telegram,Frontend,Yunusobod,Diyor Yusupov,2026-06-13,trial
+L1024,Nilufar Rustamova,+998956531626,instagram,SMM,Yunusobod,Lola Rustamova,2026-06-04,new
+L1025,Mehriniso Karimova,+998952755298,instagram,Frontend,Yunusobod,Akmal Yusufov,2026-06-03,new
+L1026,Anvar Tojiboyov,+998333638908,referral,SMM,Yunusobod,Akmal Yusufov,2026-06-02,lost
+L1027,Dilnoza Nazarova,+998884269143,instagram,Frontend,Yunusobod,Diyor Yusupov,2026-06-27,contacted
+L1028,Barno Rashidova,+998947788038,telegram,AI Asoslari,Chilonzor,Lola Rustamova,2026-06-12,trial
+L1029,Sitora Umarova,+998332531457,hh,Ingliz tili,Yunusobod,Sanjar Xolmatov,2026-06-24,new
+L1030,Aziza Karimova,+998558132337,hh,AI Asoslari,Yunusobod,Farrux Jo'raov,2026-06-13,enrolled
+L1031,Kamola Nazarova,+998773142281,instagram,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-06-25,lost
+L1032,Sabina Karimova,+998918325443,hh,Backend,Sergeli,Farrux Jo'raov,2026-06-12,contacted
+L1033,Alisher Norqulov,+998916085609,instagram,Ingliz tili,Chilonzor,Diyor Islomov,2026-06-23,enrolled
+L1034,Sirojiddin Rashidov,+998331599741,telegram,Backend,Chilonzor,Lola Rustamova,2026-06-30,enrolled
+L1035,Shahnoza Jo'raova,+998952413916,google,Frontend,Chilonzor,Farrux Jo'raov,2026-06-10,contacted
+L1036,Nodir Rashidov,+998994829207,walk_in,Data Science,Sergeli,Akmal Yusufov,2026-06-22,contacted
+L1037,Diyora Nishonova,+998986035416,referral,AI Asoslari,Yunusobod,Diyor Yusupov,2026-06-08,contacted
+L1038,Ulug'bek Rustamov,+998939558901,instagram,Backend,Sergeli,Sirojiddin Xolmatov,2026-06-19,new
+L1039,Gulbahor Karimova,+998908096719,facebook,Ingliz tili,Sergeli,Akmal Yusufov,2026-06-12,trial
+L1040,Akmal Karimov,+998886326661,telegram,Ingliz tili,Yunusobod,Lola Rustamova,2026-06-25,lost
+L1041,Sitora Hoshimova,+998904457709,telegram,SMM,Yunusobod,Lola Rustamova,2026-06-17,enrolled
+L1042,Shirin Yusupova,+998335698309,instagram,Ingliz tili,Sergeli,Akmal Yusufov,2026-06-23,lost
+L1043,Jamshid Rashidov,+998986112008,telegram,Data Science,Chilonzor,Diyor Yusupov,2026-06-01,trial
+L1044,Feruza Saidova,+998331166190,instagram,Backend,Yunusobod,Sirojiddin Xolmatov,2026-06-20,enrolled
+L1045,Malika Jo'raova,+998338284162,referral,SMM,Sergeli,Sirojiddin Xolmatov,2026-06-27,enrolled
+L1046,Sherzod Sattorov,+998917594909,referral,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-06-30,contacted
+L1047,Umida Sattorova,+998942861946,instagram,SMM,Yunusobod,Akmal Yusufov,2026-06-09,lost
+L1048,Jasur Ibrohimov,+998974584666,telegram,Frontend,Yunusobod,Farrux Jo'raov,2026-06-26,trial
+L1049,Gulnora Hasanova,+998941146476,walk_in,Data Science,Chilonzor,Lola Rustamova,2026-06-15,trial
+L1050,Sanjar Jo'raov,+998934087581,hh,AI Asoslari,Chilonzor,Akmal Yusufov,2026-07-10,lost
+L1051,Gulnora Abdurahmonova,+998552376654,instagram,Backend,Yunusobod,Lola Rustamova,2026-07-25,new
+L1052,Muhammadali Rashidov,+998337335293,instagram,SMM,Chilonzor,Farrux Jo'raov,2026-07-25,new
+L1053,Jamshid Abdullaov,+998883874929,instagram,Frontend,Chilonzor,Farrux Jo'raov,2026-07-17,contacted
+L1054,Nigora Yoqubova,+998887431687,telegram,Backend,Chilonzor,Lola Rustamova,2026-07-28,enrolled
+L1055,Ravshan Islomov,+998945506489,referral,SMM,Yunusobod,Lola Rustamova,2026-07-27,contacted
+L1056,Diyora Sharipova,+998932770741,walk_in,Ingliz tili,Yunusobod,Farrux Jo'raov,2026-07-14,contacted
+L1057,Zarina Islomova,+998334962709,telegram,Backend,Sergeli,Sanjar Xolmatov,2026-07-21,new
+L1058,Nigora Hasanova,+998998511697,instagram,Backend,Yunusobod,Akmal Yusufov,2026-07-30,contacted
+L1059,Umida Ergashova,+998771160282,telegram,Data Science,Sergeli,Sanjar Xolmatov,2026-07-20,lost
+L1060,Jasur Sattorov,+998558863186,hh,SMM,Sergeli,Yulduz Xudoyberdiova,2026-07-05,new
+L1061,Lola Rustamova,+998933656133,referral,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-07-29,trial
+L1062,Zebo Ergashova,+998337935531,instagram,Grafik Dizayn,Yunusobod,Diyor Yusupov,2026-07-31,trial
+L1063,Bekzod Boltaov,+998976016475,telegram,Backend,Chilonzor,Akmal Yusufov,2026-07-13,contacted
+L1064,Ozoda G'aniova,+998985279105,telegram,Ingliz tili,Sergeli,Lola Rustamova,2026-07-16,contacted
+L1065,Sirojiddin Rashidov,+998901284851,facebook,SMM,Sergeli,Diyor Islomov,2026-07-27,contacted
+L1066,Sabina Yoqubova,+998999488229,referral,SMM,Sergeli,Sanjar Xolmatov,2026-07-20,trial
+L1067,Jasur Yusupov,+998914479188,facebook,Ingliz tili,Chilonzor,Lola Rustamova,2026-07-16,lost
+L1068,Ulug'bek Tojiboyov,+998882090110,telegram,SMM,Chilonzor,Akmal Yusufov,2026-07-05,contacted
+L1069,Gulnora Xolmatova,+998905400676,instagram,Grafik Dizayn,Chilonzor,Lola Rustamova,2026-07-25,lost
+L1070,Diyora Hasanova,+998336907534,telegram,Frontend,Sergeli,Sanjar Xolmatov,2026-07-22,new
+L1071,Sevara Norqulova,+998918600872,referral,Frontend,Yunusobod,Diyor Yusupov,2026-07-03,contacted
+L1072,Kamola Sattorova,+998886474755,referral,Ingliz tili,Sergeli,Sanjar Xolmatov,2026-07-23,lost
+L1073,Malika Tojiboyova,+998881209002,instagram,Data Science,Yunusobod,Diyor Yusupov,2026-07-07,enrolled
+L1074,Zafar Yoqubov,+998971830717,facebook,Data Science,Chilonzor,Diyor Yusupov,2026-07-29,contacted
+L1075,Alisher Toshpulatov,+998932253792,telegram,Grafik Dizayn,Yunusobod,Yulduz Xudoyberdiova,2026-07-28,new
+L1076,Farrux Rashidov,+998955067157,telegram,Ingliz tili,Yunusobod,Yulduz Xudoyberdiova,2026-07-10,new
+L1077,Gulchehra Sobirova,+998948525963,google,AI Asoslari,Yunusobod,Sirojiddin Xolmatov,2026-07-12,lost
+L1078,Ravshan Yusufov,+998775977543,telegram,Ingliz tili,Chilonzor,Lola Rustamova,2026-07-31,new
+L1079,Bekzod Islomov,+998946365562,hh,Frontend,Yunusobod,Sanjar Xolmatov,2026-07-10,enrolled
+L1080,Nozima Nazarova,+998332749860,instagram,SMM,Yunusobod,Lola Rustamova,2026-07-07,contacted
+L1081,Ozoda Yoqubova,+998555200400,telegram,SMM,Chilonzor,Akmal Yusufov,2026-07-14,new
+L1082,Jasur Xudoyberdiov,+998946381062,referral,SMM,Sergeli,Farrux Jo'raov,2026-07-07,new
+L1083,Zebo Nazarova,+998883003610,instagram,SMM,Yunusobod,Lola Rustamova,2026-07-29,trial
+L1084,Jamshid Sattorov,+998884394835,referral,Data Science,Chilonzor,Farrux Jo'raov,2026-07-15,contacted
+L1085,Umida Nishonova,+998952813676,telegram,Data Science,Sergeli,Akmal Yusufov,2026-07-08,enrolled
+L1086,Aziz Nishonov,+998978126980,telegram,AI Asoslari,Yunusobod,Lola Rustamova,2026-07-12,lost
+L1087,Shuhrat Jo'raov,+998558660990,referral,Backend,Sergeli,Lola Rustamova,2026-07-05,trial
+L1088,Ravshan Abdurahmonov,+998887250439,referral,Backend,Yunusobod,Diyor Islomov,2026-07-28,contacted
+L1089,Nilufar Nishonova,+998904778378,referral,Frontend,Chilonzor,Farrux Jo'raov,2026-07-07,new
+L1090,Iroda G'aniova,+998949478210,telegram,Backend,Chilonzor,Akmal Yusufov,2026-07-22,trial
+L1091,Jamshid Yusupov,+998887462897,instagram,Backend,Yunusobod,Yulduz Xudoyberdiova,2026-07-22,enrolled
+L1092,Aziz Qodirov,+998957209679,google,AI Asoslari,Sergeli,Farrux Jo'raov,2026-07-12,new
+L1093,Gulnora Toshpulatova,+998943071375,telegram,Frontend,Chilonzor,Lola Rustamova,2026-07-02,trial
+L1094,Sabina Qodirova,+998972919174,referral,Data Science,Yunusobod,Yulduz Xudoyberdiova,2026-07-27,enrolled
+L1095,Bekzod Rustamov,+998957093887,instagram,Backend,Chilonzor,Farrux Jo'raov,2026-07-29,contacted
+L1096,Anvar Yusupov,+998976190095,instagram,SMM,Yunusobod,Farrux Jo'raov,2026-07-28,lost
+L1097,Sirojiddin Norqulov,+998937782698,google,AI Asoslari,Sergeli,Lola Rustamova,2026-07-20,trial
+L1098,Xurshid Jo'raov,+998972053630,referral,Data Science,Yunusobod,Diyor Islomov,2026-07-19,enrolled
+L1099,Shoxrux Saidov,+998943207552,telegram,SMM,Yunusobod,Farrux Jo'raov,2026-07-22,new
+L1100,Lola Abdullaova,+998951241760,walk_in,Frontend,Sergeli,Sanjar Xolmatov,2026-07-06,lost
+L1101,Farrux Nishonov,+998909509270,telegram,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2026-07-29,contacted
+L1102,Barno Hoshimova,+998889683105,walk_in,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-07-04,new
+L1103,Zarina Yoqubova,+998907186031,instagram,Ingliz tili,Sergeli,Akmal Yusufov,2026-07-05,contacted
+L1104,Gulbahor Sattorova,+998959362261,walk_in,Frontend,Sergeli,Diyor Yusupov,2026-07-31,enrolled
+L1105,Madina Abdullaova,+998954245905,hh,Frontend,Sergeli,Sanjar Xolmatov,2026-07-24,new
+L1106,Yulduz Xudoyberdiova,+998907858970,telegram,Backend,Chilonzor,Diyor Yusupov,2026-07-30,contacted
+L1107,Shoxrux Jo'raov,+998938457540,instagram,Frontend,Yunusobod,Diyor Yusupov,2026-07-15,contacted
+L1108,Elyor Ergashov,+998934222585,facebook,AI Asoslari,Chilonzor,Farrux Jo'raov,2026-07-22,enrolled
+L1109,Bobur Toshpulatov,+998337350417,walk_in,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-07-19,lost
+L1110,Aziza Abdurahmonova,+998773723582,instagram,Ingliz tili,Sergeli,Lola Rustamova,2026-07-23,trial
+L1111,Sitora Jo'raova,+998901405048,walk_in,Backend,Chilonzor,Farrux Jo'raov,2026-07-29,enrolled
+L1112,Umida Xolmatova,+998885022982,instagram,AI Asoslari,Chilonzor,Farrux Jo'raov,2026-07-10,lost
+L1113,Jasur Xudoyberdiov,+998884640552,instagram,Ingliz tili,Yunusobod,Yulduz Xudoyberdiova,2026-07-06,lost
+L1114,Jasur Xolmatov,+998915786671,instagram,Data Science,Sergeli,Akmal Yusufov,2026-07-27,enrolled
+L1115,Shahnoza Sobirova,+998774315652,instagram,SMM,Yunusobod,Farrux Jo'raov,2026-07-05,new
+L1116,Aziza Xudoyberdiova,+998886036000,referral,Data Science,Sergeli,Sirojiddin Xolmatov,2026-08-01,trial
+L1117,Ozoda Saidova,+998552545498,google,Data Science,Sergeli,Lola Rustamova,2026-08-21,contacted
+L1118,Jasur Nazarov,+998332288706,instagram,Backend,Chilonzor,Sanjar Xolmatov,2026-08-11,enrolled
+L1119,Bobur Ibrohimov,+998881535031,instagram,Ingliz tili,Yunusobod,Yulduz Xudoyberdiova,2026-08-31,trial
+L1120,Zebo Karimova,+998994377676,walk_in,Grafik Dizayn,Yunusobod,Farrux Jo'raov,2026-08-20,new
+L1121,Nozima Abdullaova,+998931484428,instagram,Grafik Dizayn,Sergeli,Diyor Islomov,2026-08-25,trial
+L1122,Akmal Karimov,+998953736488,hh,SMM,Sergeli,Yulduz Xudoyberdiova,2026-08-07,enrolled
+L1123,Mehriniso Islomova,+998337541961,hh,Backend,Chilonzor,Lola Rustamova,2026-08-02,trial
+L1124,Iroda Sobirova,+998907653294,telegram,Backend,Chilonzor,Sanjar Xolmatov,2026-08-31,enrolled
+L1125,Nilufar Sattorova,+998957319412,walk_in,Ingliz tili,Sergeli,Yulduz Xudoyberdiova,2026-08-18,enrolled
+L1126,Zarina Toshpulatova,+998332289797,referral,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-08-24,lost
+L1127,Gulnora Yoqubova,+998912548559,telegram,Data Science,Yunusobod,Akmal Yusufov,2026-08-18,contacted
+L1128,Anvar Nishonov,+998988814057,walk_in,Ingliz tili,Chilonzor,Sirojiddin Xolmatov,2026-08-16,lost
+L1129,Ulug'bek Hasanov,+998945975650,instagram,Backend,Sergeli,Sirojiddin Xolmatov,2026-08-31,enrolled
+L1130,Aziza Karimova,+998559600795,hh,Grafik Dizayn,Yunusobod,Sanjar Xolmatov,2026-08-21,trial
+L1131,Gulbahor Boltaova,+998946494449,referral,SMM,Chilonzor,Farrux Jo'raov,2026-08-14,trial
+L1132,Nigora Boltaova,+998951468523,google,Backend,Yunusobod,Lola Rustamova,2026-08-22,enrolled
+L1133,Lola Nishonova,+998995749553,google,Frontend,Chilonzor,Farrux Jo'raov,2026-08-25,trial
+L1134,Islom Abdullaov,+998999562614,instagram,SMM,Chilonzor,Farrux Jo'raov,2026-08-02,trial
+L1135,Shahnoza Abdurahmonova,+998332855382,referral,Grafik Dizayn,Yunusobod,Akmal Yusufov,2026-08-08,lost
+L1136,Shahnoza Xudoyberdiova,+998553459746,instagram,AI Asoslari,Chilonzor,Diyor Yusupov,2026-08-24,trial
+L1137,Zebo Abdullaova,+998977397857,telegram,Backend,Yunusobod,Sanjar Xolmatov,2026-08-06,enrolled
+L1138,Aziz Ergashov,+998883967771,walk_in,Backend,Yunusobod,Sanjar Xolmatov,2026-08-17,contacted
+L1139,Sabina Ergashova,+998902610798,referral,Data Science,Sergeli,Farrux Jo'raov,2026-08-03,new
+L1140,Bekzod Rustamov,+998914450122,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-08-28,new
+L1141,Sabina Xolmatova,+998987033283,instagram,Backend,Chilonzor,Lola Rustamova,2026-08-26,trial
+L1142,Shuhrat Nishonov,+998989000626,telegram,SMM,Sergeli,Sanjar Xolmatov,2026-08-03,contacted
+L1143,Umida Norqulova,+998916745688,walk_in,Ingliz tili,Chilonzor,Akmal Yusufov,2026-08-30,contacted
+L1144,Umid G'aniov,+998776422783,google,Data Science,Chilonzor,Akmal Yusufov,2026-08-20,trial
+L1145,Gulnora Rustamova,+998551691868,instagram,SMM,Sergeli,Farrux Jo'raov,2026-08-14,new
+L1146,Nozima Saidova,+998992956107,referral,Backend,Sergeli,Sanjar Xolmatov,2026-08-07,enrolled
+L1147,Lola Nishonova,+998911659188,referral,Backend,Yunusobod,Sirojiddin Xolmatov,2026-08-15,contacted
+L1148,Otabek Ibrohimov,+998888423307,telegram,Ingliz tili,Chilonzor,Diyor Islomov,2026-08-08,lost
+L1149,Ravshan Ahmadov,+998771286052,referral,Ingliz tili,Chilonzor,Akmal Yusufov,2026-08-29,lost
+L1150,Jasur Xudoyberdiov,+998551973805,referral,Backend,Chilonzor,Sanjar Xolmatov,2026-08-18,trial
+L1151,Zarina Yusufova,+998774193715,walk_in,Data Science,Chilonzor,Sirojiddin Xolmatov,2026-08-16,trial
+L1152,Shuhrat Hasanov,+998883495731,referral,AI Asoslari,Chilonzor,Diyor Yusupov,2026-08-22,new
+L1153,Zafar Boltaov,+998975725687,instagram,Ingliz tili,Sergeli,Sirojiddin Xolmatov,2026-08-02,enrolled
+L1154,Botir Ahmadov,+998911619188,telegram,Frontend,Chilonzor,Sanjar Xolmatov,2026-08-04,enrolled
+L1155,Iroda Umarova,+998932261563,instagram,AI Asoslari,Yunusobod,Lola Rustamova,2026-08-06,enrolled
+L1156,Farrux Umarov,+998553888764,referral,Frontend,Yunusobod,Yulduz Xudoyberdiova,2026-08-21,trial
+L1157,Madina Boltaova,+998331469729,referral,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2026-08-01,trial
+L1158,Zarina Xolmatova,+998333001461,instagram,Frontend,Yunusobod,Lola Rustamova,2026-08-22,new
+L1159,Malika Yoqubova,+998935752431,walk_in,Ingliz tili,Chilonzor,Lola Rustamova,2026-08-31,lost
+L1160,Alisher Abdullaov,+998999509996,referral,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-08-23,new
+L1161,Jamshid Xudoyberdiov,+998935763755,instagram,Backend,Sergeli,Akmal Yusufov,2026-08-26,enrolled
+L1162,Umida Tursunova,+998982395806,google,AI Asoslari,Chilonzor,Diyor Islomov,2026-08-13,contacted
+L1163,Shirin Ahmadova,+998973109764,instagram,Backend,Yunusobod,Sirojiddin Xolmatov,2026-08-21,enrolled
+L1164,Akmal Yusufov,+998331292703,hh,Backend,Yunusobod,Akmal Yusufov,2026-08-01,new
+L1165,Gulnora Boltaova,+998883022636,telegram,Backend,Sergeli,Farrux Jo'raov,2026-08-28,enrolled
+L1166,Rayhona Boltaova,+998937541014,referral,Data Science,Chilonzor,Yulduz Xudoyberdiova,2026-08-21,enrolled
+L1167,Nozima Jo'raova,+998553658539,hh,Backend,Chilonzor,Akmal Yusufov,2026-08-31,lost
+L1168,Aziza G'aniova,+998975576561,referral,AI Asoslari,Chilonzor,Sirojiddin Xolmatov,2026-08-28,new
+L1169,Zafar Sobirov,+998942467436,hh,Frontend,Sergeli,Farrux Jo'raov,2026-08-02,lost
+L1170,Sardor Boltaov,+998885865378,telegram,Data Science,Yunusobod,Lola Rustamova,2026-08-26,trial
+L1171,Rustam Rashidov,+998777666400,google,Ingliz tili,Sergeli,Farrux Jo'raov,2026-08-19,lost
+L1172,Shahnoza Xolmatova,+998885521975,referral,Ingliz tili,Chilonzor,Farrux Jo'raov,2026-08-29,lost
+L1173,Farrux Boltaov,+998974635968,telegram,AI Asoslari,Yunusobod,Diyor Islomov,2026-08-18,trial
+L1174,Shahnoza Jo'raova,+998919150027,walk_in,Frontend,Sergeli,Lola Rustamova,2026-08-01,lost
+L1175,Sardor Tursunov,+998902671337,hh,Grafik Dizayn,Chilonzor,Akmal Yusufov,2026-08-16,contacted
+L1176,Lola Xolmatova,+998971615889,instagram,Backend,Yunusobod,Yulduz Xudoyberdiova,2026-08-18,contacted
+L1177,Abdulloh Sattorov,+998983763229,instagram,Data Science,Sergeli,Diyor Yusupov,2026-08-19,lost
+L1178,Nodir Saidov,+998555509802,walk_in,Data Science,Yunusobod,Lola Rustamova,2026-08-29,enrolled
+L1179,Farrux Sattorov,+998991776096,walk_in,Frontend,Chilonzor,Yulduz Xudoyberdiova,2026-08-22,trial
+L1180,Anvar Yusupov,+998953771562,walk_in,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2026-08-23,lost
+L1181,Sirojiddin Sharipov,+998333685959,telegram,SMM,Sergeli,Farrux Jo'raov,2026-08-09,enrolled
+L1182,Sabina Ahmadova,+998904932714,referral,Backend,Chilonzor,Sanjar Xolmatov,2026-08-06,new
+L1183,Dilnoza Saidova,+998886790471,walk_in,Frontend,Sergeli,Sirojiddin Xolmatov,2026-08-09,contacted
+L1184,Ravshan Jo'raov,+998913159209,facebook,Ingliz tili,Yunusobod,Diyor Islomov,2026-08-21,lost
+L1185,Nodir Tursunov,+998887746099,referral,Ingliz tili,Chilonzor,Sanjar Xolmatov,2026-08-25,enrolled
+L1186,Sardor Karimov,+998339378262,telegram,Data Science,Chilonzor,Diyor Yusupov,2026-08-08,lost
+L1187,Shoxrux Boltaov,+998951765535,telegram,AI Asoslari,Sergeli,Yulduz Xudoyberdiova,2026-08-31,enrolled
+L1188,Muhammadali Ergashov,+998914698577,referral,Frontend,Sergeli,Sanjar Xolmatov,2026-08-23,trial
+L1189,Barno Ibrohimova,+998956947481,instagram,Frontend,Yunusobod,Yulduz Xudoyberdiova,2026-08-10,contacted
+L1190,Zebo Qodirova,+998937084768,instagram,Ingliz tili,Sergeli,Yulduz Xudoyberdiova,2026-08-20,contacted
+L1191,Jamshid Ergashov,+998936473875,instagram,Backend,Chilonzor,Akmal Yusufov,2026-08-09,new
+L1192,Sardor Xudoyberdiov,+998992592922,hh,Grafik Dizayn,Chilonzor,Sirojiddin Xolmatov,2026-08-02,trial
+L1193,Sevara Yusupova,+998904966899,walk_in,SMM,Chilonzor,Farrux Jo'raov,2026-08-07,enrolled
+L1194,Nilufar Yoqubova,+998884076294,instagram,Backend,Sergeli,Yulduz Xudoyberdiova,2026-08-12,enrolled
+L1195,Sirojiddin Tojiboyov,+998889208411,referral,Grafik Dizayn,Yunusobod,Sirojiddin Xolmatov,2026-08-19,lost
+L1196,Ozoda Mirzaova,+998978568739,referral,AI Asoslari,Chilonzor,Lola Rustamova,2026-08-12,new
+L1197,Umid Boltaov,+998908645974,instagram,Grafik Dizayn,Chilonzor,Farrux Jo'raov,2026-08-06,enrolled
+L1198,Umida Tursunova,+998998311055,instagram,Backend,Sergeli,Sanjar Xolmatov,2026-08-15,lost
+L1199,Shuhrat Tojiboyov,+998974508376,telegram,Frontend,Chilonzor,Lola Rustamova,2026-08-17,trial
+L1200,Nigora G'aniova,+998915253761,instagram,Frontend,Sergeli,Sanjar Xolmatov,2026-08-08,enrolled

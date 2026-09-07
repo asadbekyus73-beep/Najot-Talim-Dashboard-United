@@ -1,0 +1,31 @@
+group_id,name,course,teacher_id,branch,schedule,capacity,start_date,status
+G001,FE-YUN-01,Frontend,T001,Yunusobod,standard,16,2026-02-21,finished
+G002,BE-YUN-01,Backend,T009,Yunusobod,standard,17,2025-10-01,finished
+G003,DS-SER-01,Data Science,T010,Sergeli,standard,14,2026-06-29,active
+G004,AI-YUN-01,AI Asoslari,T004,Yunusobod,standard,16,2026-01-01,finished
+G005,GD-YUN-01,Grafik Dizayn,T012,Yunusobod,standard,15,2026-06-03,active
+G006,SMM-YUN-01,SMM,T013,Yunusobod,standard,10,2026-06-14,active
+G007,ENG-YUN-01,Ingliz tili,T014,Yunusobod,standard,17,2026-05-30,active
+G008,FE-CHIL-01,Frontend,T015,Chilonzor,standard,12,2025-10-21,finished
+G009,BE-YUN-02,Backend,T009,Yunusobod,standard,15,2026-06-28,active
+G010,DS-YUN-01,Data Science,T003,Yunusobod,bootcamp,10,2025-11-27,finished
+G011,AI-CHIL-01,AI Asoslari,T011,Chilonzor,standard,11,2026-04-14,active
+G012,GD-SER-01,Grafik Dizayn,T005,Sergeli,standard,14,2026-06-07,active
+G013,SMM-CHIL-01,SMM,T013,Chilonzor,standard,13,2026-05-22,active
+G014,ENG-SER-01,Ingliz tili,T007,Sergeli,standard,18,2026-08-23,forming
+G015,FE-YUN-02,Frontend,T001,Yunusobod,standard,17,2026-09-11,forming
+G016,BE-CHIL-01,Backend,T002,Chilonzor,standard,10,2026-02-02,finished
+G017,DS-YUN-02,Data Science,T010,Yunusobod,standard,12,2026-03-14,finished
+G018,AI-SER-01,AI Asoslari,T004,Sergeli,standard,16,2026-09-07,forming
+G019,GD-YUN-02,Grafik Dizayn,T005,Yunusobod,standard,15,2026-07-06,active
+G020,SMM-CHIL-02,SMM,T013,Chilonzor,standard,10,2026-06-27,active
+G021,ENG-CHIL-01,Ingliz tili,T014,Chilonzor,standard,10,2025-12-16,finished
+G022,FE-CHIL-02,Frontend,T015,Chilonzor,standard,15,2026-09-08,forming
+G023,BE-YUN-03,Backend,T002,Yunusobod,standard,18,2025-11-14,finished
+G024,DS-YUN-03,Data Science,T003,Yunusobod,standard,14,2025-12-13,finished
+G025,AI-SER-02,AI Asoslari,T011,Sergeli,bootcamp,14,2026-06-06,active
+G026,GD-SER-02,Grafik Dizayn,T012,Sergeli,standard,13,2026-05-07,active
+G027,SMM-CHIL-03,SMM,T013,Chilonzor,bootcamp,11,2026-08-21,forming
+G028,ENG-CHIL-02,Ingliz tili,T007,Chilonzor,standard,12,2026-06-14,active
+G029,FE-CHIL-03,Frontend,T001,Chilonzor,standard,10,2026-06-28,active
+G030,BE-YUN-04,Backend,T002,Yunusobod,standard,14,2026-03-16,finished
