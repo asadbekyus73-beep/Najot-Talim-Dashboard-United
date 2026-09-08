@@ -8,6 +8,7 @@ To'liq loyihalashtirish hujjatlari `docs/` papkasida:
 - `docs/03-TZ-QORALAMA.md` — texnik topshiriq
 - `docs/04-SUPABASE-OCHISH.md` — Supabase loyihasini ochish qadamlari
 - `docs/05-QARORLAR.md` — qabul qilingan yakuniy qarorlar
+- `docs/06-QONUN-QOIDALAR.md` — tizimdan foydalanish reglamenti
 
 ## Texnologiyalar
 
